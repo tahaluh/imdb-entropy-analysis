@@ -10,10 +10,22 @@ No Linux:
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-cp .env.example .env
 ```
 
-## 2) Estrutura atual
+## 2) Pipeline de análise
+
+O projeto segue 8 etapas principais:
+
+1. **01_collect_imdb.py** – Coleta dados do IMDb (filmes, ratings, votos)
+2. **02_plot_movies.py** – Visualizações exploratórias dos filmes
+3. **03_collect_subtitles.py** – Placeholder para coleta de legendas (Kaggle dataset usado)
+4. **04_merge_subtitles_with_movies.py** – Merge IMDb + legendas brutas
+5. **05_plot_movies_with_subtitles.py** – Visualizações dos dados combinados
+6. **06_normalize_subtitles.py** – Limpeza de texto e normalização
+7. **07_filter_subtitles.py** – Filtro por tamanho de legenda (500-6000 linhas)
+8. **08_extract_information_features.py** – **Extração de entropia e compressão** ← núcleo do trabalho
+
+## 3) Estrutura atual
 
 - `01_collect_imdb.py`: coleta os datasets publicos do IMDb, faz limpeza e salva uma base inicial de filmes.
 - `.env.example`: variaveis de configuracao do pipeline.
@@ -54,16 +66,40 @@ Saida esperada:
 
 ## 4) Dados coletados (status atual)
 
-- Total de filmes IMDb (apos filtros): **10060**
-- IMDb IDs com legenda no dataset: **4666**
-- Filmes combinados (IMDb + legendas): **1368**
+| Etapa | Output | Registros | Descrição |
+|-------|--------|-----------|----------|
+| 01 | `movies.csv` | 10.060 | Filmes IMDb brutos (≥10k votos, ano≥1990) |
+| 04 | `movies_with_subtitle_stats.csv` | 1.368 | Merge IMDb + legendas (merge inner) |
+| 06 | `movies_with_subtitles.csv` | 1.368 | Legendas normalizadas + features de texto |
+| 07 | `movies_filtered.csv` | **1.304** | **Dataset final com 500-6000 linhas de legenda** |
+| 08 | `movies_information_features.csv` | **1.304** | **Features de entropia + compressão** |
 
-Dataset de legendas:
+### Dataset de legendas
 - Fonte: [Kaggle - Movie Subtitle Dataset](https://www.kaggle.com/datasets/adiamaan/movie-subtitle-dataset)
-- Arquivo: `movies_subtitles.csv` (start_time, end_time, text, imdb_id)
-- Armazenamento: `data/raw/subtitles/movies_subtitles.csv`
+- Arquivo: `movies_subtitles.csv` (4.8GB)
+- Colunas: `start_time`, `end_time`, `text`, `imdb_id`
 
-## 5) Proximo passo sugerido
+## 5) Features calculadas no arquivo 08
 
-Extrair metricas de compressa/entropia/complexidade das legendas (juntando com o dataset combinado em `movies_with_subtitle_stats.csv`) e correlacionar com ratings IMDb para validar a hipotese do trabalho.
+O script `08_extract_information_features.py` calcula as métricas principais do trabalho:
+
+**Entropia (bits/símbolo):**
+- `char_entropy` – Entropia de Shannon por caractere individual
+- `bigram_entropy` – Entropia de pares de caracteres
+- `trigram_entropy` – Entropia de trios de caracteres
+- `word_entropy` – Entropia baseada em palavras/tokens
+
+**Compressão (razões e economia):**
+- `gzip_ratio`, `bz2_ratio`, `lzma_ratio` – Tamanho comprimido / original
+- `gzip_saving`, `bz2_saving`, `lzma_saving` – Economia percentual (1 - ratio)
+- `gzip_bits_per_byte`, `bz2_bits_per_byte`, `lzma_bits_per_byte` – Bits médios por byte após compressão
+
+## 6) Próximos passos sugeridos
+
+Análise de correlação entre as features de entropia/compressão e os ratings IMDb:
+- Pearson correlation
+- Spearman correlation
+- Regressão linear/não-linear
+- Visualizações (scatter plots, heat maps)
+- Relatório final
 # imdb-entropy-analysis
