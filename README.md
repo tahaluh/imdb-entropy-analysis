@@ -1,125 +1,155 @@
-# Projeto Final - PDI
+# Relacao Entre Entropia de Legendas e Nota IMDb
 
-Objetivo: investigar a relacao entre caracteristicas informacionais de legendas (entropia, compressao e metadados de texto) e nota no IMDb.
+## Resumo
 
-## 1) Ambiente
+Este projeto investiga se metricas informacionais extraidas de legendas de filmes
+(entropia, compressao e estatisticas de texto) possuem relacao com as notas do IMDb.
 
-No Linux:
+Pipeline implementado do script 01 ao 12, com coleta, limpeza, filtragem,
+extracao de features, analise estatistica e modelagem preditiva.
 
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
+## Objetivo
 
-## 2) Fonte dos dados
+Objetivo principal:
+
+- testar se a estrutura informacional das legendas explica variacao da nota IMDb.
+
+Pergunta de pesquisa:
+
+- existe sinal estatistico entre entropia/compressao de legenda e rating?
+
+## Fontes de Dados
 
 1. IMDb Datasets
-- https://datasets.imdbws.com/
-- Arquivos usados: `title.basics.tsv.gz`, `title.ratings.tsv.gz`
+- URL: https://datasets.imdbws.com/
+- Arquivos: title.basics.tsv.gz, title.ratings.tsv.gz
 
 2. Kaggle Movie Subtitle Dataset
-- https://www.kaggle.com/datasets/adiamaan/movie-subtitle-dataset
-- Arquivo usado: `movies_subtitles.csv`
-- Colunas base: `start_time`, `end_time`, `text`, `imdb_id`
+- URL: https://www.kaggle.com/datasets/adiamaan/movie-subtitle-dataset
+- Arquivo: movies_subtitles.csv
+- Colunas base: start_time, end_time, text, imdb_id
 
-## 3) Pipeline implementado (01 a 12)
+## Pipeline Executado
 
-1. `01_collect_imdb.py`
-- Coleta e filtra filmes do IMDb.
+1. 01_collect_imdb.py
+- coleta e filtra filmes do IMDb.
 
-2. `02_plot_movies.py`
-- Graficos exploratorios do dataset de filmes.
+2. 02_plot_movies.py
+- analise exploratoria do dataset de filmes.
 
-3. `03_collect_subtitles.py`
-- Estrutura para coleta de legendas por API (atual: dataset Kaggle ja integrado no fluxo).
+3. 03_collect_subtitles.py
+- estrutura para coleta por API (na pratica, fluxo seguiu com dataset Kaggle).
 
-4. `04_merge_subtitles_with_movies.py`
-- Agrega legenda por `imdb_id` e junta com `movies.csv`.
+4. 04_merge_subtitles_with_movies.py
+- agrega legendas por imdb_id e junta com metadados de filmes.
 
-5. `05_plot_movies_with_subtitles.py`
-- Graficos para o dataset combinado com legendas.
+5. 05_plot_movies_with_subtitles.py
+- analise exploratoria para conjunto com legendas.
 
-6. `06_normalize_subtitles.py`
-- Normaliza texto de legendas e gera features textuais basicas.
+6. 06_normalize_subtitles.py
+- limpeza e normalizacao de texto das legendas.
 
-7. `07_filter_subtitles.py`
-- Filtro de qualidade/tamanho: `500 <= segment_count <= 6000`.
+7. 07_filter_subtitles.py
+- filtro de qualidade por tamanho da legenda:
+- 500 <= segment_count <= 6000.
 
-8. `08_extract_information_features.py`
-- Extrai entropia e metricas de compressao (core do trabalho).
+8. 08_extract_information_features.py
+- extracao de features informacionais (entropia e compressao).
 
-9. `09_analysis.py`
-- Correlacoes, graficos e resumos exploratorios.
+9. 09_analysis.py
+- correlacoes, scatter plots e resumos.
 
-10. `10_linear_regression.py`
-- Regressao linear simples para prever `rating`.
+10. 10_linear_regression.py
+- baseline com regressao linear simples.
 
-11. `11_model_comparison_cv.py`
-- Comparacao de modelos com validacao cruzada (inclui XGBoost quando instalado).
+11. 11_model_comparison_cv.py
+- benchmark de modelos com validacao cruzada.
 
-12. `12_feature_expansion.py`
-- Expansao de features e benchmark de modelos em dois cenarios:
-  - com metadados adicionais (ex.: genero/votos)
-  - somente informacionais/textuais
+12. 12_feature_expansion.py
+- expansao de features e comparacao de cenarios.
 
-## 4) Tamanho dos datasets por etapa
+## Tamanho dos Conjuntos
 
-| Etapa | Output | Registros |
+| Etapa | Arquivo | Linhas |
 |---|---|---:|
-| 01 | `data/processed/movies.csv` | 10060 |
-| 04 | `data/processed/movies_with_subtitle_stats.csv` | 1368 |
-| 06 | `data/processed/movies_with_subtitles.csv` | 1368 |
-| 07 | `data/processed/movies_filtered.csv` | 1304 |
-| 08 | `data/processed/movies_information_features.csv` | 1304 |
+| 01 | data/processed/movies.csv | 10060 |
+| 04 | data/processed/movies_with_subtitle_stats.csv | 1368 |
+| 06 | data/processed/movies_with_subtitles.csv | 1368 |
+| 07 | data/processed/movies_filtered.csv | 1304 |
+| 08 | data/processed/movies_information_features.csv | 1304 |
 
-## 5) Features informacionais (etapa 08)
+## Features Utilizadas
 
 Entropia:
-- `char_entropy`
-- `bigram_entropy`
-- `trigram_entropy`
-- `word_entropy`
+
+- char_entropy
+- bigram_entropy
+- trigram_entropy
+- word_entropy
 
 Compressao:
-- `gzip_ratio`, `bz2_ratio`, `lzma_ratio`
-- `gzip_saving`, `bz2_saving`, `lzma_saving`
-- `gzip_bits_per_byte`, `bz2_bits_per_byte`, `lzma_bits_per_byte`
 
-Metadados textuais de apoio:
-- `segment_count`, `clean_text_words`, `unique_words`, `clean_text_length`, `avg_word_length`, `avg_words_per_segment`
+- gzip_ratio, bz2_ratio, lzma_ratio
+- gzip_saving, bz2_saving, lzma_saving
+- gzip_bits_per_byte, bz2_bits_per_byte, lzma_bits_per_byte
 
-## 6) Principais resultados
+Texto e estrutura de legenda:
 
-1. Sinal informacional isolado (entropia/compressao/palavras)
-- Correlacoes com `rating` fracas (ordem de ~0.02 a ~0.12 em valor absoluto na maioria dos casos).
-- Modelagem com apenas features informacionais/textuais: desempenho baixo (`R2` proximo de 0).
+- segment_count
+- clean_text_words
+- unique_words
+- clean_text_length
+- avg_word_length
+- avg_words_per_segment
 
-2. Cenario com features ampliadas (12 com metadados extras)
-- Melhor modelo: XGBoost
-- `R2` aproximado: 0.40
-- Isso indica ganho preditivo relevante quando contexto adicional e incluído.
+## Resultados Principais
 
-3. Interpretacao objetiva
-- As features informacionais de legenda possuem sinal, mas fraco quando analisadas sozinhas.
-- A nota IMDb depende de fatores adicionais alem da estrutura informacional do texto da legenda.
+1. Cenario somente informacional/textual
+- correlacoes com rating geralmente fracas (ordem baixa, prox. de zero).
+- modelos com essas variaveis isoladas ficaram com R2 muito baixo.
 
-## 7) Conclusao para o relatorio
+2. Cenario com features ampliadas (metadados adicionais)
+- melhor desempenho observado com XGBoost.
+- R2 em torno de 0.40 no melhor cenario combinado.
 
-Conclusao principal: neste recorte de dados, entropia/compressao de legendas nao explicam sozinhas a variacao de nota IMDb com alta forca, mas contribuem como parte de um conjunto maior de variaveis.
+3. Interpretacao
+- entropia e compressao possuem sinal, mas fraco de forma isolada.
+- nota IMDb parece depender tambem de fatores nao textuais.
 
-Conclusao metodologica: a hipotese de relacao existe em baixa magnitude no cenario univariado/simples e melhora em modelos multivariados com contexto adicional.
+## Conclusao
 
-## 8) Como reproduzir rapidamente
+Conclusao tecnica:
 
-```bash
-python3 01_collect_imdb.py
-python3 04_merge_subtitles_with_movies.py
-python3 06_normalize_subtitles.py
-python3 07_filter_subtitles.py
-python3 08_extract_information_features.py
-python3 09_analysis.py
-python3 10_linear_regression.py
-python3 11_model_comparison_cv.py
-python3 12_feature_expansion.py
-```
+- as metricas informacionais de legenda nao explicam sozinhas, com alta forca,
+  a variacao de rating IMDb neste recorte.
+- em conjunto com variaveis adicionais, o desempenho melhora substancialmente.
+
+Conclusao de pesquisa:
+
+- a hipotese de relacao existe em baixa magnitude no cenario puro de texto,
+  e se fortalece em modelos multivariados com mais contexto.
+
+## Reproducao
+
+Executar em ordem:
+
+1. python3 01_collect_imdb.py
+2. python3 04_merge_subtitles_with_movies.py
+3. python3 06_normalize_subtitles.py
+4. python3 07_filter_subtitles.py
+5. python3 08_extract_information_features.py
+6. python3 09_analysis.py
+7. python3 10_linear_regression.py
+8. python3 11_model_comparison_cv.py
+9. python3 12_feature_expansion.py
+
+## Proxima Etapa: Relatorio
+
+Sugestao de secoes do relatorio final:
+
+1. Introducao e motivacao
+2. Base teorica (entropia, compressao, correlacao)
+3. Metodologia e pipeline
+4. Resultados experimentais
+5. Discussao e limitacoes
+6. Conclusao e trabalhos futuros
