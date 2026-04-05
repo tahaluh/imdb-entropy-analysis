@@ -1,0 +1,5 @@
+model,rows_used,features,cv_folds,r2_mean,mae_mean,rmse_mean
+linear_regression,1304,"char_entropy,gzip_ratio,clean_text_words",5,-0.0003031893857748491,0.7297034446903549,0.9231548363690452
+gradient_boosting,1304,"char_entropy,gzip_ratio,clean_text_words",5,-0.07947946067906701,0.7587072883404972,0.9583848610537351
+random_forest,1304,"char_entropy,gzip_ratio,clean_text_words",5,-0.14559274550482862,0.7837355076789432,0.9871817912390222
+xgboost,1304,"char_entropy,gzip_ratio,clean_text_words",5,-0.1775585328752976,0.7932214564591286,1.001475914844056

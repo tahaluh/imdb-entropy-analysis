@@ -1,67 +1,65 @@
-# Pipeline proposto por arquivos
+# Pipeline por Arquivo
 
-Este diretorio organiza as etapas da pesquisa sobre a relacao entre caracteristicas de legendas e nota no IMDb.
+Este diretorio documenta as etapas implementadas da pesquisa sobre entropia/compressao de legendas e nota IMDb.
 
-## Arquivos e etapas
+## Etapas implementadas (01-12)
 
-1. `01_collect_imdb.py` (implementado)
-   - Coleta e prepara base de filmes + notas do IMDb.
+1. `01_collect_imdb.py`
+- Coleta e filtra filmes do IMDb.
 
-2. `02_plot_movies.py` (implementado)
-   - Visualizacoes do dataset de filmes (distribuicao de notas, por ano, etc).
+2. `02_plot_movies.py`
+- EDA de filmes sem legenda.
 
-3. `03_collect_subtitles.py` (implementado)
-   - Placeholder para coleta de legendas via API OpenSubtitles.
+3. `03_collect_subtitles.py`
+- Estrutura para coleta por API (dataset Kaggle usado na pratica).
 
-4. `04_merge_subtitles_with_movies.py` (implementado)
-   - Junta movies.csv com metricas basicas de legendas (total de segmentos, duracao, etc).
+4. `04_merge_subtitles_with_movies.py`
+- Agrega e junta legendas com filmes IMDb.
 
-5. `05_plot_movies_with_subtitles.py` (implementado)
-   - Visualizacoes dos dados combinados (filmes + legendas).
+5. `05_plot_movies_with_subtitles.py`
+- EDA do dataset com legenda.
 
-6. `06_normalize_subtitles.py` (implementado)
-   - Normaliza e limpa texto das legendas (lowercasing, tags, pontuacao, etc).
-   - Calcula features de texto (comprimento, palavras unicas, riqueza vocabular).
-   - Gera `movies_with_subtitles.csv` com todos os dados combinados.
+6. `06_normalize_subtitles.py`
+- Normalizacao textual e features basicas.
 
-7. `07_filter_subtitles.py` (implementado)
-   - Filtra legendas por quantidade de linhas (500 <= segment_count <= 6000).
-   - Remove outliers e legendas muito curtas/longas.
-   - Saida final: `movies_filtered.csv` com 1304 filmes prontos para analise.
+7. `07_filter_subtitles.py`
+- Filtro: `500 <= segment_count <= 6000`.
 
-8. `08_extract_information_features.py` (implementado) **← NÚCLEO DO TRABALHO**
-   - Calcula **entropia de Shannon** (caractere, bigrama, trigrama, palavra).
-   - Calcula **compressao** (gzip, bz2, lzma): ratios, economia, bits/byte.
-   - Saida: `movies_information_features.csv` - dados prontos para correlacao.
+8. `08_extract_information_features.py`
+- Entropia + compressao (core informacional).
 
-## Status atual da coleta de dados
+9. `09_analysis.py`
+- Correlacoes, scatter plots e sumarios por grupo.
 
-| Metrica | Valor |
-|---------|-------|
-| Total de filmes IMDb | 10060 |
-| IMDb IDs em movies_subtitles.csv | 4666 |
-| Filmes com legenda coletados | 1368 |
-| Filmes apos filtro (500-6000 linhas) | **1304** |
+10. `10_linear_regression.py`
+- Baseline de regressao linear.
 
-## Fontes de dados
+11. `11_model_comparison_cv.py`
+- Benchmark com validacao cruzada.
 
-1. **IMDb Datasets**
-   - URL: https://datasets.imdbws.com/
-   - Arquivos: title.basics.tsv.gz, title.ratings.tsv.gz
+12. `12_feature_expansion.py`
+- Expansao de features e comparacao de cenarios.
 
-2. **Movie Subtitle Dataset (Kaggle)**
-   - URL: https://www.kaggle.com/datasets/adiamaan/movie-subtitle-dataset
-   - Arquivo: movies_subtitles.csv (4.8GB)
-   - Colunas: start_time, end_time, text, imdb_id
+## Estado atual dos dados
 
-## Observacao
+| Dataset | Linhas |
+|---|---:|
+| `movies.csv` | 10060 |
+| `movies_with_subtitle_stats.csv` | 1368 |
+| `movies_with_subtitles.csv` | 1368 |
+| `movies_filtered.csv` | 1304 |
+| `movies_information_features.csv` | 1304 |
 
-Os scripts 01-08 ja foram implementados:
-- **01-07**: pipeline de coleta, normalizacao e filtro
-- **08**: extracao das features informacionais (entropia + compressao) ← analise principal
+## Leitura para o relatorio
 
-Os proximos scripts (09+) devem focar em:
-- Analise de correlacao com ratings
-- Visualizacoes e heat maps
-- Regressoes e modelos preditivos
-- Relatorio final e insights
+1. Cenario so com variaveis informacionais/textuais:
+- correlacao fraca com rating
+- capacidade preditiva baixa (R2 proximo de 0)
+
+2. Cenario com features ampliadas:
+- melhora relevante de desempenho
+- melhor resultado observado proximo de R2 = 0.40
+
+3. Interpretacao:
+- entropia/compressao tem sinal, mas insuficiente de forma isolada
+- contexto adicional melhora a explicacao de nota

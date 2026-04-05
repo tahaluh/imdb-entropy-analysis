@@ -1,0 +1,2 @@
+best_model,rows_used,r2,mae,rmse,features
+linear_regression,1304,0.005153667099786707,0.729699995017877,0.9231480839483991,"char_entropy,gzip_ratio,clean_text_words"

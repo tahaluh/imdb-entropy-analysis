@@ -1,8 +1,8 @@
 # Projeto Final - PDI
 
-Objetivo: investigar se existe relacao entre compressao/entropia de legendas e a nota no IMDb.
+Objetivo: investigar a relacao entre caracteristicas informacionais de legendas (entropia, compressao e metadados de texto) e nota no IMDb.
 
-## 1) Ambiente (env)
+## 1) Ambiente
 
 No Linux:
 
@@ -12,94 +12,114 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## 2) Pipeline de análise
+## 2) Fonte dos dados
 
-O projeto segue 8 etapas principais:
+1. IMDb Datasets
+- https://datasets.imdbws.com/
+- Arquivos usados: `title.basics.tsv.gz`, `title.ratings.tsv.gz`
 
-1. **01_collect_imdb.py** – Coleta dados do IMDb (filmes, ratings, votos)
-2. **02_plot_movies.py** – Visualizações exploratórias dos filmes
-3. **03_collect_subtitles.py** – Placeholder para coleta de legendas (Kaggle dataset usado)
-4. **04_merge_subtitles_with_movies.py** – Merge IMDb + legendas brutas
-5. **05_plot_movies_with_subtitles.py** – Visualizações dos dados combinados
-6. **06_normalize_subtitles.py** – Limpeza de texto e normalização
-7. **07_filter_subtitles.py** – Filtro por tamanho de legenda (500-6000 linhas)
-8. **08_extract_information_features.py** – **Extração de entropia e compressão** ← núcleo do trabalho
+2. Kaggle Movie Subtitle Dataset
+- https://www.kaggle.com/datasets/adiamaan/movie-subtitle-dataset
+- Arquivo usado: `movies_subtitles.csv`
+- Colunas base: `start_time`, `end_time`, `text`, `imdb_id`
 
-## 3) Estrutura atual
+## 3) Pipeline implementado (01 a 12)
 
-- `01_collect_imdb.py`: coleta os datasets publicos do IMDb, faz limpeza e salva uma base inicial de filmes.
-- `.env.example`: variaveis de configuracao do pipeline.
-- `requirements.txt`: dependencias Python.
-- `source/README.md`: etapas do pipeline por arquivo.
+1. `01_collect_imdb.py`
+- Coleta e filtra filmes do IMDb.
 
-## 3) Explicacao da etapa 01
+2. `02_plot_movies.py`
+- Graficos exploratorios do dataset de filmes.
 
-Arquivo: `01_collect_imdb.py`
+3. `03_collect_subtitles.py`
+- Estrutura para coleta de legendas por API (atual: dataset Kaggle ja integrado no fluxo).
 
-Etapas executadas:
+4. `04_merge_subtitles_with_movies.py`
+- Agrega legenda por `imdb_id` e junta com `movies.csv`.
 
-1. Le variaveis de ambiente (`DATA_DIR`, `MIN_VOTES`, `MIN_YEAR`, URLs do IMDb).
-2. Cria pastas de trabalho:
-   - `data/raw/imdb`
-   - `data/processed`
-3. Baixa (ou reaproveita cache em pickle) os arquivos:
-   - `title.basics.tsv.gz`
-   - `title.ratings.tsv.gz`
-4. Substitui `\\N` por valor ausente (`NA`).
-5. Faz merge por `tconst`.
-6. Filtra para filmes (`titleType == movie`), nao adultos e com campos essenciais preenchidos.
-7. Converte colunas numericas (`year`, `runtime`, `votes`, `rating`).
-8. Aplica corte minimo por votos/ano (`MIN_VOTES`, `MIN_YEAR`).
-9. Seleciona e renomeia colunas para um formato mais limpo.
-10. Ordena por votos e nota, e salva em `data/processed/movies.csv`.
+5. `05_plot_movies_with_subtitles.py`
+- Graficos para o dataset combinado com legendas.
 
-Como rodar:
+6. `06_normalize_subtitles.py`
+- Normaliza texto de legendas e gera features textuais basicas.
+
+7. `07_filter_subtitles.py`
+- Filtro de qualidade/tamanho: `500 <= segment_count <= 6000`.
+
+8. `08_extract_information_features.py`
+- Extrai entropia e metricas de compressao (core do trabalho).
+
+9. `09_analysis.py`
+- Correlacoes, graficos e resumos exploratorios.
+
+10. `10_linear_regression.py`
+- Regressao linear simples para prever `rating`.
+
+11. `11_model_comparison_cv.py`
+- Comparacao de modelos com validacao cruzada (inclui XGBoost quando instalado).
+
+12. `12_feature_expansion.py`
+- Expansao de features e benchmark de modelos em dois cenarios:
+  - com metadados adicionais (ex.: genero/votos)
+  - somente informacionais/textuais
+
+## 4) Tamanho dos datasets por etapa
+
+| Etapa | Output | Registros |
+|---|---|---:|
+| 01 | `data/processed/movies.csv` | 10060 |
+| 04 | `data/processed/movies_with_subtitle_stats.csv` | 1368 |
+| 06 | `data/processed/movies_with_subtitles.csv` | 1368 |
+| 07 | `data/processed/movies_filtered.csv` | 1304 |
+| 08 | `data/processed/movies_information_features.csv` | 1304 |
+
+## 5) Features informacionais (etapa 08)
+
+Entropia:
+- `char_entropy`
+- `bigram_entropy`
+- `trigram_entropy`
+- `word_entropy`
+
+Compressao:
+- `gzip_ratio`, `bz2_ratio`, `lzma_ratio`
+- `gzip_saving`, `bz2_saving`, `lzma_saving`
+- `gzip_bits_per_byte`, `bz2_bits_per_byte`, `lzma_bits_per_byte`
+
+Metadados textuais de apoio:
+- `segment_count`, `clean_text_words`, `unique_words`, `clean_text_length`, `avg_word_length`, `avg_words_per_segment`
+
+## 6) Principais resultados
+
+1. Sinal informacional isolado (entropia/compressao/palavras)
+- Correlacoes com `rating` fracas (ordem de ~0.02 a ~0.12 em valor absoluto na maioria dos casos).
+- Modelagem com apenas features informacionais/textuais: desempenho baixo (`R2` proximo de 0).
+
+2. Cenario com features ampliadas (12 com metadados extras)
+- Melhor modelo: XGBoost
+- `R2` aproximado: 0.40
+- Isso indica ganho preditivo relevante quando contexto adicional e incluído.
+
+3. Interpretacao objetiva
+- As features informacionais de legenda possuem sinal, mas fraco quando analisadas sozinhas.
+- A nota IMDb depende de fatores adicionais alem da estrutura informacional do texto da legenda.
+
+## 7) Conclusao para o relatorio
+
+Conclusao principal: neste recorte de dados, entropia/compressao de legendas nao explicam sozinhas a variacao de nota IMDb com alta forca, mas contribuem como parte de um conjunto maior de variaveis.
+
+Conclusao metodologica: a hipotese de relacao existe em baixa magnitude no cenario univariado/simples e melhora em modelos multivariados com contexto adicional.
+
+## 8) Como reproduzir rapidamente
 
 ```bash
-python 01_collect_imdb.py
+python3 01_collect_imdb.py
+python3 04_merge_subtitles_with_movies.py
+python3 06_normalize_subtitles.py
+python3 07_filter_subtitles.py
+python3 08_extract_information_features.py
+python3 09_analysis.py
+python3 10_linear_regression.py
+python3 11_model_comparison_cv.py
+python3 12_feature_expansion.py
 ```
-
-Saida esperada:
-
-- Arquivo `data/processed/movies.csv`
-- Impressao no terminal com caminho salvo e total de filmes.
-
-## 4) Dados coletados (status atual)
-
-| Etapa | Output | Registros | Descrição |
-|-------|--------|-----------|----------|
-| 01 | `movies.csv` | 10.060 | Filmes IMDb brutos (≥10k votos, ano≥1990) |
-| 04 | `movies_with_subtitle_stats.csv` | 1.368 | Merge IMDb + legendas (merge inner) |
-| 06 | `movies_with_subtitles.csv` | 1.368 | Legendas normalizadas + features de texto |
-| 07 | `movies_filtered.csv` | **1.304** | **Dataset final com 500-6000 linhas de legenda** |
-| 08 | `movies_information_features.csv` | **1.304** | **Features de entropia + compressão** |
-
-### Dataset de legendas
-- Fonte: [Kaggle - Movie Subtitle Dataset](https://www.kaggle.com/datasets/adiamaan/movie-subtitle-dataset)
-- Arquivo: `movies_subtitles.csv` (4.8GB)
-- Colunas: `start_time`, `end_time`, `text`, `imdb_id`
-
-## 5) Features calculadas no arquivo 08
-
-O script `08_extract_information_features.py` calcula as métricas principais do trabalho:
-
-**Entropia (bits/símbolo):**
-- `char_entropy` – Entropia de Shannon por caractere individual
-- `bigram_entropy` – Entropia de pares de caracteres
-- `trigram_entropy` – Entropia de trios de caracteres
-- `word_entropy` – Entropia baseada em palavras/tokens
-
-**Compressão (razões e economia):**
-- `gzip_ratio`, `bz2_ratio`, `lzma_ratio` – Tamanho comprimido / original
-- `gzip_saving`, `bz2_saving`, `lzma_saving` – Economia percentual (1 - ratio)
-- `gzip_bits_per_byte`, `bz2_bits_per_byte`, `lzma_bits_per_byte` – Bits médios por byte após compressão
-
-## 6) Próximos passos sugeridos
-
-Análise de correlação entre as features de entropia/compressão e os ratings IMDb:
-- Pearson correlation
-- Spearman correlation
-- Regressão linear/não-linear
-- Visualizações (scatter plots, heat maps)
-- Relatório final
-# imdb-entropy-analysis

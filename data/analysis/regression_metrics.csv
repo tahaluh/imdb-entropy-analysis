@@ -1,0 +1,2 @@
+rows_used,train_rows,test_rows,r2,mae,rmse,features
+1304,1043,261,0.0004256809904666925,0.7259982194283764,0.956297509133027,"char_entropy,gzip_ratio,clean_text_words"

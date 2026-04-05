@@ -1,0 +1,162 @@
+from pathlib import Path
+
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
+
+DATA = Path("data")
+INPUT_CSV = DATA / "processed" / "movies_information_features.csv"
+OUTPUT_DIR = DATA / "analysis"
+
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+sns.set(style="whitegrid")
+
+
+def load_data():
+    if not INPUT_CSV.exists():
+        raise FileNotFoundError(f"Arquivo não encontrado: {INPUT_CSV}")
+    df = pd.read_csv(INPUT_CSV)
+    return df
+
+
+def compute_correlations(df: pd.DataFrame):
+    print("\n📊 Correlação com rating (Pearson):")
+    pearson = df.corr(numeric_only=True)["rating"].sort_values(ascending=False)
+    print(pearson)
+
+    print("\n📊 Correlação com rating (Spearman):")
+    spearman = df.corr(method="spearman", numeric_only=True)["rating"].sort_values(
+        ascending=False
+    )
+    print(spearman)
+
+    pearson.to_csv(OUTPUT_DIR / "correlation_pearson.csv")
+    spearman.to_csv(OUTPUT_DIR / "correlation_spearman.csv")
+
+
+def scatter_plot(df, x, y="rating"):
+    plt.figure(figsize=(6, 4))
+    sns.scatterplot(data=df, x=x, y=y, alpha=0.4)
+    plt.title(f"{y} vs {x}")
+    plt.tight_layout()
+    plt.savefig(OUTPUT_DIR / f"scatter_{y}_vs_{x}.png")
+    plt.close()
+
+
+def generate_scatter_plots(df):
+    features = [
+        "char_entropy",
+        "bigram_entropy",
+        "trigram_entropy",
+        "word_entropy",
+        "gzip_ratio",
+        "bz2_ratio",
+        "lzma_ratio",
+    ]
+
+    for feature in features:
+        print(f"Gerando scatter: {feature}")
+        scatter_plot(df, feature)
+
+
+def create_rating_groups(df):
+    df["rating_group"] = pd.cut(
+        df["rating"],
+        bins=[0, 6, 7.5, 10],
+        labels=["ruim", "medio", "bom"],
+    )
+    return df
+
+
+def boxplot_feature(df, feature):
+    plt.figure(figsize=(6, 4))
+    sns.boxplot(data=df, x="rating_group", y=feature)
+    plt.title(f"{feature} por grupo de rating")
+    plt.tight_layout()
+    plt.savefig(OUTPUT_DIR / f"boxplot_{feature}.png")
+    plt.close()
+
+
+def generate_boxplots(df):
+    features = [
+        "char_entropy",
+        "bigram_entropy",
+        "trigram_entropy",
+        "word_entropy",
+        "gzip_ratio",
+    ]
+
+    for feature in features:
+        print(f"Gerando boxplot: {feature}")
+        boxplot_feature(df, feature)
+
+
+def summary_by_group(df):
+    summary = df.groupby("rating_group").agg(
+        count=("rating", "count"),
+        mean_rating=("rating", "mean"),
+        mean_char_entropy=("char_entropy", "mean"),
+        mean_word_entropy=("word_entropy", "mean"),
+        mean_gzip_ratio=("gzip_ratio", "mean"),
+    )
+
+    print("\n📊 Resumo por grupo de rating:")
+    print(summary)
+
+    summary.to_csv(OUTPUT_DIR / "group_summary.csv")
+
+
+def interpret_results(df):
+    print("\n🧠 Insights automáticos:")
+
+    corr = df.corr(numeric_only=True)["rating"]
+
+    important = corr.abs().sort_values(ascending=False)
+
+    print("\nTop relações com rating:")
+    print(important.head(10))
+
+    print("\nInterpretação:")
+
+    if corr["char_entropy"] > 0:
+        print("- Filmes com maior entropia de caracteres tendem a ter notas maiores.")
+    else:
+        print("- Não há evidência de que maior entropia de caracteres aumente a nota.")
+
+    if corr["gzip_ratio"] < 0:
+        print("- Filmes mais compressíveis tendem a ter notas maiores.")
+    else:
+        print("- Compressibilidade não indica diretamente qualidade do filme.")
+
+    print("\nObservação:")
+    print("Mesmo correlações fracas são válidas — o importante é a análise.")
+
+
+def main():
+    print("Carregando dados...")
+    df = load_data()
+
+    print("Calculando correlações...")
+    compute_correlations(df)
+
+    print("Criando grupos de rating...")
+    df = create_rating_groups(df)
+
+    print("Gerando scatter plots...")
+    generate_scatter_plots(df)
+
+    print("Gerando boxplots...")
+    generate_boxplots(df)
+
+    print("Resumo por grupo...")
+    summary_by_group(df)
+
+    print("Gerando insights...")
+    interpret_results(df)
+
+    print(f"\n✅ Análises salvas em: {OUTPUT_DIR}")
+
+
+if __name__ == "__main__":
+    main()
