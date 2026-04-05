@@ -52,7 +52,18 @@ Saida esperada:
 - Arquivo `data/processed/movies.csv`
 - Impressao no terminal com caminho salvo e total de filmes.
 
-## 4) Proximo passo sugerido
+## 4) Dados coletados (status atual)
 
-Apos gerar `movies.csv`, a proxima etapa e coletar legendas (SRT) para os filmes e extrair metricas de texto (entropia, taxa de compressao, tamanho medio de linha, vocabulario etc.) para correlacionar com `rating`.
+- Total de filmes IMDb (apos filtros): **10060**
+- IMDb IDs com legenda no dataset: **4666**
+- Filmes combinados (IMDb + legendas): **1368**
+
+Dataset de legendas:
+- Fonte: [Kaggle - Movie Subtitle Dataset](https://www.kaggle.com/datasets/adiamaan/movie-subtitle-dataset)
+- Arquivo: `movies_subtitles.csv` (start_time, end_time, text, imdb_id)
+- Armazenamento: `data/raw/subtitles/movies_subtitles.csv`
+
+## 5) Proximo passo sugerido
+
+Extrair metricas de compressa/entropia/complexidade das legendas (juntando com o dataset combinado em `movies_with_subtitle_stats.csv`) e correlacionar com ratings IMDb para validar a hipotese do trabalho.
 # imdb-entropy-analysis

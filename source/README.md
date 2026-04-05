@@ -27,6 +27,25 @@ Este diretorio organiza as etapas da pesquisa sobre a relacao entre caracteristi
    - Executa correlacoes (Pearson/Spearman) e regressao simples.
    - Exporta tabelas e graficos finais.
 
+## Status atual da coleta de dados
+
+| Metrica | Valor |
+|---------|-------|
+| Total de filmes IMDb | 10060 |
+| IMDb IDs em movies_subtitles.csv | 4666 |
+| Filmes com legenda coletados | 1368 |
+
+## Fontes de dados
+
+1. **IMDb Datasets**
+   - URL: https://datasets.imdbws.com/
+   - Arquivos: title.basics.tsv.gz, title.ratings.tsv.gz
+
+2. **Movie Subtitle Dataset (Kaggle)**
+   - URL: https://www.kaggle.com/datasets/adiamaan/movie-subtitle-dataset
+   - Arquivo: movies_subtitles.csv (4.8GB)
+   - Colunas: start_time, end_time, text, imdb_id
+
 ## Observacao
 
-Os arquivos 02-05 ainda podem ser criados conforme o recorte final da analise.
+Os scripts 01-05 ja foram implementados conforme o andamento do projeto; os arquivos 06+ podem ser criados conforme a necessidade de analise de entropia/compressao e correlacoes.

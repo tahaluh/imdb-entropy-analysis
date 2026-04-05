@@ -1,0 +1,1369 @@
+imdb_id,title,original_title,year,runtimeMinutes,genres,rating,votes,subtitle_segments,subtitle_duration_seconds,subtitle_text_chars,subtitle_text_words,has_subtitle
+tt1375666,Inception,Inception,2010,148,"Action,Adventure,Sci-Fi",8.8,2803437,5226,12515.427000000007,191724,36741,True
+tt0109830,Forrest Gump,Forrest Gump,1994,142,"Drama,Romance",8.8,2485460,6273,13991.892000000007,184752,34206,True
+tt0114369,Seven,Se7en,1995,127,"Crime,Drama,Mystery",8.6,2011296,4644,11050.158000000025,159663,30045,True
+tt0361748,Inglourious Basterds,Inglourious Basterds,2009,153,"Adventure,Drama,War",8.4,1774585,1179,3463.3939999999916,39428,7441,True
+tt0102926,The Silence of the Lambs,The Silence of the Lambs,1991,118,"Crime,Drama,Horror",8.6,1715372,3618,9078.585000000023,123477,23184,True
+tt0848228,The Avengers,The Avengers,2012,143,"Action,Sci-Fi",8.0,1553079,27,67.88700000000028,714,138,True
+tt0120382,The Truman Show,The Truman Show,1998,103,"Comedy,Drama",8.2,1364781,1364,5828.11399999999,58440,11516,True
+tt0264464,Catch Me If You Can,Catch Me If You Can,2002,141,"Biography,Crime,Drama",8.1,1230055,1766,4034.087999999999,63464,12451,True
+tt1392190,Mad Max: Fury Road,Mad Max: Fury Road,2015,120,"Action,Adventure,Sci-Fi",8.1,1202529,2046,5300.5200000000095,59490,11793,True
+tt0477348,No Country for Old Men,No Country for Old Men,2007,122,"Crime,Drama,Thriller",8.2,1183519,2910,7197.726000000002,103722,20838,True
+tt0114709,Toy Story,Toy Story,1995,81,"Adventure,Animation,Comedy",8.3,1169192,4158,10730.62799999999,142320,25626,True
+tt2267998,Gone Girl,Gone Girl,2014,149,"Drama,Mystery,Thriller",8.1,1163991,7665,15218.109000000053,247083,45894,True
+tt0167404,The Sixth Sense,The Sixth Sense,1999,107,"Drama,Mystery,Thriller",8.2,1140355,864,2485.493000000003,27540,5456,True
+tt0198781,"Monsters, Inc.","Monsters, Inc.",2001,92,"Adventure,Animation,Comedy",8.1,1070744,1392,2943.6990000000037,46473,8829,True
+tt0253474,The Pianist,The Pianist,2002,150,"Biography,Drama,Music",8.5,1008541,861,2473.1589999999933,30734,5880,True
+tt2395427,Avengers: Age of Ultron,Avengers: Age of Ultron,2015,141,"Action,Adventure,Sci-Fi",7.3,996565,5586,10564.647000000004,166938,31236,True
+tt0180093,Requiem for a Dream,Requiem for a Dream,2000,102,Drama,8.3,970419,3537,8084.946000000014,120024,22818,True
+tt0458339,Captain America: The First Avenger,Captain America: The First Avenger,2011,124,"Action,Adventure,Sci-Fi",6.9,963749,1211,2613.8000000000084,40586,7553,True
+tt0245429,Spirited Away,Sen to Chihiro no kamikakushi,2001,124,"Adventure,Animation,Family",8.6,961960,2626,7573.020000000011,78298,15320,True
+tt0241527,Harry Potter and the Sorcerer's Stone,Harry Potter and the Sorcerer's Stone,2001,152,"Adventure,Family,Fantasy",7.7,948123,3915,14158.89599999988,154758,28971,True
+tt1392214,Prisoners,Prisoners,2013,153,"Crime,Drama,Mystery",8.2,929212,1354,3424.053999999993,48440,9466,True
+tt0903624,The Hobbit: An Unexpected Journey,The Hobbit: An Unexpected Journey,2012,169,"Adventure,Fantasy",7.8,925336,3966,9119.119999999968,115502,21924,True
+tt0120915,Star Wars: Episode I - The Phantom Menace,Star Wars: Episode I - The Phantom Menace,1999,136,"Action,Adventure,Fantasy",6.5,923001,1444,3471.638999999989,49088,9173,True
+tt0118715,The Big Lebowski,The Big Lebowski,1998,117,"Comedy,Crime",8.1,914743,3266,9080.568000000014,111908,21612,True
+tt0416449,300,300,2006,117,"Action,Drama",7.6,910187,2868,8271.53099999994,111240,18279,True
+tt0246578,Donnie Darko,Donnie Darko,2001,113,"Drama,Mystery,Sci-Fi",8.0,909151,3132,11158.149000000007,127770,24360,True
+tt1010048,Slumdog Millionaire,Slumdog Millionaire,2008,120,"Crime,Drama,Romance",8.0,908823,2002,5441.0539999999955,58430,10510,True
+tt0317705,The Incredibles,The Incredibles,2004,115,"Action,Adventure,Animation",8.0,896762,1326,3453.572999999995,45597,8991,True
+tt1211837,Doctor Strange,Doctor Strange,2016,115,"Action,Adventure,Fantasy",7.5,876234,3957,7303.443000000047,110112,20382,True
+tt2084970,The Imitation Game,The Imitation Game,2014,114,"Biography,Drama,Thriller",8.0,875502,1333,3682.589999999995,52036,9874,True
+tt1205489,Gran Torino,Gran Torino,2008,116,Drama,8.1,859831,2850,7860.898000000003,110542,22040,True
+tt2543164,Arrival,Arrival,2016,116,"Drama,Mystery,Sci-Fi",7.9,859015,1246,2463.26300000001,43101,7179,True
+tt0121765,Star Wars: Episode II - Attack of the Clones,Star Wars: Episode II - Attack of the Clones,2002,142,"Action,Adventure,Fantasy",6.6,817377,2438,5953.5279999999875,83696,15838,True
+tt5052448,Get Out,Get Out,2017,104,"Horror,Mystery,Thriller",7.8,812613,3621,7923.719999999934,108711,21432,True
+tt0126029,Shrek,Shrek,2001,90,"Adventure,Animation,Comedy",7.9,807461,4059,12092.741999999986,148638,29178,True
+tt1877832,X-Men: Days of Future Past,X-Men: Days of Future Past,2014,132,"Action,Adventure,Sci-Fi",7.9,786295,4203,7985.495999999993,121476,23049,True
+tt2024544,12 Years a Slave,12 Years a Slave,2013,134,"Biography,Drama,History",8.1,784663,1393,2985.1040000000007,41734,8056,True
+tt1981115,Thor: The Dark World,Thor: The Dark World,2013,112,"Action,Adventure,Fantasy",6.7,775062,1138,2310.0439999999976,40471,6323,True
+tt2802144,Kingsman: The Secret Service,Kingsman: The Secret Service,2014,129,"Action,Adventure,Comedy",7.7,774478,1703,3410.665000000009,55343,10176,True
+tt0295297,Harry Potter and the Chamber of Secrets,Harry Potter and the Chamber of Secrets,2002,161,"Adventure,Family,Fantasy",7.5,763346,3326,10433.831999999999,124464,23212,True
+tt3783958,La La Land,La La Land,2016,128,"Comedy,Drama,Music",8.0,757946,1135,1865.513000000004,32861,6426,True
+tt1386697,Suicide Squad,Suicide Squad,2016,123,"Action,Adventure,Fantasy",5.9,757932,4521,8846.00400000003,131106,25917,True
+tt1136608,District 9,District 9,2009,112,"Action,Sci-Fi,Thriller",7.9,751050,1426,3573.400000000007,53453,10152,True
+tt0421715,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button,2008,166,"Drama,Fantasy,Romance",7.8,743014,3602,9562.740000000018,127140,25178,True
+tt0449088,Pirates of the Caribbean: At World's End,Pirates of the Caribbean: At World's End,2007,169,"Action,Adventure,Fantasy",7.2,741738,4935,13135.647000000077,154431,29631,True
+tt3460252,The Hateful Eight,The Hateful Eight,2015,168,"Crime,Drama,Mystery",7.8,720032,3554,10824.46600000005,133320,26380,True
+tt0469494,There Will Be Blood,There Will Be Blood,2007,158,Drama,8.2,705513,3939,10886.489999999925,188715,32967,True
+tt0373889,Harry Potter and the Order of the Phoenix,Harry Potter and the Order of the Phoenix,2007,138,"Action,Adventure,Family",7.5,697182,3531,10783.758000000002,143928,25890,True
+tt0440963,The Bourne Ultimatum,The Bourne Ultimatum,2007,115,"Action,Mystery,Thriller",8.0,682873,3426,7151.184000000021,116400,21309,True
+tt0114746,12 Monkeys,Twelve Monkeys,1995,129,"Mystery,Sci-Fi,Thriller",8.0,678376,4875,16760.78999999992,188562,35637,True
+tt2119532,Hacksaw Ridge,Hacksaw Ridge,2016,139,"Biography,Drama,History",8.1,677080,1265,3102.195999999986,43962,8696,True
+tt0240772,Ocean's Eleven,Ocean's Eleven,2001,116,"Crime,Thriller",7.7,671190,3092,7665.716000000017,113522,21028,True
+tt2872718,Nightcrawler,Nightcrawler,2014,117,"Crime,Drama,Thriller",7.8,665988,3862,7185.106000000002,126198,23094,True
+tt1024648,Argo,Argo,2012,120,"Biography,Drama,History",7.7,665182,4290,7769.1150000000025,123063,24198,True
+tt0119654,Men in Black,Men in Black,1997,98,"Action,Adventure,Comedy",7.3,661825,2554,5989.528000000019,90178,16730,True
+tt0120735,"Lock, Stock and Two Smoking Barrels","Lock, Stock and Two Smoking Barrels",1998,107,"Comedy,Crime",8.1,648962,1458,3648.262000000004,54153,10980,True
+tt1219289,Limitless,Limitless,2011,105,"Sci-Fi,Thriller",7.4,645579,2422,6071.471999999982,98544,18424,True
+tt0116629,Independence Day,Independence Day,1996,145,"Action,Adventure,Sci-Fi",7.0,645177,5178,12978.28799999995,193329,35970,True
+tt1276104,Looper,Looper,2012,119,"Action,Drama,Sci-Fi",7.4,627422,3648,7822.44300000003,98862,20832,True
+tt0181689,Minority Report,Minority Report,2002,145,"Action,Crime,Mystery",7.6,619695,3384,8394.663999999995,129636,24376,True
+tt1457767,The Conjuring,The Conjuring,2013,112,"Horror,Mystery,Thriller",7.5,619594,1149,2214.3809999999994,34248,6554,True
+tt2310332,The Hobbit: The Battle of the Five Armies,The Hobbit: The Battle of the Five Armies,2014,144,"Adventure,Fantasy",7.4,615922,1547,2595.461999999984,35817,6579,True
+tt0343818,"I, Robot","I, Robot",2004,115,"Action,Mystery,Sci-Fi",7.1,613235,3318,8952.606000000034,126270,23031,True
+tt0409459,Watchmen,Watchmen,2009,162,"Action,Drama,Mystery",7.6,609792,4062,10926.922000000015,144696,26374,True
+tt2872732,Lucy,Lucy,2014,89,"Action,Sci-Fi,Thriller",6.4,576847,3114,6375.831000000024,93099,17499,True
+tt1411697,The Hangover Part II,The Hangover Part II,2011,102,Comedy,6.5,575726,3048,7209.692000000015,104022,20846,True
+tt0242653,The Matrix Revolutions,The Matrix Revolutions,2003,129,"Action,Sci-Fi",6.7,573868,1056,2874.6699999999882,36499,7142,True
+tt0458525,X-Men Origins: Wolverine,X-Men Origins: Wolverine,2009,107,"Action,Sci-Fi",6.5,566589,842,2033.3960000000015,27980,5628,True
+tt0425112,Hot Fuzz,Hot Fuzz,2007,121,"Action,Comedy,Mystery",7.8,565418,4821,12089.783999999998,191985,35523,True
+tt0268380,Ice Age,Ice Age,2002,81,"Adventure,Animation,Comedy",7.5,562739,1404,3240.239999999996,45370,9176,True
+tt0800080,The Incredible Hulk,The Incredible Hulk,2008,112,"Action,Adventure,Sci-Fi",6.6,562606,1664,3608.3219999999874,64806,10198,True
+tt1790864,The Maze Runner,The Maze Runner,2014,113,"Action,Mystery,Sci-Fi",6.8,560188,2374,4928.069999999999,62074,12372,True
+tt1663662,Pacific Rim,Pacific Rim,2013,131,"Action,Adventure,Sci-Fi",6.9,557650,1485,3603.6990000000033,48163,9102,True
+tt0298148,Shrek 2,Shrek 2,2004,93,"Adventure,Animation,Comedy",7.4,553250,3759,9513.114000000016,132156,24924,True
+tt2245084,Big Hero 6,Big Hero 6,2014,102,"Action,Adventure,Animation",7.8,551200,2950,5501.186000000001,75736,14364,True
+tt1951265,The Hunger Games: Mockingjay - Part 1,The Hunger Games: Mockingjay - Part 1,2014,123,"Action,Adventure,Sci-Fi",6.6,544169,1135,3201.015000000001,43421,8259,True
+tt0289043,28 Days Later,28 Days Later,2002,113,"Drama,Horror,Sci-Fi",7.5,543680,858,2322.206000000003,26252,5123,True
+tt0448157,Hancock,Hancock,2008,92,"Action,Comedy,Drama",6.4,538035,2298,5356.166000000011,80960,15274,True
+tt1596363,The Big Short,The Big Short,2015,130,"Biography,Comedy,Drama",7.8,537320,5092,10434.70799999998,182874,32728,True
+tt0117060,Mission: Impossible,Mission: Impossible,1996,110,"Action,Adventure,Thriller",7.2,516131,1764,7499.8380000000025,75534,14946,True
+tt0139654,Training Day,Training Day,2001,122,"Crime,Drama,Thriller",7.8,515153,4104,10174.328999999992,130275,25134,True
+tt0367882,Indiana Jones and the Kingdom of the Crystal Skull,Indiana Jones and the Kingdom of the Crystal Skull,2008,122,"Action,Adventure",6.2,512862,2090,5108.417999999995,72678,14116,True
+tt0101414,Beauty and the Beast,Beauty and the Beast,1991,84,"Animation,Family,Fantasy",8.0,504269,5301,12173.567999999983,147111,26802,True
+tt0120616,The Mummy,The Mummy,1999,124,"Action,Adventure,Fantasy",7.1,499466,41,88.41000000000125,927,179,True
+tt0103639,Aladdin,Aladdin,1992,90,"Adventure,Animation,Comedy",8.0,499153,6318,13601.676000000036,177651,33777,True
+tt1772341,Wreck-It Ralph,Wreck-It Ralph,2012,101,"Adventure,Animation,Comedy",7.7,496754,4629,12109.973999999998,159627,30585,True
+tt0830515,Quantum of Solace,Quantum of Solace,2008,106,"Action,Adventure,Mystery",6.5,496048,1822,4536.5999999999985,64260,12242,True
+tt0887912,The Hurt Locker,The Hurt Locker,2008,131,"Drama,Thriller,War",7.5,495643,1259,2416.2060000000156,38361,7782,True
+tt3385516,X-Men: Apocalypse,X-Men: Apocalypse,2016,144,"Action,Adventure,Sci-Fi",6.8,491060,4464,7963.283999999998,121920,23697,True
+tt0942385,Tropic Thunder,Tropic Thunder,2008,107,"Action,Comedy,War",7.1,487807,3564,8661.832000000019,133550,25654,True
+tt0765429,American Gangster,American Gangster,2007,157,"Biography,Crime,Drama",7.8,484619,7017,15261.033000000092,246951,47178,True
+tt3170832,Room,Room,2015,118,"Drama,Thriller",8.1,479114,3296,6124.418000000012,79396,15580,True
+tt0120591,Armageddon,Armageddon,1998,151,"Action,Adventure,Sci-Fi",6.7,478088,4106,11546.12199999996,175886,33552,True
+tt1605783,Midnight in Paris,Midnight in Paris,2011,94,"Comedy,Fantasy,Romance",7.6,470342,2934,8372.194000000018,125900,24094,True
+tt0119174,The Game,The Game,1997,129,"Drama,Mystery,Thriller",7.7,468702,2808,7214.774000000012,103574,19742,True
+tt0110475,The Mask,The Mask,1994,101,"Comedy,Crime,Fantasy",7.0,468418,3129,7505.465999999998,82704,16356,True
+tt0105695,Unforgiven,Unforgiven,1992,130,"Drama,Western",8.2,467578,2738,7270.329999999998,87636,17304,True
+tt0163651,American Pie,American Pie,1999,95,Comedy,7.0,467096,1443,4359.9919999999975,54448,11310,True
+tt0217869,Unbreakable,Unbreakable,2000,106,"Drama,Mystery,Sci-Fi",7.3,466701,2718,7463.933999999996,94329,18375,True
+tt0455944,The Equalizer,The Equalizer,2014,132,"Action,Crime,Thriller",7.3,464126,3216,8230.467,106803,21069,True
+tt0375679,Crash,Crash,2004,112,"Crime,Drama,Thriller",7.7,461663,434,1250.8219999999985,14298,2717,True
+tt0099674,The Godfather Part III,The Godfather Part III,1990,162,"Crime,Drama",7.5,454200,180,634.0539999999901,6154,1116,True
+tt1055369,Transformers: Revenge of the Fallen,Transformers: Revenge of the Fallen,2009,149,"Action,Adventure,Sci-Fi",6.0,453057,2104,4181.629999999997,70243,13659,True
+tt0147800,10 Things I Hate About You,10 Things I Hate About You,1999,97,"Comedy,Drama,Romance",7.4,447192,1423,3952.485999999996,54228,11324,True
+tt2381249,Mission: Impossible - Rogue Nation,Mission: Impossible - Rogue Nation,2015,131,"Action,Adventure,Thriller",7.4,444834,3597,9617.823000000022,135588,25764,True
+tt1905041,Fast & Furious 6,Furious 6,2013,130,"Action,Thriller",7.0,438989,890,2887.224000000011,32738,6174,True
+tt2820852,Furious 7,Fast & Furious 7,2015,137,"Action,Thriller",7.1,438616,1442,2720.784,101743,12828,True
+tt0337978,Live Free or Die Hard,Live Free or Die Hard,2007,128,"Action,Thriller",7.1,435318,4098,12111.309000000067,160605,31503,True
+tt2194499,About Time,About Time,2013,123,"Comedy,Drama,Fantasy",7.8,432017,793,2443.7040000000006,29699,5712,True
+tt0120912,Men in Black II,Men in Black II,2002,88,"Action,Adventure,Comedy",6.2,430360,2066,5485.437999999998,76004,14790,True
+tt0112864,Die Hard with a Vengeance,Die Hard with a Vengeance,1995,128,"Action,Adventure,Thriller",7.6,429915,4767,13013.631000000034,218883,43806,True
+tt2582846,The Fault in Our Stars,The Fault in Our Stars,2014,126,"Drama,Romance",7.6,423692,6033,13745.289000000015,179382,33810,True
+tt0113497,Jumanji,Jumanji,1995,104,"Adventure,Comedy,Family",7.1,411420,5319,11623.706999999995,153336,30702,True
+tt0107688,The Nightmare Before Christmas,Tim Burton's the Nightmare Before Christmas,1993,76,"Adventure,Animation,Family",7.9,410515,2463,8304.258000000005,96372,17172,True
+tt2106476,The Hunt,Jagten,2012,115,Drama,8.3,407457,3855,7252.007999999838,87123,17424,True
+tt0338751,The Aviator,The Aviator,2004,170,"Biography,Drama",7.5,407205,4118,11459.566000000026,169896,31574,True
+tt0099423,Die Hard 2,Die Hard 2,1990,124,"Action,Thriller",7.2,406448,2162,6822.836000000001,100912,18414,True
+tt0408236,Sweeney Todd: The Demon Barber of Fleet Street,Sweeney Todd: The Demon Barber of Fleet Street,2007,116,"Drama,Horror,Musical",7.3,405862,3882,11420.447999999999,131103,25929,True
+tt1068680,Yes Man,Yes Man,2008,104,"Comedy,Romance",6.8,404037,2808,7392.312000000023,106754,20482,True
+tt0100405,Pretty Woman,Pretty Woman,1990,119,"Comedy,Romance",7.1,403134,4710,13391.31300000001,209649,41487,True
+tt0119396,Jackie Brown,Jackie Brown,1997,154,"Crime,Drama,Thriller",7.5,402907,3806,11195.628000000017,165060,33440,True
+tt0478311,Knocked Up,Knocked Up,2007,129,"Comedy,Romance",6.9,398046,9009,18011.526000000045,302814,61536,True
+tt2140479,The Accountant,The Accountant,2016,128,"Action,Crime,Drama",7.3,394368,1505,3200.1299999999896,51557,8887,True
+tt0438488,Terminator Salvation,Terminator Salvation,2009,115,"Action,Adventure,Sci-Fi",6.5,392118,715,1785.826999999999,23888,4485,True
+tt1104001,Tron: Legacy,Tron: Legacy,2010,125,"Action,Adventure,Sci-Fi",6.8,386542,284,659.2739999999995,11594,2164,True
+tt1179933,10 Cloverfield Lane,10 Cloverfield Lane,2016,103,"Drama,Horror,Sci-Fi",7.2,382920,843,1738.1339999999982,25121,4897,True
+tt0125439,Notting Hill,Notting Hill,1999,124,"Comedy,Drama,Romance",7.2,382907,5221,15954.999000000067,183551,36792,True
+tt1650062,Super 8,Super 8,2011,112,"Action,Sci-Fi,Thriller",7.0,380234,1596,3020.4270000000024,53651,10232,True
+tt0212338,Meet the Parents,Meet the Parents,2000,108,"Comedy,Romance",7.0,377282,4311,12418.830000000005,185655,36873,True
+tt2788710,The Interview,The Interview,2014,112,"Action,Adventure,Comedy",6.5,376032,2298,4432.735,67843,13407,True
+tt3731562,Kong: Skull Island,Kong: Skull Island,2017,118,"Action,Adventure,Fantasy",6.7,373379,3612,7953.087000000014,113898,22224,True
+tt0884328,The Mist,The Mist,2007,126,"Horror,Sci-Fi,Thriller",7.1,373140,5952,11465.132999999989,170238,33549,True
+tt1231583,Due Date,Due Date,2010,95,"Comedy,Drama",6.5,371227,4479,10313.664000000004,162603,30678,True
+tt1591095,Insidious,Insidious,2010,103,"Horror,Mystery,Thriller",6.8,365267,1194,3922.7620000000043,46016,9236,True
+tt0119528,Liar Liar,Liar Liar,1997,86,"Comedy,Fantasy",6.9,361686,2246,6932.655999999997,84462,16744,True
+tt0463854,28 Weeks Later,28 Weeks Later,2007,100,"Horror,Sci-Fi",6.8,360906,2757,5381.706000000026,65478,12720,True
+tt5726616,Call Me by Your Name,Call Me by Your Name,2017,132,"Drama,Romance",7.8,357398,3288,6393.3329999999805,91677,18150,True
+tt1638355,The Man from U.N.C.L.E.,The Man from U.N.C.L.E.,2015,116,"Action,Adventure,Comedy",7.2,355872,2500,5804.864000000004,73710,13956,True
+tt0119008,Donnie Brasco,Donnie Brasco,1997,127,"Biography,Crime,Drama",7.7,355375,3498,8582.787999999946,140096,28376,True
+tt0109040,Ace Ventura: Pet Detective,Ace Ventura: Pet Detective,1994,86,Comedy,6.9,352654,2634,7710.600000000004,90693,17193,True
+tt0320661,Kingdom of Heaven,Kingdom of Heaven,2005,144,"Action,Adventure,Drama",7.3,351670,1259,3592.774999999986,37299,7411,True
+tt0381849,3:10 to Yuma,3:10 to Yuma,2007,122,"Action,Crime,Drama",7.6,350407,3888,8033.142000000008,102567,20568,True
+tt4263482,The Witch,The VVitch: A New-England Folktale,2015,92,"Drama,Fantasy,Horror",7.0,350185,1618,4271.7879999999905,49960,10216,True
+tt0120201,Starship Troopers,Starship Troopers,1997,129,"Action,Adventure,Sci-Fi",7.3,345175,2860,6932.625999999983,95850,18732,True
+tt0120762,Mulan,Mulan,1998,87,"Adventure,Animation,Comedy",7.7,344773,1856,4008.528000000013,49928,9292,True
+tt1197624,Law Abiding Citizen,Law Abiding Citizen,2009,109,"Action,Crime,Drama",7.4,344218,1433,3533.730999999994,50354,9903,True
+tt0944835,Salt,Salt,2010,100,"Action,Thriller",6.5,342424,3126,7105.506000000015,101913,18633,True
+tt0119822,As Good as It Gets,As Good as It Gets,1997,139,"Comedy,Drama,Romance",7.7,337855,3310,7940.140000000014,111938,22540,True
+tt0489099,Jumper,Jumper,2008,88,"Action,Adventure,Sci-Fi",6.1,337215,1784,4571.820000000004,57152,11660,True
+tt1152836,Public Enemies,Public Enemies,2009,140,"Biography,Crime,Drama",6.9,334428,1094,2512.5129999999976,41157,7993,True
+tt3076658,Creed,Creed,2015,133,"Action,Drama,Sport",7.6,333401,6084,11517.545999999922,192654,38685,True
+tt2397535,Predestination,Predestination,2014,97,"Action,Drama,Sci-Fi",7.4,333359,2044,7369.106,89554,16994,True
+tt2277860,Finding Dory,Finding Dory,2016,97,"Adventure,Animation,Comedy",7.2,332624,4734,11400.177000000034,339855,49584,True
+tt1598778,Contagion,Contagion,2011,106,"Drama,Thriller",6.8,330007,1374,3685.249999999997,57884,10781,True
+tt4160708,Don't Breathe,Don't Breathe,2016,88,"Crime,Horror,Thriller",7.1,329332,1012,2290.4519999999848,27144,5534,True
+tt1253863,300: Rise of an Empire,300: Rise of an Empire,2014,102,"Action,Drama,Fantasy",6.2,328446,2445,6321.437999999995,87963,16161,True
+tt0121164,Corpse Bride,Corpse Bride,2005,77,"Animation,Comedy,Drama",7.4,327283,835,2332.899999999999,28136,5405,True
+tt0814314,Seven Pounds,Seven Pounds,2008,123,"Drama,Mystery,Thriller",7.6,325471,2098,5234.5380000000205,65854,12822,True
+tt1478338,Bridesmaids,Bridesmaids,2011,125,Comedy,6.8,324651,4842,9641.408000000047,151984,30296,True
+tt3263904,Sully,Sully,2016,96,"Biography,Drama,History",7.4,321267,3284,6252.688000000012,113974,19822,True
+tt0800039,Forgetting Sarah Marshall,Forgetting Sarah Marshall,2008,111,"Comedy,Drama,Romance",7.1,319293,3758,9096.376,141266,27946,True
+tt1192628,Rango,Rango,2011,107,"Action,Adventure,Animation",7.3,317964,2618,6617.219999999998,94742,18246,True
+tt0473075,Prince of Persia: The Sands of Time,Prince of Persia: The Sands of Time,2010,116,"Action,Adventure,Fantasy",6.5,316949,2670,8707.206000000022,116238,22281,True
+tt0112442,Bad Boys,Bad Boys,1995,119,"Action,Comedy,Crime",6.8,314509,4977,11791.679999999978,170604,34137,True
+tt0258000,Panic Room,Panic Room,2002,112,"Crime,Drama,Thriller",6.8,313915,1946,4159.402000000015,59456,11806,True
+tt0837562,Hotel Transylvania,Hotel Transylvania,2012,91,"Animation,Comedy,Family",7.0,312421,4536,10229.148000000017,158256,27765,True
+tt0118884,Contact,Contact,1997,150,"Drama,Mystery,Sci-Fi",7.5,311979,2492,4926.52600000002,86202,14358,True
+tt0116695,Jerry Maguire,Jerry Maguire,1996,139,"Comedy,Drama,Romance",7.3,310123,2976,9735.956000000004,114514,22408,True
+tt0099348,Dances with Wolves,Dances with Wolves,1990,181,"Adventure,Drama,Western",8.0,309414,1221,3467.267999999969,38994,8130,True
+tt1817273,The Place Beyond the Pines,The Place Beyond the Pines,2012,140,"Crime,Drama,Thriller",7.3,308345,3678,7754.22399999997,150664,24240,True
+tt2302755,Olympus Has Fallen,Olympus Has Fallen,2013,119,"Action,Thriller",6.5,306241,2488,5012.152000000026,77314,14582,True
+tt0183649,Phone Booth,Phone Booth,2002,81,"Crime,Thriller",7.1,301265,1299,3665.6090000000017,59676,11885,True
+tt0320691,Underworld,Underworld,2003,121,"Action,Fantasy,Thriller",7.0,300151,758,2039.439000000004,24562,4627,True
+tt0486655,Stardust,Stardust,2007,127,"Adventure,Fantasy,Romance",7.6,298007,3672,9289.826999999954,135282,26658,True
+tt2005151,War Dogs,War Dogs,2016,114,"Biography,Comedy,Crime",7.1,296488,3512,7101.473999999967,117120,22016,True
+tt0955308,Robin Hood,Robin Hood,2010,140,"Action,Adventure,Drama",6.6,295827,4074,8471.33100000001,111543,21870,True
+tt0803096,Warcraft,Warcraft,2016,123,"Action,Adventure,Fantasy",6.7,294336,3813,6807.534000000008,90330,17811,True
+tt2381941,Focus,Focus,2015,105,"Comedy,Crime,Drama",6.6,294325,2636,7269.252000000036,90080,18960,True
+tt0118583,Alien: Resurrection,Alien: Resurrection,1997,109,"Action,Horror,Sci-Fi",6.2,291348,1688,4591.265999999984,53516,10408,True
+tt1855199,End of Watch,End of Watch,2012,109,"Action,Crime,Drama",7.6,291226,5487,10398.870000000003,187212,35943,True
+tt0172156,Bad Boys II,Bad Boys II,2003,147,"Action,Comedy,Crime",6.6,287693,1911,4511.785000000011,73204,12931,True
+tt0448134,Sunshine,Sunshine,2007,107,"Sci-Fi,Thriller",7.2,285896,2787,6151.335000000032,89646,15429,True
+tt0113189,GoldenEye,GoldenEye,1995,130,"Action,Adventure,Thriller",7.2,285430,2703,8166.078000000049,101310,18855,True
+tt0844471,Cloudy with a Chance of Meatballs,Cloudy with a Chance of Meatballs,2009,90,"Adventure,Animation,Comedy",6.9,284112,1112,2645.9539999999924,42227,6497,True
+tt1385826,The Adjustment Bureau,The Adjustment Bureau,2011,106,"Crime,Drama,Mystery",7.0,282026,3104,6118.995999999982,99162,19664,True
+tt0117381,Primal Fear,Primal Fear,1996,129,"Crime,Drama,Mystery",7.7,281668,5304,13413.87899999999,215775,40797,True
+tt1325004,The Twilight Saga: Eclipse,The Twilight Saga: Eclipse,2010,124,"Action,Adventure,Drama",5.1,280666,3765,10211.085000000008,124260,23901,True
+tt1798684,Southpaw,Southpaw,2015,124,"Action,Drama,Sport",7.3,277512,4300,9528.009999999962,136876,27488,True
+tt0765443,Eastern Promises,Eastern Promises,2007,100,"Crime,Drama,Thriller",7.6,276921,2748,6856.532999999974,81150,15702,True
+tt0112697,Clueless,Clueless,1995,97,"Comedy,Romance",6.9,276473,4797,11309.766000000005,178170,34305,True
+tt1959490,Noah,Noah,2014,138,"Action,Adventure,Drama",5.8,276349,3363,7123.265999999955,83322,16443,True
+tt5442430,Life,Life,2017,104,"Horror,Sci-Fi,Thriller",6.6,276285,2236,4371.397999999999,64926,12380,True
+tt1401152,Unknown,Unknown,2011,113,"Action,Mystery,Thriller",6.8,276266,1820,4457.701999999977,67714,11776,True
+tt1386703,Total Recall,Total Recall,2012,118,"Action,Adventure,Sci-Fi",6.2,276036,3174,7847.519999999998,106098,20808,True
+tt1032755,RocknRolla,RocknRolla,2008,114,"Action,Crime,Thriller",7.2,274880,3180,7852.95199999996,118158,22858,True
+tt0824747,Changeling,Changeling,2008,141,"Biography,Crime,Drama",7.7,274694,4244,9448.990000000009,143898,27720,True
+tt0985699,Valkyrie,Valkyrie,2008,121,"Drama,History,Thriller",7.1,274393,1970,5177.038000000003,83118,14596,True
+tt0120660,Enemy of the State,Enemy of the State,1998,132,"Action,Thriller",7.3,274289,1581,4774.3189999999995,70203,13642,True
+tt0486822,Disturbia,Disturbia,2007,105,"Crime,Drama,Mystery",6.8,273815,3639,7785.561000000007,125262,25218,True
+tt0976051,The Reader,The Reader,2008,124,"Drama,Mystery,Romance",7.6,273497,2074,5771.79600000002,67590,12946,True
+tt0399146,A History of Violence,A History of Violence,2005,96,"Action,Crime,Drama",7.4,272172,1209,2529.356000000003,27803,5538,True
+tt0245712,Amores Perros,Amores perros,2000,154,"Drama,Thriller",8.0,272104,3978,9145.94100000001,99420,19629,True
+tt1179904,Paranormal Activity,Paranormal Activity,2007,86,"Horror,Mystery",6.3,271486,1129,3383.3230000000085,40731,8440,True
+tt0435625,The Descent,The Descent,2005,99,"Adventure,Horror,Thriller",7.2,271360,693,1664.6819999999948,17148,3562,True
+tt0898367,The Road,The Road,2009,111,"Drama,Thriller",7.2,270161,1764,2307.5060000000044,41298,8160,True
+tt1189340,The Lincoln Lawyer,The Lincoln Lawyer,2011,118,"Crime,Drama,Mystery",7.3,269646,4150,7475.898000000012,137886,27076,True
+tt2660888,Star Trek Beyond,Star Trek Beyond,2016,122,"Action,Adventure,Sci-Fi",7.0,269563,3798,8113.532999999978,131703,24288,True
+tt0108550,What's Eating Gilbert Grape,What's Eating Gilbert Grape,1993,118,Drama,7.7,269243,3627,9607.233000000013,116436,23661,True
+tt2321549,The Babadook,The Babadook,2014,94,"Drama,Horror,Mystery",6.8,269104,2565,6059.640000000013,72708,14571,True
+tt0120855,Tarzan,Tarzan,1999,88,"Adventure,Animation,Comedy",7.3,267968,659,1441.657999999996,20022,3839,True
+tt0145660,Austin Powers: The Spy Who Shagged Me,Austin Powers: The Spy Who Shagged Me,1999,95,"Action,Adventure,Comedy",6.7,262098,1410,3339.6360000000027,37824,6735,True
+tt0448011,Knowing,Knowing,2009,121,"Mystery,Sci-Fi,Thriller",6.2,261563,969,2630.273000000006,37546,7021,True
+tt0123755,Cube,Cube,1997,90,"Horror,Mystery,Sci-Fi",7.1,260840,1157,2110.078999999996,27956,5470,True
+tt0108399,True Romance,True Romance,1993,119,"Crime,Drama,Romance",7.9,260202,5370,11721.341999999979,187389,36243,True
+tt0266915,Rush Hour 2,Rush Hour 2,2001,90,"Action,Comedy,Crime",6.7,259582,3288,8186.954999999945,122886,24855,True
+tt0129167,The Iron Giant,The Iron Giant,1999,86,"Action,Adventure,Animation",8.1,258975,1002,2251.3349999999987,31564,5948,True
+tt4196776,Jason Bourne,Jason Bourne,2016,123,"Action,Thriller",6.6,256769,2490,4485.527999999999,98674,13776,True
+tt0302886,Old School,Old School,2003,88,Comedy,7.0,256690,1430,3429.7660000000037,50733,9817,True
+tt0299658,Chicago,Chicago,2002,113,"Comedy,Crime,Musical",7.2,256004,1678,4581.437999999979,56637,11740,True
+tt1411238,No Strings Attached,No Strings Attached,2011,108,"Comedy,Romance",6.2,254888,3212,7765.513999999982,107068,21566,True
+tt2229499,Don Jon,Don Jon,2013,90,"Comedy,Drama,Romance",6.5,254693,1181,3112.4229999999957,50560,10504,True
+tt1464540,I Am Number Four,I Am Number Four,2011,111,"Action,Adventure,Sci-Fi",6.1,252666,1886,4508.225999999993,59204,11836,True
+tt0430922,Role Models,Role Models,2008,99,Comedy,6.8,251746,3956,7698.879999999978,130722,25112,True
+tt0117998,Twister,Twister,1996,113,"Action,Adventure,Thriller",6.6,251317,4104,11160.567000000003,104616,20592,True
+tt0117665,Sleepers,Sleepers,1996,147,"Crime,Drama,Thriller",7.5,251193,3960,8674.611999999977,165122,31838,True
+tt0212346,Miss Congeniality,Miss Congeniality,2000,109,"Action,Comedy,Crime",6.4,247413,4443,10231.772999999972,147708,28182,True
+tt1972591,King Arthur: Legend of the Sword,King Arthur: Legend of the Sword,2017,126,"Action,Adventure,Drama",6.7,246694,3666,7101.402000000011,116250,22050,True
+tt2404435,The Magnificent Seven,The Magnificent Seven,2016,132,"Action,Adventure,Drama",6.9,245303,16,31.867000000001553,281,50,True
+tt0892791,Shrek Forever After,Shrek Forever After,2010,93,"Adventure,Animation,Comedy",6.3,244809,3096,7559.252999999943,107949,21144,True
+tt1220719,Ip Man,Ip Man,2008,106,"Action,Biography,Drama",8.0,243033,2038,6375.036000000015,54390,10592,True
+tt0138097,Shakespeare in Love,Shakespeare in Love,1998,123,"Comedy,Drama,History",7.1,242722,1530,4007.221000000006,51973,10449,True
+tt1142988,The Ugly Truth,The Ugly Truth,2009,96,"Comedy,Romance",6.4,241293,2012,4619.324999999999,68595,13463,True
+tt1124035,The Ides of March,The Ides of March,2011,101,"Drama,Thriller",7.1,238776,1643,4073.5879999999966,55140,10557,True
+tt1489889,Central Intelligence,Central Intelligence,2016,107,"Action,Comedy,Crime",6.3,237769,4746,8357.991999999998,141946,27290,True
+tt0838221,The Darjeeling Limited,The Darjeeling Limited,2007,91,"Adventure,Comedy,Drama",7.2,233403,3657,7510.259999999976,102699,19662,True
+tt1398426,Straight Outta Compton,Straight Outta Compton,2015,147,"Biography,Drama,History",7.8,233206,2608,6547.659999999991,99464,19635,True
+tt1077258,Planet Terror,Planet Terror,2007,105,"Action,Comedy,Horror",7.0,232863,3921,7635.71999999998,100359,19878,True
+tt0974661,17 Again,17 Again,2009,102,"Comedy,Drama,Fantasy",6.4,231447,1335,3195.2479999999996,46545,9246,True
+tt1132620,The Girl with the Dragon Tattoo,Män som hatar kvinnor,2009,152,"Crime,Drama,Mystery",7.8,230303,1037,3479.487999999999,39794,7654,True
+tt0109506,The Crow,The Crow,1994,102,"Action,Crime,Drama",7.5,230270,2538,7750.376999999994,87138,17253,True
+tt0333766,Garden State,Garden State,2004,102,"Comedy,Drama,Romance",7.4,228810,3810,10489.24199999998,153537,31104,True
+tt0452608,Death Race,Death Race,2008,105,"Action,Sci-Fi,Thriller",6.4,228149,3440,9562.572000000015,167666,32116,True
+tt1428538,Hansel & Gretel: Witch Hunters,Hansel & Gretel: Witch Hunters,2013,88,"Action,Fantasy,Horror",6.1,226376,1594,3133.8459999999977,41170,8066,True
+tt1013743,Knight and Day,Knight and Day,2010,109,"Action,Adventure,Comedy",6.3,224376,4872,10495.158000000049,216867,33492,True
+tt0362270,The Life Aquatic with Steve Zissou,The Life Aquatic with Steve Zissou,2004,119,"Action,Adventure,Comedy",7.2,220739,2544,7632.761999999985,103752,20122,True
+tt0318627,Resident Evil: Apocalypse,Resident Evil: Apocalypse,2004,94,"Action,Horror,Sci-Fi",6.1,220640,1935,4532.849999999985,88779,10596,True
+tt0143145,The World Is Not Enough,The World Is Not Enough,1999,128,"Action,Adventure,Thriller",6.4,220019,1152,2261.713999999994,33695,6333,True
+tt2406566,Atomic Blonde,Atomic Blonde,2017,115,"Action,Thriller",6.7,219464,914,1973.235999999995,30221,5438,True
+tt1469304,Baywatch,Baywatch,2017,116,"Action,Comedy,Crime",5.5,218184,4372,8589.411999999982,137830,27498,True
+tt0130827,Run Lola Run,Lola rennt,1998,80,"Action,Crime,Thriller",7.6,217574,502,1311.9189999999992,15525,3162,True
+tt0309593,Final Destination 2,Final Destination 2,2003,90,"Horror,Thriller",6.2,217005,1171,2703.9569999999944,38574,7241,True
+tt0114148,Pocahontas,Pocahontas,1995,81,"Adventure,Animation,Drama",6.7,216989,2823,8849.849999999984,108747,21879,True
+tt0375063,Sideways,Sideways,2004,127,"Comedy,Drama,Romance",7.5,216621,4269,12567.312000000014,164667,30735,True
+tt0432021,Resident Evil: Extinction,Resident Evil: Extinction,2007,94,"Action,Horror,Sci-Fi",6.2,215174,1680,3410.909999999998,47931,8943,True
+tt0366548,Happy Feet,Happy Feet,2006,108,"Adventure,Animation,Comedy",6.4,213235,4065,10104.72000000003,133698,26823,True
+tt0116209,The English Patient,The English Patient,1996,162,"Drama,Romance,War",7.4,213159,3046,8364.763999999996,98392,19326,True
+tt3470600,Sing,Sing,2016,108,"Animation,Comedy,Family",7.1,211636,4656,9276.017999999985,129960,25269,True
+tt3631112,The Girl on the Train,The Girl on the Train,2016,112,"Crime,Drama,Mystery",6.5,210537,1347,3499.7359999999903,55597,9991,True
+tt1446192,Rise of the Guardians,Rise of the Guardians,2012,97,"Action,Adventure,Animation",7.2,208588,3495,7030.467000000006,92193,18231,True
+tt0106308,Army of Darkness,Army of Darkness,1992,81,"Comedy,Horror",7.4,208001,1136,2694.957999999994,34680,6730,True
+tt0112851,Desperado,Desperado,1995,104,"Action,Crime,Drama",7.1,207884,2904,5307.317999999976,72600,14367,True
+tt0375912,Layer Cake,Layer Cake,2004,105,"Crime,Drama,Thriller",7.2,207504,2224,6790.456000000023,60478,4580,True
+tt0160127,Charlie's Angels,Charlie's Angels,2000,98,"Action,Adventure,Comedy",5.7,207191,5406,11760.306000000048,179412,35460,True
+tt0810819,The Danish Girl,The Danish Girl,2015,119,"Biography,Drama",7.1,206182,1204,2142.776999999999,28839,5721,True
+tt0117913,A Time to Kill,A Time to Kill,1996,149,"Crime,Drama,Thriller",7.5,205473,6546,15054.696000000054,218472,41001,True
+tt0443680,The Assassination of Jesse James by the Coward Robert Ford,The Assassination of Jesse James by the Coward Robert Ford,2007,160,"Biography,Crime,Drama",7.5,203729,4158,11859.786000000046,165807,31437,True
+tt0385752,The Golden Compass,The Golden Compass,2007,113,"Adventure,Family,Fantasy",6.1,203483,4020,10133.294999999991,119712,23436,True
+tt1059786,Eagle Eye,Eagle Eye,2008,118,"Action,Mystery,Thriller",6.6,201515,2940,6609.2560000000185,116272,22456,True
+tt1617661,Jupiter Ascending,Jupiter Ascending,2015,127,"Action,Adventure,Animation",5.3,201274,2456,6086.693999999997,76576,15056,True
+tt0978762,Mary and Max,Mary and Max.,2009,92,"Animation,Comedy,Drama",8.1,201222,815,3116.420999999999,34332,6477,True
+tt0359013,Blade: Trinity,Blade: Trinity,2004,113,"Action,Horror,Sci-Fi",5.8,200702,3015,6768.0419999999895,89007,16674,True
+tt0145681,The Bone Collector,The Bone Collector,1999,118,"Crime,Drama,Mystery",6.7,199956,1269,3677.3590000000027,49397,9069,True
+tt1964418,Tomorrowland,Tomorrowland,2015,130,"Action,Adventure,Family",6.4,199249,1333,3268.7509999999907,40993,7884,True
+tt0200465,The Bank Job,The Bank Job,2008,111,"Crime,Thriller",7.2,196752,3220,7012.9180000000015,115802,22676,True
+tt1033643,What Happens in Vegas,What Happens in Vegas,2008,99,"Comedy,Romance",6.1,195598,3198,7589.940000000022,120104,24552,True
+tt3322940,Annabelle,Annabelle,2014,99,"Horror,Mystery,Thriller",5.5,195036,1762,4457.802000000018,52682,10486,True
+tt0117008,Matilda,Matilda,1996,98,"Comedy,Family,Fantasy",7.0,194717,3411,9237.191999999983,125655,24546,True
+tt0381707,White Chicks,White Chicks,2004,109,"Comedy,Crime",5.9,192057,4119,10714.818000000005,154329,30921,True
+tt0478304,The Tree of Life,The Tree of Life,2011,139,"Drama,Fantasy",6.8,191985,988,2249.4199999999687,24896,5176,True
+tt4116284,The Lego Batman Movie,The Lego Batman Movie,2017,104,"Action,Adventure,Animation",7.3,191806,6381,11708.207999999995,187176,36075,True
+tt0108358,Tombstone,Tombstone,1993,130,"Biography,Drama,History",7.8,190945,3825,11982.471000000036,133422,26493,True
+tt1262416,Scream 4,Scream 4,2011,111,"Horror,Mystery",6.2,190237,2014,6930.692000000002,101408,20250,True
+tt1226229,Get Him to the Greek,Get Him to the Greek,2010,109,"Comedy,Music",6.3,190219,3357,6731.135999999966,124080,22746,True
+tt2080374,Steve Jobs,Steve Jobs,2015,122,"Biography,Drama",7.2,186974,6522,16702.767000000003,278079,53043,True
+tt0970416,The Day the Earth Stood Still,The Day the Earth Stood Still,2008,104,"Adventure,Drama,Sci-Fi",5.5,186955,1908,4723.974000000006,70154,13354,True
+tt2369135,Need for Speed,Need for Speed,2014,132,"Action,Crime,Drama",6.4,186366,4128,8623.998000000007,332952,37194,True
+tt0465494,Hitman,Hitman,2007,89,"Action,Crime,Thriller",6.2,186052,2709,6916.095000000019,91299,18108,True
+tt0986263,Surrogates,Surrogates,2009,89,"Action,Sci-Fi,Thriller",6.3,184751,931,1843.0759999999918,30307,5529,True
+tt0106489,A Bronx Tale,A Bronx Tale,1993,121,"Crime,Drama",7.8,184134,4755,11692.446000000033,151419,30198,True
+tt0472399,The Mechanic,The Mechanic,2011,93,"Action,Crime,Thriller",6.5,182511,1436,3243.2680000000155,44574,8706,True
+tt0247638,The Princess Diaries,The Princess Diaries,2001,115,"Comedy,Family,Romance",6.4,181134,4680,13193.465999999971,174909,34674,True
+tt3300542,London Has Fallen,London Has Fallen,2016,99,"Action,Thriller",5.9,180120,979,2555.1680000000033,32275,6106,True
+tt1189073,The Skin I Live In,La piel que habito,2011,120,"Drama,Mystery,Thriller",7.6,179733,922,2218.0510000000036,26219,5090,True
+tt0442933,Beowulf,Beowulf,2007,115,"Action,Adventure,Animation",6.3,179512,2556,7410.576000000027,80067,15822,True
+tt1563738,One Day,One Day,2011,107,"Drama,Romance",7.0,179211,1506,3314.5830000000046,46632,9089,True
+tt2120120,Pixels,Pixels,2015,105,"Action,Adventure,Comedy",5.6,178676,10170,18238.116000000024,203715,38106,True
+tt0266987,Spy Game,Spy Game,2001,126,"Action,Crime,Thriller",7.1,177484,3582,8987.226000000011,136425,26319,True
+tt0498380,Letters from Iwo Jima,Letters from Iwo Jima,2006,141,"Action,Adventure,Drama",7.8,176761,2991,7157.9550000000045,96150,18093,True
+tt1462758,Buried,Buried,2010,95,"Drama,Mystery,Thriller",7.0,176079,2871,6533.957999999966,112470,22692,True
+tt0822832,Marley & Me,Marley & Me,2008,115,"Drama,Family",7.0,175339,3576,10034.945999999993,150882,29120,True
+tt0358082,Robots,Robots,2005,91,"Adventure,Animation,Comedy",6.4,174398,869,2385.1329999999944,32545,6471,True
+tt0120783,The Parent Trap,The Parent Trap,1998,128,"Adventure,Comedy,Drama",6.7,172880,3454,10367.35999999997,118416,23908,True
+tt2278871,Blue Is the Warmest Colour,La vie d'Adèle,2013,180,"Drama,Romance",7.6,172853,1959,3732.235000000023,48249,9535,True
+tt3774114,Snowden,Snowden,2016,134,"Biography,Crime,Drama",7.3,172344,5841,13646.294999999907,209685,39204,True
+tt1441395,Under the Skin,Under the Skin,2013,108,"Drama,Horror,Mystery",6.3,169982,879,2020.7639999999972,27153,5271,True
+tt0990407,The Green Hornet,The Green Hornet,2011,119,"Action,Comedy,Crime",5.8,168884,4678,12184.837999999992,225456,42088,True
+tt1611224,Abraham Lincoln: Vampire Hunter,Abraham Lincoln: Vampire Hunter,2012,105,"Action,Fantasy,Horror",5.9,168068,678,1399.1219999999944,20928,3978,True
+tt0120102,Seven Years in Tibet,Seven Years in Tibet,1997,136,"Adventure,Biography,Drama",7.1,167324,1886,5446.6999999999725,74028,13446,True
+tt0112508,Billy Madison,Billy Madison,1995,89,Comedy,6.4,167231,3213,9577.905000000039,118479,23289,True
+tt1121931,Crank: High Voltage,Crank: High Voltage,2009,96,"Action,Thriller",6.1,166847,891,2030.1609999999996,28664,5638,True
+tt0100814,Tremors,Tremors,1990,96,"Comedy,Horror",7.2,165405,908,2126.481000000004,31195,6175,True
+tt1727388,The Way Way Back,"The Way, Way Back",2013,103,"Comedy,Drama",7.4,163695,1459,2805.562000000002,44135,8723,True
+tt0373074,Kung Fu Hustle,Kung Fu Hustle,2004,99,"Action,Comedy,Fantasy",7.7,163513,613,1564.9810000000016,17935,3472,True
+tt0280590,Mr. Deeds,Mr. Deeds,2002,96,"Comedy,Romance",5.8,163467,2842,6936.878000000012,109208,20718,True
+tt0324216,The Texas Chainsaw Massacre,The Texas Chainsaw Massacre,2003,98,Horror,6.2,161796,636,1888.6339999999993,23116,4540,True
+tt2203939,The Other Woman,The Other Woman,2014,109,"Comedy,Romance",6.0,160321,3756,11906.735999999994,134994,24762,True
+tt0277434,We Were Soldiers,We Were Soldiers,2002,138,"Action,Drama,History",7.2,159301,2222,5222.7699999999695,74982,14596,True
+tt2381111,Brooklyn,Brooklyn,2015,117,"Drama,Romance",7.5,158278,2652,5925.032000000012,93304,18642,True
+tt0889583,Brüno,Brüno,2009,81,Comedy,5.9,158252,1087,2608.439000000007,42570,8123,True
+tt0391198,The Grudge,The Grudge,2004,91,"Horror,Mystery,Thriller",5.9,157954,2247,4611.528000000003,62757,12201,True
+tt0104952,My Cousin Vinny,My Cousin Vinny,1992,120,"Comedy,Crime",7.6,157699,1630,4651.580000000008,67242,13078,True
+tt0471042,Tower Heist,Tower Heist,2011,104,"Action,Comedy,Crime",6.2,157165,1821,3487.7270000000094,64630,12560,True
+tt0312004,Wallace & Gromit: The Curse of the Were-Rabbit,The Curse of the Were-Rabbit,2005,85,"Adventure,Animation,Comedy",7.5,157144,746,1973.2109999999946,21996,4124,True
+tt1058017,The Invention of Lying,The Invention of Lying,2009,100,"Comedy,Fantasy,Romance",6.4,156921,1442,3458.238000000003,53877,10463,True
+tt1939659,Carrie,Carrie,2013,100,"Drama,Horror,Thriller",5.8,155444,1088,2371.300000000013,32835,6653,True
+tt1100089,Foxcatcher,Foxcatcher,2014,134,"Biography,Drama,History",7.0,154892,1796,4624.798000000005,58798,11410,True
+tt2180411,Into the Woods,Into the Woods,2014,125,"Adventure,Comedy,Drama",5.9,153498,2259,4780.499999999962,77615,15299,True
+tt0120784,Payback,Payback,1999,100,"Action,Crime,Drama",7.0,153391,968,2165.953999999984,27220,5467,True
+tt4698684,Hunt for the Wilderpeople,Hunt for the Wilderpeople,2016,101,"Adventure,Comedy,Drama",7.8,152553,1301,3279.4599999999814,43937,8635,True
+tt0253556,Reign of Fire,Reign of Fire,2002,101,"Action,Adventure,Fantasy",6.2,152423,2028,4541.620000000014,53530,10614,True
+tt0310793,Bowling for Columbine,Bowling for Columbine,2002,120,"Crime,Documentary,Drama",7.9,152312,3424,11555.41999999999,164918,30914,True
+tt0134273,8MM,8MM,1999,123,"Crime,Drama,Mystery",6.6,151072,1443,3025.080999999999,44577,8511,True
+tt1878870,The Edge of Seventeen,The Edge of Seventeen,2016,104,"Comedy,Drama,Romance",7.3,150889,1852,5215.905999999995,70182,14170,True
+tt1172570,Bronson,Bronson,2008,92,"Action,Crime,Drama",7.0,149357,809,2130.066,20842,4224,True
+tt0118842,Chasing Amy,Chasing Amy,1997,113,"Comedy,Drama,Romance",7.2,148189,3262,10309.944000000001,142122,27952,True
+tt0327850,The Rundown,The Rundown,2003,104,"Action,Adventure,Comedy",6.6,147995,8,32.490999999999985,463,91,True
+tt1132626,Saw V,Saw V,2008,92,"Horror,Thriller",5.8,147788,1512,3787.4480000000017,56072,10198,True
+tt0292506,The Recruit,The Recruit,2003,115,"Action,Thriller",6.6,147242,1787,3836.0309999999954,45613,9003,True
+tt3531824,Nerve,Nerve,2016,96,"Adventure,Crime,Drama",6.5,147211,2646,4572.028000000006,74804,14536,True
+tt0230011,Atlantis: The Lost Empire,Atlantis: The Lost Empire,2001,95,"Action,Adventure,Animation",6.9,147178,4785,9502.24800000004,140391,26655,True
+tt2305051,Wild,Wild,2014,115,"Adventure,Biography,Drama",7.1,146016,617,1533.1629999999968,19651,4214,True
+tt3410834,The Divergent Series: Allegiant,The Divergent Series: Allegiant,2016,120,"Action,Adventure,Fantasy",5.7,146002,3453,8606.349000000004,110733,21777,True
+tt0325805,Matchstick Men,Matchstick Men,2003,116,"Comedy,Crime,Drama",7.3,145229,1446,3741.9389999999985,51278,10469,True
+tt0113627,Leaving Las Vegas,Leaving Las Vegas,1995,111,"Drama,Romance",7.5,144790,2595,7645.233000000006,86550,18051,True
+tt1536537,What Happened to Monday,What Happened to Monday,2017,123,"Action,Crime,Fantasy",6.8,144275,914,2022.8180000000032,29707,5536,True
+tt0117438,Ransom,Ransom,1996,121,"Action,Crime,Drama",6.7,143746,4371,12751.115999999987,195378,39747,True
+tt0453451,Mr. Bean's Holiday,Mr. Bean's Holiday,2007,90,"Comedy,Family",6.4,141825,1068,2298.5130000000136,30324,5250,True
+tt1234548,The Men Who Stare at Goats,The Men Who Stare at Goats,2009,94,"Comedy,War",6.2,141628,1208,2946.476,43279,8212,True
+tt0120890,Wild Things,Wild Things,1998,108,"Crime,Drama,Mystery",6.6,141145,2294,5978.1599999999835,82510,16178,True
+tt4651520,Bad Moms,Bad Moms,2016,100,Comedy,6.2,141003,3890,7662.8019999999415,124294,24628,True
+tt1448755,Killer Elite,Killer Elite,2011,116,"Action,Crime,Thriller",6.4,140877,1175,2565.2989999999986,27988,6061,True
+tt1144884,The Final Destination,The Final Destination,2009,82,"Horror,Thriller",5.1,140579,967,2501.0139999999947,30863,5799,True
+tt0265459,One Hour Photo,One Hour Photo,2002,96,"Drama,Thriller",6.8,139499,1494,3552.512000000018,55044,10768,True
+tt2265171,The Raid 2,Serbuan maut 2: Berandal,2014,150,"Action,Crime,Thriller",7.9,138635,2934,6845.627999999986,89802,17889,True
+tt0373883,Halloween,Halloween,2007,109,Horror,6.1,138597,4092,8627.14499999998,119883,23565,True
+tt1615065,Savages,Savages,2012,131,"Crime,Drama,Thriller",6.4,138510,5061,10985.34599999996,161691,30159,True
+tt1692486,Carnage,Carnage,2011,80,"Comedy,Drama",7.1,138213,836,1964.5980000000059,30701,6203,True
+tt1924396,The Best Offer,La migliore offerta,2013,131,"Crime,Drama,Mystery",7.8,136702,1580,3923.5420000000495,56795,10899,True
+tt1904996,Parker,Parker,2013,118,"Action,Crime,Thriller",6.2,135733,4142,13227.575999999992,204474,38788,True
+tt4501244,Why Him?,Why Him?,2016,111,Comedy,6.2,134999,8397,15642.713999999924,243324,47700,True
+tt1862079,Safety Not Guaranteed,Safety Not Guaranteed,2012,86,"Adventure,Comedy,Drama",6.9,134957,3315,7428.453000000043,124962,24153,True
+tt0120632,City of Angels,City of Angels,1998,114,"Drama,Fantasy,Romance",6.7,134502,2120,3727.1039999999903,56346,10976,True
+tt1911644,The Call,The Call,2013,94,"Drama,Thriller",6.7,134292,1680,3161.716000000022,36012,6788,True
+tt2567026,Alice Through the Looking Glass,Alice Through the Looking Glass,2016,113,"Adventure,Family,Fantasy",6.2,134214,4059,7936.358999999993,103383,19605,True
+tt0313737,Two Weeks Notice,Two Weeks Notice,2002,101,"Comedy,Romance",6.2,134204,1413,3900.839000000002,58040,11217,True
+tt0256415,Sweet Home Alabama,Sweet Home Alabama,2002,108,"Comedy,Romance",6.2,134175,2402,6657.362000000007,86008,17254,True
+tt0467197,Max Payne,Max Payne,2008,100,"Action,Crime,Drama",5.3,133808,28,62.87600000000029,958,152,True
+tt1228987,Let Me In,Let Me In,2010,116,"Drama,Fantasy,Horror",7.1,133026,2502,5942.652,61929,12231,True
+tt1172049,Demolition,Demolition,2015,101,"Comedy,Drama",7.0,132951,1256,2325.7249999999913,37857,6757,True
+tt0113855,Mortal Kombat,Mortal Kombat,1995,101,"Action,Adventure,Fantasy",5.8,131753,2847,5377.75199999996,78402,15234,True
+tt0365907,A Walk Among the Tombstones,A Walk Among the Tombstones,2014,114,"Action,Crime,Drama",6.5,131748,2870,5747.969999999965,92580,18518,True
+tt0397101,The Skeleton Key,The Skeleton Key,2005,104,"Drama,Horror,Mystery",6.5,131323,1157,2316.773000000001,33313,6352,True
+tt0117218,The Nutty Professor,The Nutty Professor,1996,95,"Comedy,Romance,Sci-Fi",5.7,130687,4059,12231.468000000024,177030,35571,True
+tt0110622,Naked Gun 33 1/3: The Final Insult,Naked Gun 33 1/3: The Final Insult,1994,83,"Comedy,Crime",6.5,127743,3159,8325.639000000006,119202,22050,True
+tt0110478,Maverick,Maverick,1994,127,"Action,Adventure,Comedy",7.0,125944,4170,8863.035000000002,125742,24723,True
+tt0406375,Zathura: A Space Adventure,Zathura: A Space Adventure,2005,101,"Action,Adventure,Comedy",6.3,125606,956,2188.470999999996,29350,5950,True
+tt1114740,Paul Blart: Mall Cop,Paul Blart: Mall Cop,2009,91,"Action,Comedy,Crime",5.3,124785,1916,4603.768000000016,90952,13420,True
+tt0366627,The Jacket,The Jacket,2005,103,"Drama,Fantasy,Mystery",7.1,124475,1890,5020.051999999996,66212,13338,True
+tt1067583,Water for Elephants,Water for Elephants,2011,120,"Drama,Romance",6.9,123881,1902,6353.843999999995,69452,13762,True
+tt1307068,Seeking a Friend for the End of the World,Seeking a Friend for the End of the World,2012,101,"Adventure,Comedy,Drama",6.7,123126,4059,8264.42400000001,125400,24369,True
+tt1956620,Sex Tape,Sex Tape,2014,94,"Comedy,Romance",5.1,122881,4344,7720.73599999998,130476,26118,True
+tt1602613,Only God Forgives,Only God Forgives,2013,90,"Action,Crime,Drama",5.7,122723,248,827.5050000000045,9297,1592,True
+tt0286499,Bend It Like Beckham,Bend It Like Beckham,2002,112,"Comedy,Drama,Romance",6.7,122692,1242,3394.840000000011,47175,9272,True
+tt0368008,The Manchurian Candidate,The Manchurian Candidate,2004,129,"Drama,Mystery,Sci-Fi",6.6,122648,4884,11524.770000000017,171726,31038,True
+tt1547234,Premium Rush,Premium Rush,2012,91,"Action,Thriller",6.5,122334,120,277.83900000000494,2904,558,True
+tt4572514,Patriots Day,Patriots Day,2016,133,"Action,Crime,Drama",7.3,121799,5625,12575.871000000014,210624,41076,True
+tt0405296,A Scanner Darkly,A Scanner Darkly,2006,100,"Animation,Comedy,Crime",7.0,121760,2816,7262.920000000022,115018,21388,True
+tt0390384,Primer,Primer,2004,77,"Drama,Sci-Fi,Thriller",6.7,121283,3120,8501.184000000023,149940,29877,True
+tt0396555,Meet the Robinsons,Meet the Robinsons,2007,95,"Adventure,Animation,Comedy",6.8,121277,4242,9740.787000000008,145047,28653,True
+tt1078940,Couples Retreat,Couples Retreat,2009,113,Comedy,5.6,121144,2355,5089.126000000014,85779,16877,True
+tt2199571,Run All Night,Run All Night,2015,114,"Action,Crime,Thriller",6.6,119749,1176,2544.8919999999825,43242,8453,True
+tt0365830,Tenacious D in the Pick of Destiny,Tenacious D in The Pick of Destiny,2006,94,"Adventure,Comedy,Music",6.8,119341,4953,11831.621999999994,144237,30357,True
+tt4094724,The Purge: Election Year,The Purge: Election Year,2016,108,"Action,Horror,Sci-Fi",6.0,118755,2504,5413.992000000006,79950,15378,True
+tt0300471,Shanghai Knights,Shanghai Knights,2003,114,"Action,Adventure,Comedy",6.2,117426,1564,3222.8800000000065,44244,8721,True
+tt1433108,Faster,Faster,2010,98,"Action,Crime,Drama",6.4,117036,1810,4548.199999999982,63448,12780,True
+tt0340163,Hostage,Hostage,2005,113,"Action,Crime,Drama",6.5,116196,1106,3379.082000000019,40366,7839,True
+tt0427152,Dinner for Schmucks,Dinner for Schmucks,2010,114,Comedy,5.9,116159,4767,12384.330000000029,182679,36552,True
+tt0109444,Clear and Present Danger,Clear and Present Danger,1994,141,"Action,Crime,Drama",6.9,115960,45,118.96500000000034,1431,276,True
+tt0870111,Frost/Nixon,Frost/Nixon,2008,122,"Biography,Drama,History",7.6,115849,3976,9735.400000000005,151158,27388,True
+tt1675192,Take Shelter,Take Shelter,2011,120,"Drama,Thriller",7.3,115332,885,1950.0940000000076,26925,5433,True
+tt0848537,Epic,Epic,2013,102,"Action,Adventure,Animation",6.6,114153,1260,2637.67599999999,36636,7172,True
+tt2980592,The Guest,The Guest,2014,100,"Action,Mystery,Thriller",6.7,113945,1212,5492.439999999996,51774,9560,True
+tt0879870,Eat Pray Love,Eat Pray Love,2010,133,"Biography,Comedy,Drama",5.9,113531,2703,6802.965,103776,19539,True
+tt0114214,The Quick and the Dead,The Quick and the Dead,1995,108,"Action,Drama,Romance",6.5,112906,6,15.386999999999887,66,12,True
+tt1781769,Anna Karenina,Anna Karenina,2012,129,"Drama,Romance",6.6,112093,4290,8219.598000000009,123528,23478,True
+tt2241351,Money Monster,Money Monster,2016,98,"Action,Crime,Drama",6.5,111991,5805,12295.80899999998,236511,43878,True
+tt0386117,Where the Wild Things Are,Where the Wild Things Are,2009,101,"Adventure,Drama,Family",6.7,111906,967,2283.104999999993,31200,6313,True
+tt3863552,Bajrangi Bhaijaan,Bajrangi Bhaijaan,2015,163,"Adventure,Comedy,Drama",8.1,110778,4226,10403.977999999299,120392,22548,True
+tt1602620,Amour,Amour,2012,127,Drama,7.9,110373,3063,6622.21499999995,80796,15771,True
+tt1800246,That Awkward Moment,That Awkward Moment,2014,94,"Comedy,Romance",6.1,110343,5262,9860.817000000026,179361,35904,True
+tt0109424,Chungking Express,Chung Hing sam lam,1994,102,"Comedy,Crime,Drama",7.9,110336,2481,6205.281000000052,77529,13986,True
+tt0337921,Cellular,Cellular,2004,94,"Action,Crime,Thriller",6.5,110312,3291,7980.291000000016,104580,21081,True
+tt0248667,Ali,Ali,2001,157,"Biography,Drama,Sport",6.7,110071,3106,8756.800000000005,121522,23870,True
+tt0127536,Elizabeth,Elizabeth,1998,124,"Biography,Drama,History",7.4,110039,999,2914.3350000000073,31872,6196,True
+tt1027718,Wall Street: Money Never Sleeps,Wall Street: Money Never Sleeps,2010,133,Drama,6.2,109781,6867,15138.590999999984,238851,45852,True
+tt2193215,The Counselor,The Counselor,2013,117,"Action,Adventure,Crime",5.4,109744,1994,4044.7240000000083,63317,11110,True
+tt0311289,Holes,Holes,2003,117,"Adventure,Comedy,Drama",7.0,109317,2251,4619.44099999999,65963,13150,True
+tt0274812,Secretary,Secretary,2002,107,"Comedy,Drama,Romance",6.9,109167,1496,4307.681999999999,45736,8744,True
+tt0371606,Chicken Little,Chicken Little,2005,81,"Adventure,Animation,Comedy",5.7,108818,1006,2675.328999999997,33520,6663,True
+tt0166896,The Straight Story,The Straight Story,1999,112,"Biography,Drama",8.0,108684,691,2108.003999999995,22353,4421,True
+tt1045778,Year One,Year One,2009,97,Comedy,5.0,108512,1511,4012.0399999999945,60596,11751,True
+tt0453562,42,42,2013,128,"Biography,Drama,Sport",7.5,108474,1000,2380.955999999999,33338,6638,True
+tt0455760,Dead Silence,Dead Silence,2007,89,"Horror,Mystery,Thriller",6.2,108302,2724,6379.443000000012,93585,18525,True
+tt0112818,Dead Man Walking,Dead Man Walking,1995,122,"Crime,Drama",7.5,108190,4164,12957.246000000025,176724,35235,True
+tt2592614,Resident Evil: The Final Chapter,Resident Evil: The Final Chapter,2016,107,"Action,Horror,Sci-Fi",5.5,107969,2454,4596.354000000016,74157,13593,True
+tt2357129,Jobs,Jobs,2013,128,"Biography,Drama",6.0,107250,2239,6038.384999999978,96380,18705,True
+tt0101761,The Doors,The Doors,1991,140,"Biography,Drama,Music",7.2,106869,2422,6653.359999999976,92550,18150,True
+tt1666801,The DUFF,The DUFF,2015,101,"Comedy,Romance",6.4,106855,3856,8500.66799999998,145466,26218,True
+tt0395699,The Pacifier,The Pacifier,2005,95,"Action,Comedy,Drama",5.6,106622,1246,3366.4099999999976,39510,7722,True
+tt0120791,Practical Magic,Practical Magic,1998,104,"Comedy,Drama,Fantasy",6.4,106326,1276,2601.067000000002,36436,7155,True
+tt0960731,Bedtime Stories,Bedtime Stories,2008,99,"Adventure,Comedy,Family",6.0,106105,3688,9210.140000000012,132214,24354,True
+tt0322802,Jackass: The Movie,Jackass: The Movie,2002,85,"Action,Comedy,Documentary",6.6,106082,2606,5028.910000000013,66814,13484,True
+tt0816462,Conan the Barbarian,Conan the Barbarian,2011,113,"Action,Adventure,Fantasy",5.2,105808,438,1313.665999999998,14647,2741,True
+tt0138524,Intolerable Cruelty,Intolerable Cruelty,2003,100,"Comedy,Crime,Romance",6.3,105699,1461,4074.7210000000086,55872,10249,True
+tt0117318,The People vs. Larry Flynt,The People vs. Larry Flynt,1996,130,"Biography,Drama",7.3,105601,3320,9970.577999999958,135988,26792,True
+tt0808417,Persepolis,Persepolis,2007,96,"Animation,Biography,Drama",8.0,105300,3510,8895.936000000002,115542,22290,True
+tt0119229,Grosse Pointe Blank,Grosse Pointe Blank,1997,107,"Action,Comedy,Crime",7.3,104825,2768,8619.114000000018,140404,28000,True
+tt0150377,Double Jeopardy,Double Jeopardy,1999,105,"Crime,Drama,Mystery",6.5,104783,846,2624.9749999999963,37814,7313,True
+tt0418819,Land of the Dead,Land of the Dead,2005,93,"Horror,Sci-Fi,Thriller",6.2,104770,1168,2300.143999999998,36397,6632,True
+tt3322364,Concussion,Concussion,2015,123,"Biography,Drama,Sport",7.1,104671,4080,10067.894999999984,144987,28848,True
+tt0383028,"Synecdoche, New York","Synecdoche, New York",2008,124,Drama,7.5,104393,2972,8217.680000000017,109814,21694,True
+tt0472181,The Smurfs,The Smurfs,2011,103,"Adventure,Animation,Comedy",5.4,104131,1017,3575.0110000000004,38915,7771,True
+tt0164334,Along Came a Spider,Along Came a Spider,2001,104,"Crime,Drama,Mystery",6.4,103737,2838,8426.004000000012,98511,18864,True
+tt0492956,The Game Plan,The Game Plan,2007,110,"Comedy,Family,Sport",6.2,103645,4776,11252.32199999999,167658,32973,True
+tt0107798,The Pelican Brief,The Pelican Brief,1993,141,"Crime,Drama,Mystery",6.6,103451,1372,3215.1980000000153,49188,9041,True
+tt3522806,Mechanic: Resurrection,Mechanic: Resurrection,2016,98,"Action,Adventure,Thriller",5.8,102721,649,1505.5959999999916,19983,3836,True
+tt1078588,My Sister's Keeper,My Sister's Keeper,2009,109,"Drama,Family",7.3,102618,1283,3030.3479999999913,47157,9241,True
+tt2347569,Frances Ha,Frances Ha,2012,86,"Comedy,Drama,Romance",7.4,102075,1284,3213.2700000000045,47625,9483,True
+tt0119099,Fallen,Fallen,1998,124,"Action,Crime,Drama",7.0,101952,2674,6533.8839999999955,94680,18332,True
+tt0498353,Hostel: Part II,Hostel: Part II,2007,94,Horror,5.5,101940,3564,7318.800000000005,83256,15513,True
+tt1293847,xXx: Return of Xander Cage,xXx: Return of Xander Cage,2017,107,"Action,Adventure,Thriller",5.2,101615,42,74.32800000000071,1023,207,True
+tt3063516,Jackass Presents: Bad Grandpa,Bad Grandpa,2013,92,Comedy,6.5,100551,1745,3711.0160000000105,54145,11035,True
+tt0356634,Garfield: The Movie,Garfield: The Movie,2004,80,"Adventure,Comedy,Family",5.1,100537,3024,9342.812999999984,117408,23475,True
+tt0446755,The Painted Veil,The Painted Veil,2006,125,"Drama,Romance",7.4,99845,3522,7588.172999999947,107199,20586,True
+tt0267804,The One,The One,2001,87,"Action,Sci-Fi,Thriller",5.9,99721,3225,6004.149000000003,90780,18492,True
+tt0284837,Ali G Indahouse,Ali G Indahouse,2002,87,Comedy,6.2,99518,2336,7481.4960000000165,88190,17840,True
+tt0264616,Frailty,Frailty,2001,100,"Crime,Drama,Thriller",7.2,99412,2082,5182.594000000001,68480,14056,True
+tt1126591,Burlesque,Burlesque,2010,119,"Drama,Music,Musical",6.4,99072,3680,8382.429999999922,122150,23842,True
+tt1020072,Selma,Selma,2014,128,"Biography,Drama,History",7.5,99052,1611,4196.006999999988,56954,10849,True
+tt1292566,How to Be Single,How to Be Single,2016,110,"Comedy,Drama,Romance",6.1,99052,3756,7308.479999999983,122242,24850,True
+tt0120787,A Perfect Murder,A Perfect Murder,1998,107,"Crime,Drama,Thriller",6.6,98261,2016,5157.8020000000015,62198,12134,True
+tt0286112,Shaolin Soccer,Siu Lam juk kau,2001,87,"Action,Comedy,Fantasy",7.3,96521,1003,2766.9420000000373,35865,7256,True
+tt0443701,The X Files: I Want to Believe,The X Files: I Want to Believe,2008,104,"Adventure,Crime,Drama",5.9,96468,2174,5088.508000000002,76400,14536,True
+tt0116778,Kingpin,Kingpin,1996,114,"Comedy,Sport",6.9,96389,3558,9892.43100000002,129489,25764,True
+tt4954522,Raw,Grave,2016,99,"Drama,Horror",6.9,96216,2127,4109.637000000022,53880,10731,True
+tt0270288,Confessions of a Dangerous Mind,Confessions of a Dangerous Mind,2002,113,"Biography,Comedy,Crime",7.0,95456,1383,3627.2459999999883,48933,9478,True
+tt1371150,This Is Where I Leave You,This Is Where I Leave You,2014,103,"Comedy,Drama",6.7,94693,3574,8541.258000000027,145642,27430,True
+tt0367089,The Squid and the Whale,The Squid and the Whale,2005,81,"Comedy,Drama",7.3,94585,1552,2915.869000000012,39603,7824,True
+tt1564585,Skyline,Skyline,2010,92,"Action,Sci-Fi,Thriller",4.5,94316,1114,2111.321999999995,29024,6092,True
+tt0290095,The Tuxedo,The Tuxedo,2002,98,"Action,Comedy,Sci-Fi",5.4,93347,3454,6422.14799999999,87414,16570,True
+tt0181536,Finding Forrester,Finding Forrester,2000,136,"Drama,Sport",7.3,93076,4719,11124.134999999975,160428,30789,True
+tt1637706,Our Idiot Brother,Our Idiot Brother,2011,90,"Comedy,Drama",6.4,92469,1512,3798.7429999999945,58054,11682,True
+tt0117802,Swingers,Swingers,1996,96,"Comedy,Drama",7.2,92250,2838,8219.01599999997,130428,26660,True
+tt1219342,Legend of the Guardians: The Owls of Ga'Hoole,Legend of the Guardians: The Owls of Ga'Hoole,2010,97,"Action,Adventure,Animation",6.9,91802,3537,8602.811999999994,116553,22362,True
+tt3850214,Dope,Dope,2015,103,"Adventure,Comedy,Crime",7.2,91754,3992,8408.619999999972,133488,24504,True
+tt0101921,Fried Green Tomatoes,Fried Green Tomatoes,1991,130,Drama,7.7,90839,3466,9040.262000000006,121006,23406,True
+tt0119978,The Rainmaker,The Rainmaker,1997,135,"Crime,Drama,Thriller",7.2,90598,5394,10953.703999999992,144050,27818,True
+tt0110074,The Hudsucker Proxy,The Hudsucker Proxy,1994,111,"Comedy,Drama,Fantasy",7.2,90201,4155,9251.279999999975,156690,28527,True
+tt1020558,Centurion,Centurion,2010,97,"Action,Drama,History",6.3,89503,1785,4446.59399999997,60456,11805,True
+tt0770752,Fool's Gold,Fool's Gold,2008,112,"Action,Adventure,Comedy",5.7,89220,2776,6363.039999999954,87962,16520,True
+tt0465551,Notes on a Scandal,Notes on a Scandal,2006,92,"Crime,Drama,Romance",7.4,89102,2988,9184.355999999998,111000,21531,True
+tt0815245,The Uninvited,The Uninvited,2009,87,"Drama,Fantasy,Horror",6.3,89097,1422,3725.066000000028,50628,9580,True
+tt0117333,Phenomenon,Phenomenon,1996,123,"Drama,Fantasy,Romance",6.5,89056,4965,14626.659000000016,182781,36762,True
+tt0106965,Free Willy,Free Willy,1993,112,"Adventure,Drama,Family",6.1,89005,3033,7135.280999999986,90666,18231,True
+tt0303816,Cabin Fever,Cabin Fever,2002,93,Horror,5.6,88566,1038,2502.804000000015,31797,6551,True
+tt0427392,The Invasion,The Invasion,2007,99,"Sci-Fi,Thriller",5.9,87743,3438,8295.300000000017,128160,23856,True
+tt0120828,Six Days Seven Nights,Six Days Seven Nights,1998,102,"Action,Adventure,Comedy",5.9,87641,2122,5806.638000000009,71948,14718,True
+tt2452386,The Fundamentals of Caring,The Fundamentals of Caring,2016,97,"Comedy,Drama",7.3,86559,2038,5218.307999999999,79158,15784,True
+tt2359024,Blue Ruin,Blue Ruin,2013,90,"Crime,Drama,Thriller",7.1,86288,1848,4674.6239999999925,49914,10086,True
+tt1753383,A Dog's Purpose,A Dog's Purpose,2017,100,"Adventure,Comedy,Drama",7.3,86137,5586,11475.981000000007,152016,29412,True
+tt1600195,Abduction,Abduction,2011,106,"Action,Drama,Mystery",5.1,85971,916,2598.618000000002,39166,7712,True
+tt0494238,Inkheart,Inkheart,2008,106,"Adventure,Family,Fantasy",6.1,85368,2490,5785.360000000002,87920,17236,True
+tt0112870,Dilwale Dulhania Le Jayenge,Dilwale Dulhania Le Jayenge,1995,181,"Drama,Romance",8.0,85118,1422,5384.036999999896,60711,11809,True
+tt0419887,The Kite Runner,The Kite Runner,2007,128,Drama,7.6,85110,1002,2259.627000000043,29646,5811,True
+tt0102975,Star Trek VI: The Undiscovered Country,Star Trek VI: The Undiscovered Country,1991,110,"Action,Adventure,Sci-Fi",7.3,84990,1842,6703.44,77330,13810,True
+tt0370986,Mysterious Skin,Mysterious Skin,2004,105,Drama,7.6,84870,1020,2959.307999999983,33101,6971,True
+tt0119051,The Edge,The Edge,1997,117,"Action,Adventure,Drama",7.0,84783,2102,3938.235999999996,55394,11424,True
+tt1355631,The Infiltrator,The Infiltrator,2016,127,"Biography,Crime,Drama",7.0,84754,3068,6731.195999999988,113708,22366,True
+tt2387433,Dark Skies,Dark Skies,2013,97,"Horror,Sci-Fi,Thriller",6.3,84739,1938,3639.101999999989,61058,12000,True
+tt4513674,Café Society,Café Society,2016,96,"Comedy,Drama,Romance",6.6,84640,3404,7438.8059999999905,116102,20960,True
+tt1582507,House at the End of the Street,House at the End of the Street,2012,101,"Drama,Horror,Mystery",5.5,84445,2079,4722.684000000019,66888,13710,True
+tt2262227,The Book of Life,The Book of Life,2014,95,"Adventure,Animation,Comedy",7.2,84169,6,8.7599999999984,82,12,True
+tt0389557,Black Book,Zwartboek,2006,145,"Drama,Thriller,War",7.7,83734,3771,11261.862000000017,128268,24312,True
+tt0120324,A Simple Plan,A Simple Plan,1998,121,"Crime,Drama,Thriller",7.5,83306,1658,3637.294000000002,60781,12137,True
+tt0119925,The Postman,The Postman,1997,177,"Action,Adventure,Drama",6.1,83160,3250,6122.594000000011,87186,18008,True
+tt0120844,Star Trek: Insurrection,Star Trek: Insurrection,1998,103,"Action,Adventure,Sci-Fi",6.4,82998,1189,3021.831999999996,46967,8375,True
+tt0338095,High Tension,Haute tension,2003,91,Horror,6.7,82791,399,1010.4599999999982,12282,2471,True
+tt0139809,The Thirteenth Floor,The Thirteenth Floor,1999,100,"Mystery,Sci-Fi,Thriller",7.0,82664,1017,2120.339999999998,27958,5442,True
+tt0113824,Whisper of the Heart,Mimi o sumaseba,1995,111,"Animation,Drama,Family",7.8,82651,2174,6109.676000000002,62944,12242,True
+tt0104940,The Muppet Christmas Carol,The Muppet Christmas Carol,1992,85,"Comedy,Drama,Family",7.8,81976,2450,6721.0079999999725,83576,15698,True
+tt0116040,Daylight,Daylight,1996,114,"Action,Adventure,Drama",6.0,81369,3483,8208.251999999966,131247,25056,True
+tt0103786,Beethoven,Beethoven,1992,87,"Comedy,Drama,Family",5.8,81195,828,2006.7349999999924,28549,5686,True
+tt0120749,Mercury Rising,Mercury Rising,1998,111,"Action,Crime,Drama",6.1,81073,2804,5947.971999999997,85704,16456,True
+tt1972779,The Best of Me,The Best of Me,2014,118,"Drama,Romance",6.7,81005,2798,6838.361999999953,97556,19792,True
+tt1433811,Disconnect,Disconnect,2012,115,"Crime,Drama,Mystery",7.5,80132,3028,6345.943999999982,98298,19180,True
+tt0111301,Street Fighter,Street Fighter,1994,102,"Action,Adventure,Comedy",4.1,79938,3621,8721.87300000004,109473,19455,True
+tt0147612,Happiness,Happiness,1998,134,"Comedy,Drama",7.7,79620,1335,3573.292999999986,42019,7803,True
+tt1014763,Child 44,Child 44,2015,137,"Crime,Drama,History",6.4,79615,1427,3049.4490000000173,37842,7333,True
+tt0457400,Land of the Lost,Land of the Lost,2009,102,"Action,Adventure,Comedy",5.3,79493,1506,2684.411999999998,44926,8470,True
+tt1178663,Whatever Works,Whatever Works,2009,93,"Comedy,Romance",7.1,79153,1858,4357.083999999998,67897,12836,True
+tt0146336,Urban Legend,Urban Legend,1998,99,"Horror,Mystery,Thriller",5.6,78301,990,2164.8700000000067,31598,6084,True
+tt0414055,Elizabeth: The Golden Age,Elizabeth: The Golden Age,2007,114,"Biography,Drama,History",6.8,78039,2943,7835.832000000024,89184,17346,True
+tt0344510,A Very Long Engagement,Un long dimanche de fiançailles,2004,133,"Drama,Mystery,Romance",7.6,77865,2500,7387.140000000003,101710,19628,True
+tt0120738,Lost in Space,Lost in Space,1998,130,"Action,Adventure,Sci-Fi",5.2,77641,1292,2413.9419999999986,40966,7918,True
+tt0110932,Quiz Show,Quiz Show,1994,133,"Biography,Drama,History",7.5,77597,6264,18919.58100000002,297498,57345,True
+tt2039393,The Gambler,The Gambler,2014,111,"Crime,Drama,Thriller",6.0,77578,4731,9533.729999999972,156624,28683,True
+tt0118972,The Devil's Own,The Devil's Own,1997,111,"Action,Crime,Drama",6.2,77569,1998,4362.983999999985,60810,12072,True
+tt0237572,The Pledge,The Pledge,2001,124,"Crime,Drama,Mystery",6.7,77150,3240,7534.931999999961,107829,21507,True
+tt4901306,Perfect Strangers,Perfetti sconosciuti,2016,96,"Comedy,Drama,Thriller",7.7,77095,3687,10958.37300000004,145251,29823,True
+tt0861689,Blindness,Blindness,2008,121,"Drama,Mystery,Thriller",6.5,77094,2878,6899.053999999986,97292,19432,True
+tt0986233,Hunger,Hunger,2008,96,"Biography,Crime,Drama",7.5,76439,1038,2802.4440000000154,46424,8808,True
+tt2140619,Two Night Stand,Two Night Stand,2014,86,"Comedy,Romance",6.3,76395,2,2.0,0,0,True
+tt2545118,Blackfish,Blackfish,2013,83,"Documentary,Drama,Thriller",8.1,76343,1345,3382.619,57113,10463,True
+tt0862846,Sunshine Cleaning,Sunshine Cleaning,2008,91,"Comedy,Drama",6.8,76050,1253,3242.005999999992,37969,7592,True
+tt0115751,Breaking the Waves,Breaking the Waves,1996,153,Drama,7.8,75769,3012,7627.1520000000355,83094,16846,True
+tt0203119,Sexy Beast,Sexy Beast,2000,89,"Crime,Drama,Thriller",7.3,75652,2670,7150.392,88476,17319,True
+tt1268799,A Very Harold & Kumar Christmas,A Very Harold & Kumar 3D Christmas,2011,90,"Adventure,Comedy",6.2,75204,1094,3459.0899999999965,41352,8307,True
+tt0480669,Timecrimes,Los cronocrímenes,2007,92,"Horror,Mystery,Sci-Fi",7.1,75033,1330,2502.9020000000264,36124,7424,True
+tt2025690,The Finest Hours,The Finest Hours,2016,117,"Action,Drama,History",6.7,74494,1616,2944.351000000016,45577,8640,True
+tt4080728,A Man Called Ove,En man som heter Ove,2015,116,"Comedy,Drama,Romance",7.7,74482,1862,6411.993999999994,73508,14788,True
+tt3716530,Elle,Elle,2016,130,"Action,Crime,Drama",7.1,74404,3338,8768.93399999997,126070,22970,True
+tt0108002,Rudy,Rudy,1993,114,"Biography,Drama,Sport",7.5,74299,3915,10248.956999999958,149457,29478,True
+tt0364517,Love Me If You Dare,Jeux d'enfants,2003,93,"Comedy,Drama,Romance",7.5,74282,1353,4683.437999999996,57264,11103,True
+tt0219965,Bandits,Bandits,2001,123,"Action,Comedy,Crime",6.5,74258,7203,10010.228999999974,196785,40353,True
+tt1800302,Gold,Gold,2016,120,"Biography,Crime,Drama",6.7,74090,5253,11199.789000000059,161259,30687,True
+tt3960412,Popstar: Never Stop Never Stopping,Popstar: Never Stop Never Stopping,2016,87,"Comedy,Drama,Music",6.7,73975,4440,9058.50200000016,139912,28890,True
+tt0327162,The Stepford Wives,The Stepford Wives,2004,93,"Comedy,Horror,Sci-Fi",5.4,73492,3384,7808.984999999978,113085,21381,True
+tt2870756,Magic in the Moonlight,Magic in the Moonlight,2014,97,"Comedy,Drama,Romance",6.5,73472,2168,8019.997999999977,94020,17716,True
+tt0391304,A Lot Like Love,A Lot Like Love,2005,107,"Comedy,Drama,Romance",6.6,73427,1304,3747.774999999994,45092,8766,True
+tt2402157,The November Man,The November Man,2014,108,"Action,Adventure,Crime",6.3,73128,1706,4653.886000000004,59752,11674,True
+tt0285492,Cube²: Hypercube,Cube 2: Hypercube,2002,94,"Horror,Mystery,Sci-Fi",5.5,72942,2990,5986.901999999986,83022,15820,True
+tt2223990,Draft Day,Draft Day,2014,110,"Drama,Sport",6.8,72939,5736,12948.779999999992,195333,37356,True
+tt2053425,Rust and Bone,De rouille et d'os,2012,120,"Drama,Romance",7.4,72920,3381,7622.756999999983,79437,15264,True
+tt0970411,City of Ember,City of Ember,2008,90,"Adventure,Drama,Family",6.4,72839,2058,5434.5579999999845,61480,11722,True
+tt3099498,Tusk,Tusk,2014,102,"Comedy,Horror",5.4,72564,2920,7891.196000000008,104326,20438,True
+tt2005374,The Frozen Ground,The Frozen Ground,2013,105,"Biography,Crime,Drama",6.4,72534,1353,3231.6079999999797,48256,9689,True
+tt0115964,Crash,Crash,1996,100,Drama,6.4,72520,868,2501.643999999997,28596,5434,True
+tt4624424,Storks,Storks,2016,87,"Adventure,Animation,Comedy",6.8,72184,1460,2630.9769999999935,42939,8640,True
+tt2101341,Dead Man Down,Dead Man Down,2013,118,"Action,Adventure,Crime",6.4,71825,2042,3988.148000000014,61870,12622,True
+tt0102945,Sleeping with the Enemy,Sleeping with the Enemy,1991,99,"Drama,Thriller",6.3,71299,695,2028.7670000000055,23028,4645,True
+tt3322420,Queen,Queen,2013,146,"Adventure,Comedy,Drama",8.1,71253,1074,2576.6610000000164,42693,7761,True
+tt0338459,Spy Kids 3: Game Over,Spy Kids 3: Game Over,2003,84,"Action,Adventure,Comedy",4.4,71132,1024,2828.2520000000004,33487,6729,True
+tt1586752,Machine Gun Preacher,Machine Gun Preacher,2011,129,"Action,Biography,Crime",6.7,71118,978,3023.25199999999,35303,7273,True
+tt0433387,Harsh Times,Harsh Times,2005,116,"Action,Crime,Drama",6.8,70735,6408,13171.701000000012,170022,32958,True
+tt0983213,5 Centimeters per Second,Byôsoku 5 senchimêtoru,2007,63,"Animation,Drama,Family",7.4,70693,1250,3350.299999999994,54508,9536,True
+tt0111149,Shallow Grave,Shallow Grave,1994,89,"Crime,Drama,Thriller",7.2,70666,2076,7340.852999999978,85434,17400,True
+tt2106651,Spectral,Spectral,2016,107,"Action,Adventure,Sci-Fi",6.3,70493,2362,4318.031999999999,82974,15516,True
+tt0139414,Lake Placid,Lake Placid,1999,82,"Action,Comedy,Horror",5.8,70368,1556,5240.533999999997,36422,6892,True
+tt3168230,Mr. Holmes,Mr. Holmes,2015,104,"Crime,Drama,Family",6.8,70250,3567,7406.126999999961,154923,24492,True
+tt2390361,Enough Said,Enough Said,2013,93,"Comedy,Drama,Romance",7.0,69972,1589,3302.498000000011,47722,9352,True
+tt0099422,Dick Tracy,Dick Tracy,1990,105,"Action,Comedy,Crime",6.2,69882,1289,4157.341000000005,51359,10547,True
+tt1130080,The Informant!,The Informant!,2009,108,"Biography,Comedy,Crime",6.5,69789,797,2258.7859999999955,36439,6606,True
+tt0111686,New Nightmare,Wes Craven's New Nightmare,1994,112,"Fantasy,Horror,Mystery",6.4,69518,3525,8655.197999999978,112563,21822,True
+tt0113198,A Goofy Movie,A Goofy Movie,1995,78,"Adventure,Animation,Comedy",7.0,69455,2988,8452.478999999988,101154,21243,True
+tt3332064,Pan,Pan,2015,111,"Action,Adventure,Comedy",5.7,69425,1231,2243.521999999988,33594,6596,True
+tt0472160,Penelope,Penelope,2006,104,"Comedy,Fantasy,Romance",6.7,69191,2304,6333.89399999999,84508,16728,True
+tt0962736,The Young Victoria,The Young Victoria,2009,105,"Biography,Drama,History",7.2,69110,991,2604.5829999999937,42114,7988,True
+tt0110367,Little Women,Little Women,1994,115,"Drama,Family,Romance",7.3,68955,5046,11833.529999999993,193800,39726,True
+tt0462200,Black Snake Moan,Black Snake Moan,2006,116,"Drama,Music",6.9,68773,3555,8700.005999999983,121128,24978,True
+tt5168192,"I, Daniel Blake","I, Daniel Blake",2016,100,Drama,7.8,68190,2960,6281.680000000006,114862,22958,True
+tt1124037,Free State of Jones,Free State of Jones,2016,139,"Action,Biography,Drama",6.9,68037,4392,8721.134999999958,269019,36594,True
+tt0492044,The Haunting in Connecticut,The Haunting in Connecticut,2009,92,"Drama,Horror,Mystery",5.9,67838,793,1856.1999999999937,24569,4840,True
+tt0108255,Super Mario Bros.,Super Mario Bros.,1993,104,"Adventure,Comedy,Family",4.2,67758,3888,9992.717999999868,119421,23454,True
+tt2279373,The SpongeBob Movie: Sponge Out of Water,The SpongeBob Movie: Sponge Out of Water,2015,92,"Adventure,Animation,Comedy",6.0,67434,2566,5567.5759999999755,73412,13964,True
+tt2364841,Runner Runner,Runner Runner,2013,88,"Crime,Mystery,Thriller",5.6,67193,48,4646.938,783,159,True
+tt1990314,Robot & Frank,Robot & Frank,2012,89,"Comedy,Crime,Drama",7.0,67189,3534,7366.160999999971,115179,22515,True
+tt0284490,Showtime,Showtime,2002,95,"Action,Comedy,Crime",5.6,67162,3372,9972.676000000012,114968,23142,True
+tt0115736,Bound,Bound,1996,109,"Crime,Thriller",7.3,66855,3738,9327.060000000012,116763,23901,True
+tt0211443,Jason X,Jason X,2001,92,"Action,Horror,Sci-Fi",4.5,66675,1746,2917.2620000000134,46476,8690,True
+tt0264935,Murder by Numbers,Murder by Numbers,2002,115,"Crime,Mystery,Thriller",6.2,66309,2342,6647.680000000017,82278,16472,True
+tt1075417,Race to Witch Mountain,Race to Witch Mountain,2009,98,"Action,Adventure,Family",5.7,66118,1027,2604.7950000000037,37946,7269,True
+tt5592248,The Beguiled,The Beguiled,2017,93,"Drama,History,Thriller",6.3,66005,2640,4601.685999999974,77132,14618,True
+tt3612616,Mommy,Mommy,2014,139,Drama,8.0,65469,1473,3022.92000000001,42662,8262,True
+tt1270262,The Devil's Double,The Devil's Double,2011,109,"Biography,Drama,Thriller",7.0,65344,861,2413.978000000003,27966,5679,True
+tt1179891,My Bloody Valentine,My Bloody Valentine,2009,101,"Horror,Mystery,Thriller",5.4,65051,2028,4090.49399999998,56344,11426,True
+tt1093370,Jab We Met,Jab We Met,2007,138,"Comedy,Drama,Romance",7.9,65015,2013,4487.73600000002,66934,13338,True
+tt0119715,Mousehunt,Mousehunt,1997,98,Comedy,6.5,64850,1930,5886.867999999992,68256,13446,True
+tt0118548,Absolute Power,Absolute Power,1997,121,"Action,Crime,Drama",6.7,64848,2114,4685.528000000026,66354,13126,True
+tt2231253,Wild Card,Wild Card,2015,92,"Action,Crime,Drama",5.6,64443,2032,5133.113999999991,68020,13378,True
+tt2788732,Pete's Dragon,Pete's Dragon,2016,102,"Action,Adventure,Comedy",6.7,64283,2010,3795.718000000025,52032,10548,True
+tt0111742,Wolf,Wolf,1994,125,"Drama,Horror,Romance",6.3,64280,3741,9997.019999999991,130266,24867,True
+tt1374989,Pride and Prejudice and Zombies,Pride and Prejudice and Zombies,2016,108,"Action,Comedy,Fantasy",5.8,64254,2586,5726.009999999976,93164,16990,True
+tt0831887,The Spirit,The Spirit,2008,103,"Action,Crime,Fantasy",4.7,64229,2570,6039.421999999993,87382,16818,True
+tt0817538,Drillbit Taylor,Drillbit Taylor,2008,110,"Action,Comedy,Crime",5.7,64196,3526,7684.788000000022,136100,27748,True
+tt1226774,In the Loop,In the Loop,2009,106,Comedy,7.4,64140,2076,5051.352000000013,84801,16280,True
+tt0238546,Queen of the Damned,Queen of the Damned,2002,101,"Drama,Fantasy,Horror",5.3,64054,1438,4139.863999999992,43778,8502,True
+tt1311067,Halloween II,Halloween II,2009,105,Horror,4.8,63949,710,1406.3849999999993,22464,4315,True
+tt0377981,Gnomeo & Juliet,Gnomeo & Juliet,2011,84,"Adventure,Animation,Comedy",5.9,63671,1690,4373.21799999999,52784,10218,True
+tt0243655,Wet Hot American Summer,Wet Hot American Summer,2001,97,"Comedy,Romance",6.5,63640,3411,9958.826999999965,129303,25923,True
+tt1850397,The Loft,The Loft,2014,108,"Mystery,Romance,Thriller",6.3,63630,1970,6937.347999999993,98710,20120,True
+tt1175709,All Good Things,All Good Things,2010,101,"Crime,Drama,Mystery",6.2,63619,2218,5701.7120000000095,71546,13200,True
+tt1976009,Victor Frankenstein,Victor Frankenstein,2015,110,"Drama,Horror,Sci-Fi",6.0,63518,1072,3040.8579999999906,39788,7441,True
+tt2547584,The Light Between Oceans,The Light Between Oceans,2016,133,"Drama,Romance",7.2,62967,1377,2859.653999999999,37223,7454,True
+tt0419677,Dead Man's Shoes,Dead Man's Shoes,2004,90,"Crime,Drama,Thriller",7.5,62919,1274,2635.910999999998,32819,6648,True
+tt0183869,Taxi 2,Taxi 2,2000,88,"Action,Comedy,Crime",6.5,62806,1990,5213.381999999997,76438,14528,True
+tt0247586,Nine Queens,Nueve reinas,2000,114,"Crime,Drama,Thriller",7.9,62476,2578,7075.226000000024,96584,19884,True
+tt0199753,Red Planet,Red Planet,2000,106,"Action,Sci-Fi,Thriller",5.7,62373,3144,7497.845999999989,108294,19704,True
+tt0107302,Kalifornia,Kalifornia,1993,117,"Crime,Drama,Thriller",6.7,62331,4725,10412.696999999967,138600,27393,True
+tt0125022,Heartbreakers,Heartbreakers,2001,123,"Comedy,Crime,Romance",6.3,62005,5730,11940.264000000052,154950,30603,True
+tt0243585,Stuart Little 2,Stuart Little 2,2002,77,"Adventure,Comedy,Family",5.5,61763,1818,5571.574000000011,62846,12446,True
+tt1971325,Automata,Autómata,2014,109,"Action,Drama,Sci-Fi",6.0,61669,1826,4882.558000000012,57448,11052,True
+tt0404030,Everything Is Illuminated,Everything Is Illuminated,2005,106,"Comedy,Drama",7.4,61355,724,1652.402999999998,23310,4388,True
+tt0123964,Life,Life,1999,108,"Comedy,Crime,Drama",6.8,60918,1118,2185.6989999999996,32463,6190,True
+tt0228750,Proof of Life,Proof of Life,2000,135,"Action,Drama,Thriller",6.3,60896,4584,10162.619999999995,163107,31641,True
+tt0355702,Lords of Dogtown,Lords of Dogtown,2005,107,"Biography,Drama,Sport",7.1,60801,1283,2916.2400000000007,39876,7650,True
+tt4044364,Citizenfour,Citizenfour,2014,114,"Biography,Documentary",8.0,59939,1803,4672.098999999989,76317,13998,True
+tt1800741,Step Up: Revolution,Step Up Revolution,2012,99,"Drama,Music,Romance",6.4,59906,2817,5700.749999999975,108459,19368,True
+tt2802154,Leviathan,Leviathan,2014,140,"Crime,Drama",7.6,59801,1872,4792.789999999998,72844,14316,True
+tt0814022,Bangkok Dangerous,Bangkok Dangerous,2008,99,"Action,Crime,Thriller",5.3,59594,614,1485.4399999999891,17134,3460,True
+tt0947802,Lakeview Terrace,Lakeview Terrace,2008,110,"Crime,Drama,Thriller",6.2,59407,2956,6901.1259999999975,102074,19826,True
+tt0372532,The Wedding Date,The Wedding Date,2005,90,"Comedy,Romance",6.1,59126,965,2700.3749999999977,33475,6926,True
+tt1798188,From Up on Poppy Hill,Kokuriko-zaka kara,2011,91,"Animation,Comedy,Drama",7.4,59052,2505,6674.294999999973,73743,13881,True
+tt5541240,To the Bone,To the Bone,2017,107,Drama,6.7,59048,3924,10385.20499999999,144378,28959,True
+tt0374102,Open Water,Open Water,2003,79,"Adventure,Drama,Horror",5.8,58990,972,2242.291999999996,28676,5882,True
+tt4190530,Anthropoid,Anthropoid,2016,120,"Action,Drama,History",7.2,58979,1784,3952.360000000005,55828,10630,True
+tt0138304,The Astronaut's Wife,The Astronaut's Wife,1999,109,"Drama,Sci-Fi,Thriller",5.4,58958,1149,2866.9740000000047,36231,6904,True
+tt4832640,Sultan,Sultan,2016,170,"Action,Drama,Romance",7.1,58854,3234,9957.855999999983,88462,17294,True
+tt4799050,Rough Night,Rough Night,2017,101,Comedy,5.3,58713,2211,4399.8490000000265,71998,14898,True
+tt0881320,Sanctum,Sanctum,2011,108,"Action,Adventure,Drama",5.9,58662,1930,4557.824000000003,64370,12992,True
+tt0765120,My Blueberry Nights,My Blueberry Nights,2007,95,"Drama,Romance",6.6,58619,3048,5546.408999999991,83835,17328,True
+tt0382992,Stealth,Stealth,2005,121,"Action,Adventure,Sci-Fi",5.1,58412,1115,2864.8720000000194,43137,7982,True
+tt0385267,In Good Company,In Good Company,2004,109,"Comedy,Drama,Romance",6.4,57940,3780,7947.25399999997,109598,21744,True
+tt0120032,Romy and Michele's High School Reunion,Romy and Michele's High School Reunion,1997,92,Comedy,6.4,57702,2610,7902.408000000007,101730,20436,True
+tt1043726,The Legend of Hercules,The Legend of Hercules,2014,99,"Action,Adventure,Fantasy",4.3,57660,2232,6264.572999999993,74928,14535,True
+tt1764183,Arbitrage,Arbitrage,2012,107,"Drama,Thriller",6.6,57651,5367,10205.10300000002,41640,5475,True
+tt0120399,U Turn,U Turn,1997,125,"Crime,Drama,Thriller",6.7,57472,2846,8687.843999999985,109072,22346,True
+tt0110950,Reality Bites,Reality Bites,1994,99,"Comedy,Drama,Romance",6.6,57355,4125,11823.284999999985,169593,32568,True
+tt0101765,The Double Life of Véronique,La double vie de Véronique,1991,98,"Drama,Fantasy,Music",7.6,56850,888,1423.699999999997,19668,3832,True
+tt4769836,The Do-Over,The Do-Over,2016,108,"Action,Adventure,Comedy",5.7,56836,3642,8223.21400000004,127042,25370,True
+tt0891527,Lions for Lambs,Lions for Lambs,2007,92,"Crime,Drama,Mystery",6.2,56639,3243,10538.658000000014,156234,29919,True
+tt0375173,Alfie,Alfie,2004,103,"Comedy,Drama,Romance",6.2,56539,3516,9349.356000000018,130857,24240,True
+tt1606392,Win Win,Win Win,2011,106,"Comedy,Drama,Sport",7.1,56263,3452,8438.111999999986,126402,26088,True
+tt0120434,Vegas Vacation,Vegas Vacation,1997,93,Comedy,5.9,56236,2554,4927.410000000012,69412,13498,True
+tt3174376,Before I Wake,Before I Wake,2016,97,"Drama,Fantasy,Horror",6.2,56025,1382,3771.0080000000244,43072,8592,True
+tt1073105,The Descent: Part 2,The Descent: Part 2,2009,94,"Adventure,Horror,Thriller",5.7,55555,1527,3537.6239999999866,53106,9375,True
+tt1825157,The Double,The Double,2013,93,"Comedy,Drama,Mystery",6.4,55446,928,2135.0419999999895,35932,7091,True
+tt1068242,Footloose,Footloose,2011,113,"Comedy,Drama,Music",5.9,55390,942,2949.7760000000126,39661,7968,True
+tt3398268,When Marnie Was There,Omoide no Mânî,2014,103,"Animation,Drama,Family",7.6,54869,1072,2464.254000000002,27755,5223,True
+tt1839596,Rockstar,Rockstar,2011,159,"Drama,Music,Romance",7.8,54848,6609,12948.285000000036,164397,31341,True
+tt1212436,The Back-up Plan,The Back-up Plan,2010,104,"Comedy,Romance",5.3,54708,4761,10831.910999999953,153453,29934,True
+tt0417217,Two for the Money,Two for the Money,2005,122,"Crime,Drama,Sport",6.2,54575,1933,5721.039999999995,83859,16573,True
+tt1416801,Kill the Irishman,Kill the Irishman,2011,106,"Action,Biography,Crime",7.0,54522,2254,5028.791999999991,84048,15830,True
+tt1430626,The Pirates! Band of Misfits,The Pirates! In an Adventure with Scientists!,2012,88,"Action,Adventure,Animation",6.7,54205,3687,7919.25,107253,20040,True
+tt0240515,Freddy Got Fingered,Freddy Got Fingered,2001,87,Comedy,4.7,54073,3618,10363.95899999998,146115,28623,True
+tt0110997,The River Wild,The River Wild,1994,111,"Adventure,Crime,Thriller",6.5,53864,3939,8461.78500000003,121332,24426,True
+tt1334512,Arthur,Arthur,2011,110,"Comedy,Romance",5.7,53843,2580,7183.019999999962,93204,18760,True
+tt0220506,Halloween: Resurrection,Halloween: Resurrection,2002,90,"Horror,Thriller",3.9,53832,1846,4172.329999999984,50948,9676,True
+tt0114781,Under Siege 2: Dark Territory,Under Siege 2: Dark Territory,1995,100,"Action,Adventure,Thriller",5.6,53186,3027,6797.282999999993,95202,17865,True
+tt0460780,In the Name of the King: A Dungeon Siege Tale,In the Name of the King: A Dungeon Siege Tale,2007,127,"Action,Adventure,Fantasy",3.8,53077,3738,7916.75999999998,122082,23022,True
+tt0155975,Psycho,Psycho,1998,105,"Horror,Mystery,Thriller",4.6,52781,999,3034.1139999999887,38542,7598,True
+tt0935075,Rabbit Hole,Rabbit Hole,2010,91,Drama,6.9,52751,1902,4961.813999999992,74116,15214,True
+tt1225822,Extract,Extract,2009,92,"Comedy,Crime,Romance",6.1,52731,1615,3831.8260000000028,62746,12344,True
+tt2404461,The Past,Le passé,2013,130,"Drama,Mystery",7.7,52376,1444,3390.977000000007,38126,7905,True
+tt2737050,"Two Days, One Night","Deux jours, une nuit",2014,95,Drama,7.3,52213,1854,4012.08799999999,50294,10170,True
+tt0490086,Big Stan,Big Stan,2007,105,"Action,Comedy",6.2,52076,1330,3771.138999999986,46153,9140,True
+tt0299930,Gigli,Gigli,2003,121,"Comedy,Crime,Romance",2.7,52003,1527,3589.0400000000077,57781,11218,True
+tt0238936,Devdas,Devdas,2002,185,"Drama,Musical,Romance",7.6,51998,3644,13293.386,136948,26110,True
+tt0280486,Bad Company,Bad Company,2002,116,"Action,Comedy,Thriller",5.6,51977,1620,4096.018000000003,57180,11438,True
+tt0838232,The Pink Panther 2,The Pink Panther 2,2009,92,"Action,Adventure,Comedy",5.6,51550,979,2864.527000000002,40737,7880,True
+tt0257756,High Crimes,High Crimes,2002,115,"Crime,Drama,Mystery",6.4,51517,3298,7239.029999999979,104884,20286,True
+tt0266465,A Man Apart,A Man Apart,2003,109,"Action,Crime,Drama",6.0,51133,1016,2292.531000000005,32129,6218,True
+tt0233142,3000 Miles to Graceland,3000 Miles to Graceland,2001,125,"Action,Comedy,Crime",6.0,51054,3939,8189.1839999999775,120807,23499,True
+tt0124198,Very Bad Things,Very Bad Things,1998,100,"Comedy,Crime,Thriller",6.3,51018,1565,3795.3309999999997,48075,9556,True
+tt0140888,Central Station,Central do Brasil,1998,110,Drama,8.0,50524,1100,2521.008000000007,34419,6962,True
+tt0283509,No Man's Land,No Man's Land,2001,98,"Comedy,Drama,War",7.9,50506,2098,5390.885999999985,70398,13920,True
+tt1640459,Hobo with a Shotgun,Hobo with a Shotgun,2011,86,"Action,Adventure,Comedy",6.1,50473,2402,6028.518000000003,65998,12774,True
+tt0425637,Red Cliff,Chi bi,2008,148,"Action,Adventure,Drama",7.3,50316,2184,5729.985999999989,71748,13750,True
+tt0107969,Rising Sun,Rising Sun,1993,129,"Action,Crime,Drama",6.3,50229,4227,14288.409,177537,33990,True
+tt1462769,The Odd Life of Timothy Green,The Odd Life of Timothy Green,2012,105,"Comedy,Drama,Family",6.6,50219,4407,7907.787000000019,122634,24249,True
+tt2402101,Dark Places,Dark Places,2015,113,"Crime,Drama,Mystery",6.2,49874,2490,6775.1500000000515,101924,19808,True
+tt0413895,Charlotte's Web,Charlotte's Web,2006,97,"Adventure,Comedy,Family",6.3,49815,3978,8918.424000000005,128664,24894,True
+tt1788391,Kill List,Kill List,2011,95,"Crime,Drama,Horror",6.3,49690,881,2062.2299999999973,27270,5485,True
+tt2980210,A Hologram for the King,A Hologram for the King,2016,98,"Comedy,Drama,Romance",6.1,49689,3456,9066.551999999958,124230,24606,True
+tt3387648,The Taking of Deborah Logan,The Taking,2014,90,"Fantasy,Horror,Mystery",6.0,49468,1470,3230.088000000004,46967,9086,True
+tt0104437,"Honey, I Blew Up the Kid","Honey, I Blew Up the Kid",1992,89,"Adventure,Comedy,Family",4.9,49344,2046,5960.679999999984,91904,17866,True
+tt1160996,The Colony,The Colony,2013,95,"Action,Horror,Sci-Fi",5.3,49287,721,1244.6909999999998,17737,3334,True
+tt2318092,Endless Love,Endless Love,2014,104,"Drama,Mystery,Romance",6.2,49207,3066,9107.880000000003,112140,22383,True
+tt3841424,Land of Mine,Under sandet,2015,100,"Drama,History,War",7.8,49102,2064,5718.9719999999725,68640,13623,True
+tt1114677,Hannah Montana: The Movie,Hannah Montana: The Movie,2009,102,"Comedy,Drama,Family",4.8,48956,1332,3599.269999999996,46769,9315,True
+tt0306685,Cradle 2 the Grave,Cradle 2 the Grave,2003,101,"Action,Crime,Drama",5.8,48734,962,2469.9010000000103,35106,6692,True
+tt2918436,The Lazarus Effect,The Lazarus Effect,2015,83,"Horror,Mystery,Sci-Fi",5.2,48632,839,1978.268999999993,31385,6104,True
+tt0472198,Notorious,Notorious,2009,122,"Biography,Crime,Drama",6.7,47908,2646,6234.619999999998,100294,19034,True
+tt3387542,The Forest,The Forest,2016,93,"Horror,Mystery,Thriller",4.8,47727,1350,3642.291999999991,43752,8796,True
+tt0896798,Cleaner,Cleaner,2007,88,"Crime,Thriller",6.1,47592,3180,8548.751999999999,130368,25683,True
+tt2230358,Curse of Chucky,Curse of Chucky,2013,97,"Horror,Thriller",5.6,47537,701,1607.049000000006,21314,4102,True
+tt1064932,Welcome to the Sticks,Bienvenue chez les Ch'tis,2008,106,"Comedy,Romance",7.1,47484,3058,5631.911999999999,76938,14920,True
+tt0763831,A Thousand Words,A Thousand Words,2012,91,"Comedy,Drama,Fantasy",5.9,47460,3567,8965.623000000003,134553,26433,True
+tt2034031,Laggies,Laggies,2014,99,"Comedy,Drama,Romance",6.4,47307,3242,7809.694000000001,138046,19948,True
+tt1291580,Behind the Candelabra,Behind the Candelabra,2013,118,"Biography,Drama,Music",7.0,47206,1804,4554.644999999998,57030,10982,True
+tt0118661,The Avengers,The Avengers,1998,89,"Action,Adventure,Sci-Fi",3.8,46856,27,67.88700000000028,714,138,True
+tt0117038,Michael,Michael,1996,105,"Comedy,Drama,Fantasy",5.7,46845,2312,5067.658000000026,66856,12702,True
+tt0452681,The Santa Clause 3: The Escape Clause,The Santa Clause 3: The Escape Clause,2006,92,"Adventure,Comedy,Family",4.9,46582,3825,9794.20500000003,131571,26076,True
+tt0119314,The Horse Whisperer,The Horse Whisperer,1998,169,"Drama,Romance,Western",6.7,46425,2568,7532.93799999998,107524,21666,True
+tt2097298,"McFarland, USA","McFarland, USA",2015,129,"Biography,Drama,Sport",7.4,46286,1768,2692.720000000006,45965,8321,True
+tt0117883,Thesis,Tesis,1996,125,"Crime,Horror,Mystery",7.4,46165,2568,4832.126000000023,69994,14122,True
+tt0881891,All About Steve,All About Steve,2009,99,"Comedy,Romance",4.8,46149,1697,4510.397000000002,66905,12555,True
+tt0108065,Searching for Bobby Fischer,Searching for Bobby Fischer,1993,109,"Biography,Drama,Sport",7.3,45819,4335,8663.039999999988,105861,21102,True
+tt1103275,Two Lovers,Two Lovers,2008,110,"Drama,Romance",7.0,45750,1493,3342.7280000000087,47194,9065,True
+tt0281364,Wasabi,Wasabi,2001,94,"Action,Comedy,Crime",6.6,45617,1630,5005.466000000017,66012,13116,True
+tt0298228,Whale Rider,Whale Rider,2002,101,"Drama,Family",7.5,45553,696,1523.2739999999997,18583,3711,True
+tt0410097,Hustle & Flow,Hustle & Flow,2005,116,"Crime,Drama,Music",7.3,45469,1660,4176.412999999996,65374,13528,True
+tt0170691,Tigerland,Tigerland,2000,101,"Drama,War",6.9,45348,3804,8993.378999999994,140823,27294,True
+tt2637294,Hot Tub Time Machine 2,Hot Tub Time Machine 2,2015,93,"Comedy,Mystery,Sci-Fi",5.0,45017,4414,9319.412000000033,150874,27674,True
+tt1590089,Confessions,Kokuhaku,2010,106,"Drama,Thriller",7.7,44980,2330,5903.8000000000075,78790,13558,True
+tt1658837,The Tall Man,The Tall Man,2012,106,"Crime,Drama,Horror",5.9,44896,3879,10902.621000000006,149178,28554,True
+tt0118956,Deep Rising,Deep Rising,1998,106,"Action,Adventure,Horror",6.1,44801,1090,3012.369999999998,35072,6806,True
+tt3450650,Paul Blart: Mall Cop 2,Paul Blart: Mall Cop 2,2015,94,"Action,Comedy,Crime",4.5,44721,1,2.9110000000000014,18,4,True
+tt0337692,On the Road,On the Road,2012,124,"Adventure,Drama,Romance",6.0,44692,4365,10668.06900000004,140832,27477,True
+tt2172584,Maps to the Stars,Maps to the Stars,2014,111,"Comedy,Drama,Mystery",6.2,44644,5427,10616.27700000005,154746,30252,True
+tt1232207,Capitalism: A Love Story,Capitalism: A Love Story,2009,127,"Crime,Documentary,History",7.4,44586,2505,6561.641000000016,97383,18222,True
+tt0337876,Birth,Birth,2004,100,"Drama,Fantasy,Mystery",6.3,44571,2406,5685.261000000045,61863,12465,True
+tt0266452,Death to Smoochy,Death to Smoochy,2002,109,"Comedy,Crime,Drama",6.3,44543,2652,7920.635999999997,102048,19312,True
+tt1426329,Lovelace,Lovelace,2013,93,"Biography,Drama",6.2,44538,1246,3579.3060000000046,43610,8603,True
+tt0329028,Dumb and Dumberer: When Harry Met Lloyd,Dumb and Dumberer: When Harry Met Lloyd,2003,85,Comedy,3.5,44426,1636,3706.6290000000017,53292,10807,True
+tt0303361,May,May,2002,93,"Drama,Horror",6.6,44239,693,1449.508999999997,16281,3270,True
+tt0384642,Kicking & Screaming,Kicking & Screaming,2005,95,"Comedy,Family,Romance",5.6,43621,2159,3786.5490000000223,60686,11677,True
+tt1823664,Annie,Annie,2014,118,"Comedy,Drama,Family",5.4,43366,1909,4490.740999999998,67175,13503,True
+tt1311071,Kill Your Darlings,Kill Your Darlings,2013,104,"Biography,Drama,Romance",6.4,43290,1174,2500.414999999987,32580,6151,True
+tt0278731,Spider,Spider,2002,98,"Drama,Mystery,Thriller",6.7,43192,475,1368.0029999999992,12764,2515,True
+tt0165710,Detroit Rock City,Detroit Rock City,1999,95,"Adventure,Comedy,Music",6.8,43091,1154,3372.4919999999915,51768,9710,True
+tt3824458,Tangerine,Tangerine,2015,88,"Comedy,Crime,Drama",7.1,42875,1348,2634.5459999999866,48130,9666,True
+tt1285309,The Joneses,The Joneses,2009,96,"Comedy,Drama",6.4,42844,4191,11014.557000000024,156309,30411,True
+tt0221218,The Glass House,The Glass House,2001,106,"Crime,Drama,Mystery",5.8,42703,2604,6987.636000000015,88164,16566,True
+tt2103217,Maniac,Maniac,2012,89,"Crime,Horror,Thriller",6.1,42682,493,957.7610000000002,15231,2907,True
+tt0139462,Message in a Bottle,Message in a Bottle,1999,126,"Drama,Romance",6.3,42387,1358,2689.1760000000013,37542,7523,True
+tt0365929,Whiteout,Whiteout,2009,100,"Action,Crime,Mystery",5.5,42365,840,1977.4880000000069,29714,5731,True
+tt2016940,Man of Tai Chi,Man of Tai Chi,2013,105,"Action,Drama",6.0,42318,761,2606.722999999998,22506,4084,True
+tt3735246,Bajirao Mastani,Bajirao Mastani,2015,158,"Action,Drama,History",7.3,42303,38,191.57200000000003,2950,520,True
+tt1262981,World's Greatest Dad,World's Greatest Dad,2009,99,"Comedy,Drama",6.8,42199,1378,3118.474999999997,49385,9958,True
+tt0405336,Southland Tales,Southland Tales,2006,145,"Comedy,Drama,Mystery",5.3,42183,4926,12079.82999999996,178914,30900,True
+tt0800240,Deception,Deception,2008,107,"Crime,Drama,Mystery",6.0,42174,3188,7866.791999999976,128750,23866,True
+tt1872818,Liberal Arts,Liberal Arts,2012,97,"Comedy,Drama,Romance",6.7,41983,5307,12390.332999999964,148950,30576,True
+tt2059171,13 Sins,13 Sins,2014,93,"Horror,Thriller",6.3,41972,2766,8051.960999999994,105360,21087,True
+tt0119141,Fools Rush In,Fools Rush In,1997,109,"Comedy,Drama,Romance",6.1,41750,2228,6418.474000000025,83608,16630,True
+tt1783732,John Dies at the End,John Dies at the End,2012,99,"Comedy,Fantasy,Horror",6.3,41736,2880,6763.203999999995,97242,19180,True
+tt1694020,The Guilt Trip,The Guilt Trip,2012,95,"Comedy,Drama",5.8,41606,3942,7748.410000000014,133938,26690,True
+tt0420238,The Tale of Despereaux,The Tale of Despereaux,2008,93,"Adventure,Animation,Comedy",6.1,41423,2306,4563.063999999974,63514,12030,True
+tt0432291,The Fog,The Fog,2005,100,"Horror,Mystery",3.7,41395,919,2203.4750000000013,29334,5625,True
+tt2891174,99 Homes,99 Homes,2014,112,"Crime,Drama",7.1,41367,3196,7185.2300000000005,123510,25206,True
+tt0116242,Everyone Says I Love You,Everyone Says I Love You,1996,101,"Comedy,Musical,Romance",6.7,41260,3114,7423.162000000016,101080,19508,True
+tt0139668,True Crime,True Crime,1999,127,"Crime,Drama,Mystery",6.6,41181,1824,4129.867999999991,75908,13894,True
+tt0305669,Bringing Down the House,Bringing Down the House,2003,105,Comedy,5.6,41161,1754,3475.4879999999885,57060,11156,True
+tt0449487,Passengers,Passengers,2008,93,"Mystery,Romance,Thriller",5.8,41122,2616,5394.956000000034,69468,12958,True
+tt1477837,Cedar Rapids,Cedar Rapids,2011,87,Comedy,6.3,40970,3288,6613.6979999999885,102700,19954,True
+tt2091473,Promised Land,Promised Land,2012,106,Drama,6.6,40944,3146,6270.063999999998,103248,20162,True
+tt0107254,Jason Goes to Hell: The Final Friday,Jason Goes to Hell: The Final Friday,1993,87,"Fantasy,Horror,Mystery",4.1,40882,1382,3543.5280000000075,46096,9134,True
+tt0168786,Antwone Fisher,Antwone Fisher,2002,120,"Biography,Drama",7.3,40632,1515,4065.7499999999973,52719,10883,True
+tt1971352,Compliance,Compliance,2012,90,"Crime,Drama,Thriller",6.4,40630,4842,10095.03900000001,165867,33213,True
+tt0119951,Private Parts,Private Parts,1997,109,"Biography,Comedy,Drama",6.9,40451,5630,11023.54199999998,177884,35238,True
+tt5155780,The Discovery,The Discovery,2017,102,"Drama,Romance,Sci-Fi",6.2,40382,2258,5338.697999999991,87456,16656,True
+tt0120879,Velvet Goldmine,Velvet Goldmine,1998,123,"Drama,Music",6.9,40348,679,2278.5350000000017,31795,5789,True
+tt1480295,Killing Season,Killing Season,2013,91,"Action,Drama,Thriller",5.4,40107,821,2208.9539999999984,27167,5301,True
+tt1078188,Boy A,Boy A,2007,106,Drama,7.5,40036,2886,5953.072000000041,70396,13848,True
+tt0482599,Shutter,Shutter,2008,85,"Horror,Mystery,Thriller",5.2,39827,1184,2063.349999999979,23208,4426,True
+tt0130121,Mickey Blue Eyes,Mickey Blue Eyes,1999,102,"Comedy,Crime,Romance",5.9,39576,1408,3101.990000000008,44819,8532,True
+tt1179031,Cold in July,Cold in July,2014,109,"Crime,Thriller",6.7,39547,2661,6478.6830000000045,78993,14958,True
+tt1032815,"I Love You, Beth Cooper","I Love You, Beth Cooper",2009,102,"Adventure,Comedy,Family",5.4,39333,1233,3059.6200000000113,38292,7493,True
+tt0120696,Hard Rain,Hard Rain,1998,97,"Action,Crime,Drama",5.9,39331,1568,4260.582,56296,11356,True
+tt2281587,Muppets Most Wanted,Muppets Most Wanted,2014,107,"Adventure,Comedy,Crime",6.4,39300,4848,11364.101999999963,144267,27795,True
+tt2334871,Snatched,Snatched,2017,90,"Action,Adventure,Comedy",4.7,39212,4180,7007.852000000005,146930,22922,True
+tt0457297,The Butterfly Effect 2,The Butterfly Effect 2,2006,92,"Drama,Sci-Fi,Thriller",4.5,38649,3009,7595.669999999969,99039,19674,True
+tt0415978,Me and You and Everyone We Know,Me and You and Everyone We Know,2005,85,"Comedy,Drama",7.2,38588,814,2239.805999999986,30732,6115,True
+tt0242445,Exit Wounds,Exit Wounds,2001,101,"Action,Crime,Thriller",5.6,38571,3678,7874.906999999984,132426,25578,True
+tt0462396,The Last Legion,The Last Legion,2007,101,"Action,Adventure,History",5.4,38277,2307,5951.510999999973,77565,15492,True
+tt0410377,Nim's Island,Nim's Island,2008,96,"Adventure,Family,Fantasy",6.0,38206,2182,6187.363999999993,79242,14796,True
+tt0120255,The Sweet Hereafter,The Sweet Hereafter,1997,112,Drama,7.4,38153,2832,7747.685999999987,95100,18178,True
+tt0110857,Police Academy: Mission to Moscow,Police Academy: Mission to Moscow,1994,83,"Comedy,Crime",3.5,38100,2673,7359.962999999992,89679,17067,True
+tt0104409,Hellraiser III: Hell on Earth,Hellraiser III: Hell on Earth,1992,93,Horror,5.5,37958,1989,5670.420000000011,66183,13326,True
+tt0111127,Serial Mom,Serial Mom,1994,95,"Comedy,Crime,Thriller",6.8,37710,3162,7456.8990000000185,102195,19338,True
+tt0775489,The Illusionist,L'illusionniste,2010,80,"Animation,Drama",7.4,37597,2658,7809.563999999997,96438,18726,True
+tt0390221,Maria Full of Grace,Maria Full of Grace,2004,101,"Crime,Drama",7.4,37526,3039,5539.440000000045,80067,15942,True
+tt0375611,Black,Black,2005,122,Drama,8.1,37467,364,825.8250000000006,11260,2094,True
+tt2626350,Step Up All In,Step Up All In,2014,112,"Drama,Music,Romance",5.9,37446,2616,5861.737999999977,80954,15754,True
+tt0470883,Magic Carpet Ride,Organize Isler,2005,106,"Comedy,Crime",7.4,37443,2013,4394.981999999999,60984,11577,True
+tt0123948,Cure,Cure,1997,111,"Crime,Horror,Mystery",7.5,37432,2796,7156.026000000025,71718,13683,True
+tt1381404,The Company You Keep,The Company You Keep,2012,125,"Drama,Thriller",6.4,37399,2320,7340.334000000025,99596,19766,True
+tt0308379,Dark Water,Honogurai mizu no soko kara,2002,101,"Drama,Horror,Mystery",6.7,37360,1734,4744.038000000013,52815,10188,True
+tt3698408,Coming Soon,Pek Yakinda,2014,134,"Comedy,Drama,Romance",7.3,37220,1344,2705.214000000002,39270,7839,True
+tt0104254,FernGully: The Last Rainforest,FernGully: The Last Rainforest,1992,76,"Adventure,Animation,Family",6.6,37178,1546,4850.529999999995,49810,10200,True
+tt1814621,Admission,Admission,2013,107,"Comedy,Drama,Romance",5.7,37114,3618,7588.167999999995,123778,23528,True
+tt0120483,The Man Who Knew Too Little,The Man Who Knew Too Little,1997,94,"Comedy,Crime,Drama",6.6,37040,2962,7082.802000000035,92070,17664,True
+tt3792960,The Brand New Testament,Le tout nouveau testament,2015,114,"Comedy,Drama,Fantasy",7.1,36998,990,2247.5560000000055,31614,5774,True
+tt0439662,Fanaa,Fanaa,2006,168,"Action,Drama,Romance",7.1,36965,1721,5462.777000000018,62784,12174,True
+tt1712170,Alex Cross,Alex Cross,2012,101,"Action,Crime,Mystery",5.2,36789,3006,7928.663999999995,120384,23556,True
+tt0114852,Village of the Damned,Village of the Damned,1995,98,"Horror,Sci-Fi,Thriller",5.7,36783,1965,5840.460000000039,73731,14076,True
+tt0119472,Knockin' on Heaven's Door,Knockin' on Heaven's Door,1997,87,"Action,Comedy,Crime",7.8,36764,722,2175.605,24863,4981,True
+tt0102603,Oscar,Oscar,1991,109,"Comedy,Crime",6.5,36599,1352,4230.090000000003,58487,11477,True
+tt0240510,The Four Feathers,The Four Feathers,2002,132,"Adventure,Drama,Romance",6.5,36576,2102,4845.447999999995,61238,12054,True
+tt0105643,Troll 2,Troll 2,1990,95,"Comedy,Fantasy,Horror",3.0,36389,817,1931.7669999999991,24786,4743,True
+tt0118747,Blues Brothers 2000,Blues Brothers 2000,1998,123,"Action,Comedy,Crime",4.9,36178,2624,9153.845999999985,100090,18126,True
+tt0117039,Michael Collins,Michael Collins,1996,133,"Biography,Drama,History",7.1,36067,4212,8740.275000000016,115137,22452,True
+tt1198138,Obsessed,Obsessed,2009,108,"Drama,Romance,Thriller",5.1,35981,1169,2689.4650000000274,32560,6328,True
+tt0899106,Love Happens,Love Happens,2009,109,"Drama,Romance",5.7,35918,1262,2633.9909999999854,38333,7450,True
+tt0388980,The Greatest Game Ever Played,The Greatest Game Ever Played,2005,120,"Biography,Drama,Sport",7.4,35885,919,2167.8409999999985,29520,5755,True
+tt1401143,Rare Exports,Rare Exports,2010,84,"Adventure,Fantasy,Horror",6.6,35452,1062,2999.1239999999952,33412,6482,True
+tt0118819,Live Flesh,Carne trémula,1997,103,Drama,7.3,35427,2280,4556.233999999991,65484,13152,True
+tt1082601,Fighting,Fighting,2009,105,"Action,Crime,Drama",5.6,35255,1572,3200.4849999999733,49755,9914,True
+tt0408664,Nobody Knows,Dare mo shiranai,2004,141,Drama,8.0,35208,857,2052.191999999991,21146,4158,True
+tt0103594,1492: Conquest of Paradise,1492: Conquest of Paradise,1992,154,"Adventure,Biography,Drama",6.4,35032,2937,7509.068999999992,83379,15813,True
+tt2275946,Redirected,Redirected,2014,99,"Action,Comedy,Crime",6.4,35008,893,1759.1429999999968,23274,4443,True
+tt1772288,Danny Collins,Danny Collins,2015,106,"Comedy,Drama,Music",7.0,34882,1427,3945.148999999995,52150,10355,True
+tt1934231,Delhi Belly,Delhi Belly,2011,103,"Action,Comedy,Crime",7.6,34754,1342,2156.110000000023,34785,7157,True
+tt0377091,Mean Creek,Mean Creek,2004,90,"Crime,Drama",7.1,34652,1892,4296.805999999994,62354,12482,True
+tt0300532,Blue Crush,Blue Crush,2002,104,"Drama,Romance,Sport",5.7,34470,2538,5972.922000000012,99850,19356,True
+tt3289728,Equals,Equals,2015,101,"Drama,Romance,Sci-Fi",6.0,34406,692,2028.1019999999953,28059,5060,True
+tt0379865,Leatherheads,Leatherheads,2008,114,"Comedy,Drama,Romance",6.0,34400,2760,6780.3520000000035,115656,22142,True
+tt0424205,Joyeux Noel,Joyeux Noël,2005,116,"Drama,History,Music",7.6,34249,866,2392.5700000000147,28825,5450,True
+tt0417001,Must Love Dogs,Must Love Dogs,2005,98,"Comedy,Romance",6.0,34224,1541,4037.0620000000004,64644,12876,True
+tt1731697,The Lords of Salem,The Lords of Salem,2012,101,"Horror,Thriller",5.2,34220,853,2518.736000000005,30700,5711,True
+tt1232783,Sorority Row,Sorority Row,2009,101,"Horror,Mystery",5.2,34024,1389,2955.5790000000047,49216,9568,True
+tt3139072,Son of Batman,Son of Batman,2014,74,"Action,Adventure,Animation",6.7,34023,1803,4290.323999999999,56286,10746,True
+tt0482546,Miss Potter,Miss Potter,2006,88,"Biography,Drama,Romance",7.0,33830,3468,8845.352999999974,135135,25482,True
+tt0357507,Boogeyman,Boogeyman,2005,89,"Drama,Horror,Mystery",4.2,33797,710,1406.3849999999993,22464,4315,True
+tt0308383,The Human Stain,The Human Stain,2003,106,"Drama,Romance,Thriller",6.2,33696,1185,3039.347999999991,43043,8258,True
+tt0419843,In the Land of Women,In the Land of Women,2007,97,"Comedy,Drama,Romance",6.4,33537,3324,8807.510999999948,125850,23715,True
+tt0100436,Pump Up the Volume,Pump Up the Volume,1990,102,"Comedy,Drama,Music",7.2,33422,3242,6922.47799999998,98974,18890,True
+tt1412528,Table 19,Table 19,2017,87,"Comedy,Drama,Romance",5.8,33366,2940,5876.297999999997,89828,17330,True
+tt0235737,The Salton Sea,The Salton Sea,2002,103,"Crime,Drama,Mystery",7.0,33345,1982,6276.22799999998,69432,13812,True
+tt4229236,Cobain: Montage of Heck,Cobain: Montage of Heck,2015,132,"Biography,Documentary,Music",7.5,33332,3406,9794.104000000007,130436,24914,True
+tt0758742,Death Note,Death Note: Desu nôto,2006,126,"Crime,Drama,Fantasy",7.5,33276,738,1823.8200000000043,26650,4974,True
+tt0380623,The Perfect Man,The Perfect Man,2005,100,"Comedy,Family,Romance",5.5,33252,1649,3571.3139999999903,52840,9990,True
+tt3231054,Risen,Risen,2016,107,"Action,Drama,History",6.4,33172,994,2154.2430000000018,26748,5196,True
+tt0785035,Ong Bak 2,Ong Bak 2,2008,98,Action,6.2,33059,314,901.3180000000042,8185,1562,True
+tt2167266,Tracks,Tracks,2013,112,"Adventure,Biography,Drama",7.1,33025,2421,5794.151999999956,68046,13389,True
+tt0113419,The Indian in the Cupboard,The Indian in the Cupboard,1995,96,"Drama,Family,Fantasy",6.0,33001,2079,5506.662000000007,66453,13695,True
+tt0488085,Big Nothing,Big Nothing,2006,86,"Comedy,Crime,Thriller",6.7,32983,2733,8123.237999999992,110559,21957,True
+tt1456941,"Tomorrow, When the War Began","Tomorrow, When the War Began",2010,104,"Action,Adventure,Drama",6.1,32735,1792,5726.556000000002,71584,13794,True
+tt0293815,Friday After Next,Friday After Next,2002,85,"Comedy,Drama",5.8,32662,3028,6796.863999999984,103136,20310,True
+tt1646980,The Double,The Double,2011,98,"Action,Adventure,Crime",5.9,32597,928,2135.0419999999895,35932,7091,True
+tt1028576,Secretariat,Secretariat,2010,123,"Biography,Drama,Family",7.2,32558,4269,11712.482999999944,179820,33510,True
+tt0107438,Look Who's Talking Now,Look Who's Talking Now,1993,96,"Comedy,Family,Romance",4.4,32556,2708,6355.35200000002,90432,18100,True
+tt0117737,Stealing Beauty,Stealing Beauty,1996,118,"Drama,Mystery,Romance",6.5,32329,4227,9158.346000000018,96483,19305,True
+tt1178665,A Walk in the Woods,A Walk in the Woods,2015,104,"Adventure,Biography,Comedy",6.4,32215,2502,5585.430000000012,87564,17432,True
+tt0119485,Kundun,Kundun,1997,134,"Biography,Drama,History",7.0,32130,1830,5809.923999999998,67254,12838,True
+tt0100133,Memphis Belle,Memphis Belle,1990,107,"Action,Drama,War",6.9,32049,3738,10080.134999999957,157593,29220,True
+tt0107843,Point of No Return,Point of No Return,1993,109,"Action,Crime,Drama",6.1,32021,3489,8030.459999999983,105579,19818,True
+tt1247690,Serena,Serena,2014,109,"Drama,History,Romance",5.5,31993,1616,3373.3890000000174,47654,9559,True
+tt0120008,The Replacement Killers,The Replacement Killers,1998,87,"Action,Crime,Thriller",6.1,31907,1136,2852.900000000003,36466,7130,True
+tt0155776,Jawbreaker,Jawbreaker,1999,86,"Comedy,Crime,Thriller",5.8,31882,1034,2621.730000000003,35024,6847,True
+tt1082886,The Wackness,The Wackness,2008,99,"Comedy,Drama,Romance",6.9,31755,2900,7423.860000000021,106212,20676,True
+tt0114660,Things to Do in Denver When You're Dead,Things to Do in Denver When You're Dead,1995,115,"Crime,Drama,Thriller",6.7,31635,4926,14449.953000000049,185241,37890,True
+tt0252444,Rabbit-Proof Fence,Rabbit-Proof Fence,2002,94,"Adventure,Biography,Drama",7.4,31613,1438,3398.5600000000068,39288,7462,True
+tt0115683,Bio-Dome,Bio-Dome,1996,88,Comedy,4.4,31569,4593,10902.599999999986,133686,24963,True
+tt2023690,Sightseers,Sightseers,2012,88,"Adventure,Comedy,Crime",6.5,31516,2014,5263.534000000023,70760,13784,True
+tt0106375,Beethoven's 2nd,Beethoven's 2nd,1993,89,"Comedy,Family,Romance",5.0,31468,826,2242.7959999999994,29452,5822,True
+tt5607714,On Body and Soul,Teströl és lélekröl,2017,116,"Drama,Fantasy,Mystery",7.5,31447,861,2096.8720000000053,26853,5220,True
+tt0106912,Fire in the Sky,Fire in the Sky,1993,109,"Biography,Drama,Fantasy",6.5,31403,3390,7648.3199999999715,119340,23409,True
+tt0923811,Evangelion: 1.0 You Are (Not) Alone,Evangelion Shin Gekijôban: Jo,2007,98,"Action,Animation,Drama",7.5,31388,1124,2744.11,42969,7438,True
+tt0218817,Antitrust,Antitrust,2001,108,"Action,Crime,Drama",6.1,31335,3495,9338.364000000009,128835,25617,True
+tt2238050,White Bird in a Blizzard,White Bird in a Blizzard,2014,91,"Drama,Mystery,Thriller",6.4,31144,2718,6511.510000000028,94722,16274,True
+tt0258068,The Quiet American,The Quiet American,2002,101,"Drama,Romance,Thriller",7.0,31071,56,139.67599999999857,1556,306,True
+tt0968264,The Conspirator,The Conspirator,2010,122,"Crime,Drama,History",6.9,31048,1794,3743.279999999994,57543,10819,True
+tt1010271,The Poughkeepsie Tapes,The Poughkeepsie Tapes,2007,81,"Crime,Horror,Mystery",5.9,30864,2664,8589.503999999979,99048,19623,True
+tt2675914,In Order of Disappearance,Kraftidioten,2014,116,"Action,Comedy,Crime",7.1,30856,1318,3876.0260000000535,47816,9786,True
+tt0107497,Malice,Malice,1993,107,"Crime,Mystery,Thriller",6.5,30837,3513,8535.359999999957,137136,27270,True
+tt1932718,Thanks for Sharing,Thanks for Sharing,2012,112,"Comedy,Drama,Romance",6.4,30408,1383,3361.363000000005,47991,9742,True
+tt0099472,DuckTales the Movie: Treasure of the Lost Lamp,DuckTales: The Movie - Treasure of the Lost Lamp,1990,74,"Adventure,Animation,Comedy",6.8,30325,670,2139.6660000000034,26164,5195,True
+tt2258337,Eega,Eega,2012,145,"Action,Comedy,Drama",7.7,30258,966,2897.367000000003,33891,6804,True
+tt0108473,The Vanishing,The Vanishing,1993,109,"Drama,Horror,Mystery",6.3,30219,2430,5091.02099999999,56427,11436,True
+tt2279339,Love the Coopers,Love the Coopers,2015,107,"Comedy,Fantasy,Romance",5.8,29933,4866,10038.821999999953,167001,32649,True
+tt0361696,Raise Your Voice,Raise Your Voice,2004,103,"Family,Music,Musical",5.8,29875,4452,11743.673999999974,141243,29931,True
+tt0810784,Bright Star,Bright Star,2009,119,"Biography,Drama,Romance",6.9,29778,1111,2865.4629999999997,41591,7865,True
+tt2872462,Mistress America,Mistress America,2015,84,"Comedy,Drama",6.7,29630,4148,7248.850000000019,125552,24330,True
+tt0110057,Hoop Dreams,Hoop Dreams,1994,170,"Documentary,Drama,Sport",8.3,29503,6837,18705.512999999948,276753,53994,True
+tt1827512,The Kid with a Bike,Le gamin au vélo,2011,87,Drama,7.4,29484,1612,2937.150000000003,37306,7756,True
+tt0473367,Jaane Tu... Ya Jaane Na,Jaane Tu... Ya Jaane Na,2008,155,"Comedy,Drama,Romance",7.4,29414,1365,4016.119000000029,42924,8357,True
+tt1780798,Clown,Clown,2014,100,"Fantasy,Horror,Thriller",5.7,29405,914,2293.604999999996,24363,4749,True
+tt1932767,What Maisie Knew,What Maisie Knew,2012,99,Drama,7.4,29358,1343,3107.569999999987,36848,7427,True
+tt1935156,Jodorowsky's Dune,Jodorowsky's Dune,2013,90,Documentary,8.0,29287,3324,10298.456999999946,155001,27063,True
+tt0486674,What Just Happened,What Just Happened,2008,104,"Comedy,Drama",5.6,29254,2728,6949.402000000005,104480,20116,True
+tt0791304,Georgia Rule,Georgia Rule,2007,113,"Comedy,Drama",5.9,29127,4377,9372.848999999995,131358,27786,True
+tt0100240,The NeverEnding Story II: The Next Chapter,The Neverending Story II: The Next Chapter,1990,89,"Adventure,Drama,Family",5.1,28979,779,1675.9469999999912,21284,4050,True
+tt0829459,A Mighty Heart,A Mighty Heart,2007,108,"Biography,Drama,History",6.6,28749,3975,9887.751000000006,148638,28887,True
+tt2785032,The Little Death,The Little Death,2014,96,"Comedy,Drama,Romance",7.0,28627,2682,6051.059999999977,84258,17270,True
+tt3177316,Honeymoon,Honeymoon,2014,87,"Drama,Fantasy,Horror",5.7,28556,1806,4355.756000000028,60800,11466,True
+tt1465487,Heartbreaker,L'arnacoeur,2010,105,"Comedy,Romance",6.7,28471,4830,10589.858999999988,111330,22086,True
+tt2832470,Dead Snow 2: Red vs. Dead,Død snø 2,2014,100,"Action,Comedy,Horror",6.8,28445,927,1853.3740000000041,26054,5105,True
+tt0271263,Eight Crazy Nights,Eight Crazy Nights,2002,76,"Animation,Comedy,Musical",5.3,28361,2078,5893.669999999985,79516,15314,True
+tt1452628,Vanishing on 7th Street,Vanishing on 7th Street,2010,92,"Horror,Mystery,Thriller",4.9,28295,1716,2871.9799999999937,42214,8460,True
+tt1198156,You're Not You,You're Not You,2014,102,Drama,7.3,28146,2100,6018.39599999998,74708,14862,True
+tt0105226,Red Rock West,Red Rock West,1993,98,"Crime,Drama,Thriller",7.0,28079,2241,5665.284000000012,70992,14742,True
+tt0113442,It Takes Two,It Takes Two,1995,101,"Comedy,Family,Romance",6.0,28062,3915,8331.299999999997,115638,22446,True
+tt2349144,Mississippi Grind,Mississippi Grind,2015,108,"Comedy,Drama",6.4,27930,2970,6325.4560000000565,88880,17496,True
+tt0102614,Out for Justice,Out for Justice,1991,91,"Action,Crime,Drama",6.1,27917,1836,4375.98599999999,62814,12552,True
+tt0199626,In the Cut,In the Cut,2003,119,"Mystery,Thriller",5.4,27770,1081,2742.5319999999824,38012,7349,True
+tt0490181,Mutant Chronicles,Mutant Chronicles,2008,100,"Action,Adventure,Mystery",5.2,27718,1728,3603.2339999999954,53228,10230,True
+tt4030600,The Bye Bye Man,The Bye Bye Man,2017,96,"Drama,Fantasy,Horror",4.3,27642,3567,7421.255999999988,96303,19101,True
+tt0157016,I Stand Alone,Seul contre tous,1998,93,"Crime,Drama,Thriller",7.2,27592,1360,3355.9649999999947,48329,9616,True
+tt4181052,Special Correspondents,Special Correspondents,2016,101,Comedy,5.9,27483,4425,11221.113000000003,188187,36816,True
+tt5952332,Amanda Knox,Amanda Knox,2016,92,"Crime,Documentary",6.9,27461,1081,3429.787000000009,48024,8252,True
+tt0103112,Toy Soldiers,Toy Soldiers,1991,111,"Action,Drama,Thriller",6.6,27440,2186,6361.916000000019,79584,15716,True
+tt1014775,Beverly Hills Chihuahua,Beverly Hills Chihuahua,2008,91,"Adventure,Comedy,Drama",4.0,27418,2678,6829.683999999985,88734,17858,True
+tt0126388,Legionnaire,Legionnaire,1998,99,"Action,Adventure,Drama",5.5,27328,880,1807.1220000000035,26666,5345,True
+tt0102744,Quigley Down Under,Quigley Down Under,1990,119,"Action,Adventure,Drama",6.9,27242,1456,3842.3240000000055,52674,10374,True
+tt0445946,The Contract,The Contract,2006,96,"Action,Crime,Drama",5.6,27229,3441,7334.873999999985,107106,20760,True
+tt0775539,Stomp the Yard,Stomp the Yard,2007,115,"Drama,Music,Romance",5.5,27209,3342,7542.723000000018,119736,23136,True
+tt2473602,Get on Up,Get on Up,2014,139,"Biography,Drama,Music",6.9,27190,4306,9219.266000000007,120396,24514,True
+tt2300975,Jessabelle,Jessabelle,2014,90,"Drama,Horror,Mystery",5.4,27189,615,1759.7580000000055,22702,4241,True
+tt0978759,Frozen River,Frozen River,2008,97,"Crime,Drama",7.1,27176,2006,4391.932000000019,56442,11404,True
+tt0466460,Khosla Ka Ghosla!,Khosla Ka Ghosla!,2006,135,"Comedy,Crime,Drama",8.2,27108,5841,12966.258000000027,202662,40830,True
+tt2944198,Backcountry,Backcountry,2014,92,"Adventure,Drama,Horror",6.0,26975,598,1572.9480000000005,19894,4127,True
+tt0118983,Dil To Pagal Hai,Dil To Pagal Hai,1997,180,"Comedy,Drama,Musical",7.0,26902,4662,15284.406000000048,198864,38103,True
+tt1763264,No One Lives,No One Lives,2012,86,"Action,Horror",6.0,26896,2604,6052.9379999999865,75606,14937,True
+tt0477095,Starter for 10,Starter for 10,2006,92,"Comedy,Drama,Romance",6.7,26865,3690,9007.169999999984,142062,26556,True
+tt0455782,The Hunting Party,The Hunting Party,2007,101,"Adventure,Comedy,Drama",6.7,26791,4053,8970.24000000001,138984,26583,True
+tt0236348,Josie and the Pussycats,Josie and the Pussycats,2001,98,"Comedy,Music",5.7,26771,3297,12454.743,137154,26511,True
+tt0280491,Bloody Sunday,Bloody Sunday,2002,111,"Drama,History,War",7.6,26707,2014,5615.384000000007,70036,14112,True
+tt0809504,The Accidental Husband,The Accidental Husband,2008,90,"Comedy,Romance",5.6,26703,2238,6917.596000000005,99578,19842,True
+tt2261287,Leap!,Ballerina,2016,89,"Adventure,Animation,Comedy",6.8,26653,7992,15769.83299999968,130287,26727,True
+tt0119115,Fierce Creatures,Fierce Creatures,1997,93,Comedy,6.4,26576,2960,8942.502000000037,125408,24000,True
+tt1326972,Red Cliff II,Chi bi: Jue zhan tian xia,2009,142,"Action,Adventure,Drama",7.5,26440,1294,2707.0959999998922,33408,6510,True
+tt0104839,Medicine Man,Medicine Man,1992,106,"Adventure,Drama,Romance",6.0,26199,902,2347.0150000000003,31994,6212,True
+tt0331468,Cold Creek Manor,Cold Creek Manor,2003,118,"Drama,Mystery,Thriller",5.1,26183,997,2833.2440000000083,33859,6936,True
+tt0208874,The Contender,The Contender,2000,126,"Drama,Thriller",6.9,26059,5394,17716.254000000063,258906,47583,True
+tt0926762,Loft,Loft,2008,118,"Crime,Drama,Mystery",7.2,26007,1970,6937.347999999993,98710,20120,True
+tt1826590,About Last Night,About Last Night,2014,100,"Comedy,Romance",6.0,25912,4377,11475.273000000021,173295,35751,True
+tt4383594,Nine Lives,Nine Lives,2016,87,"Comedy,Drama,Family",5.3,25740,1839,3538.314000000002,58854,11757,True
+tt0486640,Postal,Postal,2007,100,"Action,Comedy,Crime",4.5,25611,5265,10661.354999999941,137517,26913,True
+tt0203166,Together,Tillsammans,2000,106,"Comedy,Drama,Romance",7.4,25510,2856,10153.187999999987,112983,22578,True
+tt1129423,Fireproof,Fireproof,2008,122,"Drama,Romance",6.5,25502,2778,6756.777999999984,104296,20042,True
+tt0924129,Crossing Over,Crossing Over,2009,113,"Crime,Drama",6.7,25465,1498,3394.695000000014,48097,9358,True
+tt0117057,The Mirror Has Two Faces,The Mirror Has Two Faces,1996,126,"Comedy,Drama,Romance",6.7,25364,3440,10285.384000000002,152896,29480,True
+tt1085779,The Hole,The Hole,2009,92,"Fantasy,Thriller",5.7,25237,2382,5327.925000000003,71703,14364,True
+tt2882328,Ugly,Ugly,2013,128,"Crime,Drama,Mystery",7.9,25170,2492,7252.515999999815,89574,16810,True
+tt0120620,Brokedown Palace,Brokedown Palace,1999,100,"Drama,Mystery,Thriller",6.4,25154,871,2466.2100000000023,30138,5959,True
+tt0102719,Problem Child 2,Problem Child 2,1991,90,"Comedy,Family",4.9,25146,1067,3136.5540000000037,39541,7670,True
+tt0326905,The Great Raid,The Great Raid,2005,132,"Action,Drama,War",6.6,25126,1106,3341.8879999999917,44431,8154,True
+tt1559549,Restrepo,Restrepo,2010,93,"Biography,Documentary,History",7.4,25109,3588,9264.404999999997,143691,28308,True
+tt0111693,When a Man Loves a Woman,When a Man Loves a Woman,1994,126,"Drama,Romance",6.6,24931,4002,10988.520000000055,140859,28689,True
+tt1373215,Recep Ivedik 2,Recep Ivedik 2,2009,107,Comedy,4.6,24802,5481,13397.399999999998,256308,49857,True
+tt5804038,I Am Not Your Negro,I Am Not Your Negro,2016,93,"Documentary,History",7.9,24754,4257,10464.545999999984,174423,29985,True
+tt0335563,Wonderland,Wonderland,2003,104,"Crime,Drama,Mystery",6.5,24703,1698,3431.818999999986,59996,11556,True
+tt1302067,Yogi Bear,Yogi Bear,2010,80,"Adventure,Animation,Comedy",4.6,24656,2646,6255.086000000001,97760,18778,True
+tt4667094,Fifty Shades of Black,Fifty Shades of Black,2016,92,Comedy,3.6,24608,3182,6452.801999999963,205968,28498,True
+tt1231586,A Good Old Fashioned Orgy,A Good Old Fashioned Orgy,2011,95,"Comedy,Romance",6.1,24558,6150,11852.238000000027,183588,35820,True
+tt1042877,Cadillac Records,Cadillac Records,2008,109,"Biography,Drama,Music",7.0,24430,3228,8255.39399999998,106748,20854,True
+tt2617828,Free Fall,Freier Fall,2013,97,"Drama,Romance",7.5,24387,560,1184.8570000000032,14964,2978,True
+tt0110678,No Escape,No Escape,1994,118,"Action,Drama,Sci-Fi",6.1,24346,2715,6382.352999999963,92019,18927,True
+tt0241025,Vanity Fair,Vanity Fair,2004,141,Drama,6.2,24170,1512,3633.363000000001,48507,9336,True
+tt1740047,The Trip,The Trip,2010,112,"Comedy,Drama",7.0,24156,970,1995.0600000000002,32830,6490,True
+tt0795434,Namastey London,Namastey London,2007,128,"Comedy,Drama,Romance",7.1,24129,2726,6654.146000000009,112640,20386,True
+tt1018765,Our Brand Is Crisis,Our Brand Is Crisis,2015,107,"Comedy,Drama",6.1,24075,201,441.3179999999996,6974,1301,True
+tt2062700,Song to Song,Song to Song,2017,129,"Drama,Music,Romance",5.6,24038,3726,7245.375000000035,98436,21117,True
+tt2793490,Starry Eyes,Starry Eyes,2014,98,"Horror,Mystery",6.0,24012,769,2468.908999999998,27058,5472,True
+tt0109287,Blank Check,Blank Check,1994,93,"Comedy,Crime,Family",5.3,23859,2566,7814.812000000003,98352,20064,True
+tt3908142,The Love Witch,The Love Witch,2016,120,"Comedy,Horror,Romance",6.2,23843,2518,5815.80600000001,76694,15712,True
+tt0443456,Breaking and Entering,Breaking and Entering,2006,120,"Crime,Drama,Romance",6.5,23780,5625,11946.521999999986,153681,30528,True
+tt2388637,Ain't Them Bodies Saints,Ain't Them Bodies Saints,2013,96,"Crime,Drama,Romance",6.4,23663,1090,2687.117999999996,28384,5826,True
+tt1921149,Trash,Trash,2014,114,"Adventure,Crime,Drama",7.1,23615,1124,2025.7820000000197,24967,4911,True
+tt1926313,Pyaar Ka Punchnama,Pyaar Ka Punchnama,2011,149,"Comedy,Drama,Romance",7.6,23579,1969,5084.8090000000275,70494,13762,True
+tt2386404,He Never Died,He Never Died,2015,99,"Comedy,Drama,Fantasy",6.3,23511,1998,5895.824000000006,72030,14794,True
+tt1876277,Into the White,Into the White,2012,104,"Action,Drama,History",7.1,23429,402,1074.148000000002,11006,2064,True
+tt0808244,Easy Virtue,Easy Virtue,2008,97,"Comedy,Romance",6.6,23322,1472,3535.3049999999785,52391,9606,True
+tt1847731,Tomboy,Tomboy,2011,82,Drama,7.4,23283,1216,2592.5760000000078,40394,7599,True
+tt1046947,Last Chance Harvey,Last Chance Harvey,2008,93,"Drama,Romance",6.6,23269,2434,5883.593999999995,74730,15350,True
+tt0110027,Highlander: The Final Dimension,Highlander III: The Sorcerer,1994,99,"Action,Fantasy,Romance",4.5,23258,2028,5784.032999999972,65484,12744,True
+tt0120753,The Million Dollar Hotel,The Million Dollar Hotel,2000,122,"Drama,Mystery,Romance",5.7,23222,3909,12964.800000000021,160677,31707,True
+tt1349451,Butter,Butter,2011,90,"Comedy,Drama",6.2,23187,3750,10458.359999999822,124737,25074,True
+tt0995868,Pele: Birth of a Legend,Pelé: Birth of a Legend,2016,107,"Biography,Drama,Sport",7.1,23156,2724,6340.016000000003,97612,16892,True
+tt0264508,Dagon,Dagon,2001,98,"Fantasy,Horror,Mystery",6.2,23154,1410,3253.2439999999965,29914,5954,True
+tt0377752,Dear Frankie,Dear Frankie,2004,105,"Drama,Romance",7.6,23076,2907,6865.643999999997,94230,18306,True
+tt2383068,The Sacrament,The Sacrament,2013,99,"Horror,Thriller",6.1,23010,2448,6863.972000000005,93236,18328,True
+tt1151922,Miss March,Miss March,2009,90,"Comedy,Romance",5.0,23003,1329,3710.4260000000104,53300,10263,True
+tt4935334,Southbound,Southbound,2015,89,Horror,5.9,22975,882,1902.5690000000002,27165,5472,True
+tt0318034,Russian Ark,Russkiy kovcheg,2002,99,"Drama,Fantasy,History",7.2,22924,1820,5255.899999999982,55938,10642,True
+tt1071804,Ink,Ink,2009,107,"Action,Drama,Fantasy",6.8,22915,907,2767.4000000000037,27606,5301,True
+tt5255710,Sanam Teri Kasam,Sanam Teri Kasam,2016,154,"Drama,Musical,Romance",7.6,22909,1539,4447.671000000001,44752,8281,True
+tt0768212,The Last Mimzy,The Last Mimzy,2007,90,"Action,Adventure,Drama",6.2,22861,4542,9380.628000000008,130623,25533,True
+tt2784512,Zombeavers,Zombeavers,2014,77,"Comedy,Horror",4.8,22848,3540,7448.381999999985,103785,20583,True
+tt0119791,Nightwatch,Nightwatch,1997,101,"Drama,Horror,Thriller",6.2,22610,2020,5647.841999999986,69138,13136,True
+tt0361411,Bride & Prejudice,Bride & Prejudice,2004,122,"Comedy,Drama,Musical",6.2,22609,1532,3734.5100000000025,52210,10644,True
+tt0119896,Picture Perfect,Picture Perfect,1997,101,"Comedy,Drama,Romance",5.6,22502,4092,8882.222000000003,122552,24228,True
+tt1545660,Knights of Badassdom,Knights of Badassdom,2013,86,"Action,Adventure,Comedy",5.6,22483,3966,9517.028999999964,103047,19926,True
+tt0110265,Killing Zoe,Killing Zoe,1993,96,"Crime,Drama,Thriller",6.4,22471,2355,4858.812000000021,66111,13344,True
+tt0116421,The Glimmer Man,The Glimmer Man,1996,91,"Action,Comedy,Crime",5.4,22449,3165,7305.030000000025,118662,23007,True
+tt0845448,Dhamaal,Dhamaal,2007,136,"Action,Adventure,Comedy",7.5,22420,1862,4531.0300000000025,61206,12348,True
+tt0338763,Battle Royale II: Requiem,Batoru rowaiaru II: Rekuiemu,2003,133,"Action,Drama,Thriller",4.6,22305,1788,4151.645999999594,44228,8460,True
+tt1659343,Universal Soldier: Day of Reckoning,Universal Soldier: Day of Reckoning,2012,114,"Action,Horror,Mystery",5.1,22285,1226,3100.6259999999934,31578,6128,True
+tt1639084,Tallulah,Tallulah,2016,111,"Comedy,Drama,Romance",6.7,22238,2828,5802.01199999998,82716,16772,True
+tt2172071,Student of the Year,Student of the Year,2012,146,"Comedy,Drama,Music",5.3,22157,5064,11880.921000000017,185832,34602,True
+tt0110613,My Girl 2,My Girl 2,1994,99,"Comedy,Drama,Family",5.3,22138,1325,3086.100000000006,50816,9713,True
+tt1320239,Burke and Hare,Burke & Hare,2010,91,"Comedy,Crime,History",6.1,22117,2232,6141.959999999898,79782,14528,True
+tt5221584,Aquarius,Aquarius,2016,146,Drama,7.4,22054,734,1859.589999999999,19725,3738,True
+tt2406252,Venus in Fur,La Vénus à la fourrure,2013,96,Drama,7.1,21978,5226,11481.506999999976,139890,24402,True
+tt0124901,Thursday,Thursday,1998,83,"Action,Comedy,Crime",7.1,21921,2424,7688.079999999977,83854,15976,True
+tt0134067,The Rugrats Movie,The Rugrats Movie,1998,79,"Adventure,Animation,Comedy",5.9,21893,1296,5421.866000000004,51123,10376,True
+tt0105699,Unlawful Entry,Unlawful Entry,1992,111,"Crime,Drama,Thriller",6.4,21796,3789,9522.000000000025,126852,25383,True
+tt0345061,Code 46,Code 46,2003,93,"Drama,Romance,Sci-Fi",6.1,21781,2436,6173.57399999999,93057,17721,True
+tt1942884,Indie Game: The Movie,Indie Game: The Movie,2012,103,"Documentary,Drama",7.6,21713,4665,13191.527999999998,193602,36600,True
+tt2980706,Planes: Fire & Rescue,Planes: Fire & Rescue,2014,83,"Adventure,Animation,Comedy",5.9,21713,4080,7300.550999999991,121884,23271,True
+tt1020885,Vampire Killers,Lesbian Vampire Killers,2009,86,"Action,Comedy,Fantasy",5.1,21694,880,2631.4320000000107,33071,6561,True
+tt1234541,The Butterfly Effect 3: Revelations,The Butterfly Effect 3: Revelations,2009,90,"Crime,Sci-Fi,Thriller",5.6,21649,1117,2424.397999999997,33385,6581,True
+tt0167427,Superstar,Superstar,1999,81,"Comedy,Romance",5.3,21573,1673,5193.368999999985,72480,14476,True
+tt0865559,My Life in Ruins,My Life in Ruins,2009,95,"Comedy,Romance",6.0,21492,1324,3086.937999999995,46106,9214,True
+tt0105156,Poison Ivy,Poison Ivy,1992,93,"Drama,Thriller",5.4,21489,852,1802.3649999999996,22407,4408,True
+tt0100395,Postcards from the Edge,Postcards from the Edge,1990,101,"Comedy,Drama",6.7,21207,4194,11085.359999999971,155415,30369,True
+tt3520418,We Are Still Here,We Are Still Here,2015,84,"Horror,Mystery",5.7,21191,865,2180.176,22104,4345,True
+tt0369060,Infernal Affairs II,Mou gaan dou II,2003,119,"Action,Crime,Drama",7.2,21185,1798,3659.104000000009,54130,10692,True
+tt1016268,Enron: The Smartest Guys in the Room,Enron: The Smartest Guys in the Room,2005,110,"Biography,Documentary,History",7.5,21172,2296,4998.125000000019,88062,16218,True
+tt1337057,Rampage,Rampage,2009,85,"Action,Crime,Thriller",6.2,21130,3843,6996.683999999989,120237,22092,True
+tt0493949,Ramona and Beezus,Ramona and Beezus,2010,103,"Comedy,Drama,Family",6.5,21114,4080,10530.371999999992,135762,26976,True
+tt0117107,Mulholland Falls,Mulholland Falls,1996,107,"Crime,Drama,Mystery",6.3,21073,2988,6518.018999999978,97422,18624,True
+tt1395054,Once Upon a Time in Mumbaai,Once Upon a Time in Mumbaai,2010,134,"Action,Crime,Drama",7.4,21067,5241,11040.791999999961,159042,29814,True
+tt2319580,The Grand Seduction,The Grand Seduction,2013,113,Comedy,7.0,21042,4578,12351.419999999993,149220,29445,True
+tt0107286,Judgment Night,Judgment Night,1993,110,"Action,Crime,Drama",6.6,20992,3756,11295.366000000002,150501,27687,True
+tt0437405,Paper Man,Paper Man,2009,110,"Comedy,Drama",6.5,20968,3870,7931.996999999999,108486,22029,True
+tt0107756,Orlando,Orlando,1992,94,"Biography,Drama,Fantasy",7.1,20926,2367,7088.355000000029,75765,14466,True
+tt0259393,Lantana,Lantana,2001,121,"Drama,Mystery,Romance",7.2,20815,2094,5775.5359999999755,67170,13798,True
+tt1438298,Guzaarish,Guzaarish,2010,126,"Drama,Romance",7.4,20804,3146,8516.185999999994,105792,20192,True
+tt2401097,Tracers,Tracers,2015,94,"Action,Crime,Drama",5.6,20758,1122,2459.2210000000064,31277,5934,True
+tt0366292,One Missed Call,Chakushin ari,2003,112,"Horror,Mystery",6.2,20716,2018,4561.148000000008,48386,8774,True
+tt0246989,Tomcats,Tomcats,2001,95,Comedy,5.3,20665,3840,8653.43999999998,126789,24582,True
+tt0265651,Ripley's Game,Ripley's Game,2002,110,"Crime,Drama,Mystery",6.6,20642,1552,5511.6879999999865,56008,11266,True
+tt0803057,The Promotion,The Promotion,2008,86,Comedy,5.6,20586,2312,6773.934000000013,95826,17906,True
+tt2545428,Meru,Meru,2015,90,"Adventure,Documentary,Sport",7.7,20563,1024,3281.253999999999,45126,8647,True
+tt0388500,Beauty Shop,Beauty Shop,2005,105,Comedy,5.7,20399,1683,4011.4969999999967,66686,13359,True
+tt1124039,Echelon Conspiracy,Echelon Conspiracy,2009,105,"Action,Crime,Thriller",5.7,20366,615,1253.3530000000028,17853,3287,True
+tt1093824,Encounters at the End of the World,Encounters at the End of the World,2007,99,Documentary,7.7,20315,1750,6452.543999999998,99278,17346,True
+tt2580382,The Survivalist,The Survivalist,2015,104,"Drama,Sci-Fi,Thriller",6.4,20296,156,264.06100000000174,3079,620,True
+tt0119123,Fire Down Below,Fire Down Below,1997,105,"Action,Drama,Thriller",5.2,20280,2052,4380.785999999989,70592,13830,True
+tt2268458,These Final Hours,These Final Hours,2013,87,"Drama,Sci-Fi,Thriller",6.6,20220,1600,3894.595999999982,47260,9344,True
+tt0110971,Renaissance Man,Renaissance Man,1994,128,"Comedy,Drama",6.2,20184,6183,19848.989999999976,248943,48864,True
+tt0110213,The Jungle Book,The Jungle Book,1994,111,"Adventure,Family,Fantasy",6.1,20123,3657,7378.490999999957,133155,22260,True
+tt3733778,Pay the Ghost,Pay the Ghost,2015,94,"Horror,Mystery",5.2,20116,820,2594.091000000007,41447,7979,True
+tt0110428,The Madness of King George,The Madness of King George,1994,110,"Biography,Comedy,Drama",7.2,19982,4935,11509.836000000005,134127,25722,True
+tt1524575,The Vatican Tapes,The Vatican Tapes,2015,91,"Horror,Thriller",4.7,19954,1750,3903.295999999994,56822,11302,True
+tt0280778,Iris,Iris,2001,91,"Biography,Drama,Romance",7.0,19853,2044,4133.2,63488,12044,True
+tt0953318,Ben X,Ben X,2007,93,"Drama,Thriller",7.3,19769,1510,4913.070000000013,60996,12798,True
+tt1046997,Miracle at St. Anna,Miracle at St. Anna,2008,160,"Action,Drama,War",6.1,19717,1694,5209.137999999999,62064,11054,True
+tt3450900,The Sea of Trees,The Sea of Trees,2015,110,"Drama,Fantasy,Mystery",6.1,19711,1057,1961.7239999999927,26070,5096,True
+tt0107282,The Joy Luck Club,The Joy Luck Club,1993,139,Drama,7.7,19605,3014,8910.703999999987,105170,20886,True
+tt0120800,Quest for Camelot,Quest for Camelot,1998,86,"Adventure,Animation,Comedy",6.3,19583,2414,4530.319999999994,64878,11850,True
+tt0283426,The Jungle Book 2,The Jungle Book 2,2003,72,"Adventure,Animation,Comedy",5.4,19535,1507,3325.9279999999962,36174,7069,True
+tt0249380,Baise-moi,Baise-moi,2000,77,"Crime,Drama,Thriller",4.5,19519,1662,3767.9820000000004,44976,9009,True
+tt0253798,Out Cold,Out Cold,2001,89,"Comedy,Sport",6.3,19473,3852,8931.696000000027,115944,22473,True
+tt0120596,The Bachelor,The Bachelor,1999,101,"Comedy,Romance",5.1,19469,1723,4480.099999999989,70003,13679,True
+tt0149691,Anywhere But Here,Anywhere But Here,1999,114,"Comedy,Drama",6.2,19453,1232,3695.2549999999983,42822,8518,True
+tt0109370,Canadian Bacon,Canadian Bacon,1995,91,"Action,Comedy",5.9,19440,6147,13422.465000000011,152745,28845,True
+tt0466893,Margaret,Margaret,2011,150,"Drama,Mystery",6.5,19417,2580,5768.649999999715,105284,20560,True
+tt3471098,Maggie's Plan,Maggie's Plan,2015,98,"Comedy,Drama,Romance",6.2,19409,2946,7347.975999999989,113132,22482,True
+tt0144814,The Rage: Carrie 2,The Rage: Carrie 2,1999,104,"Drama,Horror,Sci-Fi",4.8,19357,1031,2637.298999999993,34304,6832,True
+tt0376105,Racing Stripes,Racing Stripes,2005,102,"Adventure,Comedy,Drama",5.2,19198,1136,3099.129000000008,47412,9442,True
+tt4126304,Cartel Land,Cartel Land,2015,100,Documentary,7.3,19165,684,1927.2859999999953,26364,4908,True
+tt1436568,Assassination Games,Assassination Games,2011,101,"Action,Crime,Drama",6.1,19146,786,2634.1720000000064,26894,4864,True
+tt0304711,The Order,The Order,2003,102,"Horror,Mystery,Thriller",5.1,19087,750,1391.053000000007,22874,4324,True
+tt0409345,Surveillance,Surveillance,2008,97,"Crime,Drama,Mystery",6.3,19017,4022,7936.2260000000015,136178,26436,True
+tt0808185,The Bothersome Man,Den brysomme mannen,2006,95,"Comedy,Drama,Fantasy",7.2,19008,1065,3176.3909999999823,30339,6132,True
+tt3409392,Timbuktu,Timbuktu,2014,96,"Drama,War",7.1,18976,1210,3032.904000000006,30496,5900,True
+tt1274295,Kaminey,Kaminey,2009,130,"Action,Crime,Drama",7.4,18969,3843,9506.501999999984,101886,19647,True
+tt3508840,The Assassin,Cike Nie Yinniang,2015,105,"Action,Drama,History",6.3,18946,327,798.0150000000099,9359,1738,True
+tt0397044,Blood and Chocolate,Blood and Chocolate,2007,98,"Drama,Fantasy,Horror",5.3,18811,2010,5329.7999999999865,68823,13857,True
+tt1392197,Marmaduke,Marmaduke,2010,87,"Comedy,Family",4.4,18705,4863,10054.275000000003,150921,29445,True
+tt0234000,Kaho Naa... Pyaar Hai,Kaho Naa... Pyaar Hai,2000,172,"Action,Musical,Romance",6.9,18561,4320,9910.630000000054,125510,24326,True
+tt0105459,Split Second,Split Second,1992,90,"Action,Crime,Horror",6.0,18539,1620,3979.60199999999,51876,10252,True
+tt1966566,Stalingrad,Stalingrad,2013,131,"Action,Drama,War",5.7,18373,1093,2249.0439999999994,30174,5786,True
+tt0299117,Roger Dodger,Roger Dodger,2002,106,"Comedy,Drama",6.8,18323,2772,6796.451999999988,111542,21774,True
+tt2124787,Final Girl,Final Girl,2015,84,"Horror,Thriller",4.7,18241,2625,5997.944999999995,67230,13587,True
+tt0879843,Katyn,Katyn,2007,121,"Drama,History,War",7.0,18205,2006,6151.481999999983,68310,12958,True
+tt2126235,Collide,Collide,2016,99,"Action,Adventure,Crime",5.7,18172,2571,5492.384999999999,80235,15720,True
+tt2923316,American Heist,American Heist,2014,94,"Action,Crime,Drama",5.0,18123,2146,5048.266000000018,70888,14300,True
+tt0131646,Wing Commander,Wing Commander,1999,100,"Action,Adventure,Sci-Fi",4.4,18120,1425,2947.641000000002,41585,7437,True
+tt2224317,Robber,Lootera,2013,136,"Drama,Romance",7.4,18108,1032,2500.5559999999978,27046,5242,True
+tt1361318,Good People,Good People,2014,90,"Action,Adventure,Crime",5.5,17927,2256,5816.0339999999915,70071,13023,True
+tt2212008,The Bag Man,The Bag Man,2014,108,"Action,Crime,Drama",5.2,17866,3738,9162.032999999996,118713,24273,True
+tt0099740,Hardware,Hardware,1990,94,"Horror,Sci-Fi,Thriller",6.0,17861,530,1788.9699999999953,23533,4372,True
+tt0297162,Half Past Dead,Half Past Dead,2002,98,"Action,Crime,Thriller",4.6,17748,1672,4911.106000000003,60920,12174,True
+tt2802136,Home Sweet Hell,Home Sweet Hell,2015,98,"Comedy,Crime,Horror",5.5,17737,2296,5069.417999999986,75942,15220,True
+tt2844798,White God,Fehér isten,2014,121,"Adventure,Drama,Thriller",6.8,17667,2040,4464.911999999984,51672,10809,True
+tt2247476,When the Game Stands Tall,When the Game Stands Tall,2014,115,"Biography,Drama,Family",6.6,17667,1821,4741.175999999968,68879,12443,True
+tt2960930,Extraterrestrial,Extraterrestrial,2014,101,"Action,Horror,Mystery",5.0,17636,1648,4725.430000000001,58980,11938,True
+tt0800027,Feast of Love,Feast of Love,2007,97,"Drama,Romance",6.5,17624,3621,8996.885999999966,119982,23826,True
+tt3610746,Don't Hang Up,Don't Hang Up,2016,83,"Horror,Thriller",5.6,17622,1474,4129.719999999991,60174,11396,True
+tt3832914,War Room,War Room,2015,120,Drama,6.5,17574,1572,3971.9189999999894,59823,11746,True
+tt0101969,Grand Canyon,Grand Canyon,1991,134,"Crime,Drama",6.8,17452,1744,4386.1819999999925,62768,12772,True
+tt1545754,Are You Here,Are You Here,2013,114,"Comedy,Drama",5.3,17391,3532,8877.699999999986,124268,23950,True
+tt4468634,Certain Women,Certain Women,2016,107,Drama,6.4,17259,864,1966.9109999999855,27110,5193,True
+tt0119375,Insomnia,Insomnia,1997,96,"Crime,Mystery,Thriller",7.2,17235,2194,6735.260000000011,87070,17050,True
+tt0816436,Black Water,Black Water,2007,90,"Adventure,Drama,Horror",5.8,17220,1434,3081.996000000013,41748,8595,True
+tt1287468,Cats & Dogs: The Revenge of Kitty Galore,Cats & Dogs: The Revenge of Kitty Galore,2010,82,"Action,Comedy,Family",4.4,17220,3882,9602.525999999963,139635,25923,True
+tt1017456,Race,Race,2008,149,"Action,Crime,Drama",6.7,17197,1609,3312.2759999999935,52650,9877,True
+tt0137338,200 Cigarettes,200 Cigarettes,1999,101,"Comedy,Drama,Romance",6.0,17133,2581,4747.907999999999,67235,13404,True
+tt0499603,10 Items or Less,10 Items or Less,2006,82,"Comedy,Drama",6.5,17105,3201,6907.560000000014,90060,17373,True
+tt1183276,The Horde,La horde,2009,90,"Action,Horror",5.9,17099,2190,5128.638000000017,56358,11364,True
+tt2962876,The Road Within,The Road Within,2014,100,"Adventure,Comedy,Drama",7.0,17027,1062,2841.148000000001,37721,8668,True
+tt4303340,I Am Not a Serial Killer,I Am Not a Serial Killer,2016,104,"Crime,Drama,Horror",6.2,16969,804,2143.3950000000023,29820,5703,True
+tt0816258,Pokiri,Pokiri,2006,164,"Action,Crime,Thriller",8.0,16927,1913,4090.3379999999756,59156,11558,True
+tt0449951,Ghajini,Ghajini,2005,175,"Action,Drama,Mystery",7.6,16880,4938,12480.434999999996,137118,26202,True
+tt2099556,Antiviral,Antiviral,2012,108,"Horror,Mystery,Sci-Fi",5.7,16824,1784,4633.091999999992,66038,12180,True
+tt2234261,The Love Punch,The Love Punch,2013,94,"Comedy,Romance",5.8,16756,3915,9494.000999999995,146589,28920,True
+tt0422295,Fur: An Imaginary Portrait of Diane Arbus,Fur: An Imaginary Portrait of Diane Arbus,2006,122,"Biography,Drama,Romance",6.3,16748,2220,4974.62400000001,59211,11730,True
+tt0110907,Ready to Wear,Prêt-à-porter,1994,133,"Comedy,Drama",5.2,16671,5217,13043.76000000001,201126,37932,True
+tt0279064,Elling,Elling,2001,89,"Comedy,Drama",7.4,16670,1494,6065.600000000015,60170,11546,True
+tt0284137,Gadar: Ek Prem Katha,Gadar: Ek Prem Katha,2001,170,"Action,Drama,Romance",7.3,16660,2544,9767.991000000005,125229,24639,True
+tt0107983,Romeo Is Bleeding,Romeo Is Bleeding,1993,110,"Crime,Drama,Romance",6.5,16630,2667,7160.772000000003,87927,17250,True
+tt0278295,All About the Benjamins,All About the Benjamins,2002,95,"Action,Comedy,Crime",5.8,16532,3480,5886.171999999977,106020,20902,True
+tt1718199,Dragon,Wu xia,2011,98,"Action,Crime,Drama",7.0,16439,3164,5553.745999999988,85818,16520,True
+tt0149624,All the Pretty Horses,All the Pretty Horses,2000,116,"Drama,Romance,Western",5.8,16370,3210,6907.047000000022,94839,19149,True
+tt0109305,Blue Chips,Blue Chips,1994,108,"Drama,Sport",6.3,16327,4782,11781.014999999965,197259,39063,True
+tt0906665,Sukiyaki Western Django,Sukiyaki uesutan Jango,2007,121,"Action,Western",6.1,16289,1266,2995.3380000000016,33586,6472,True
+tt0893412,From Prada to Nada,From Prada to Nada,2011,107,"Action,Comedy,Drama",5.6,16277,2206,4910.849999999992,68086,13534,True
+tt1217213,Secret of the Wings,Secret of the Wings,2012,75,"Animation,Family,Fantasy",7.0,16220,2248,4609.622000000009,61902,11252,True
+tt0381348,The Place Promised in Our Early Days,"Kumo no mukô, yakusoku no basho",2004,90,"Animation,Drama,Romance",6.8,16148,3267,8802.243000000026,110472,20466,True
+tt1999987,Breathe In,Breathe In,2013,98,"Drama,Romance",6.3,16145,2310,5372.706000000009,79218,16329,True
+tt0338325,Paparazzi,Paparazzi,2004,84,"Action,Crime,Drama",5.7,16121,2793,7128.675000000008,104817,20934,True
+tt0204137,Animal Factory,Animal Factory,2000,94,"Crime,Drama",6.6,16116,2931,9176.586000000018,119028,23310,True
+tt3029556,Rurouni Kenshin: The Legend Ends,Rurôni Kenshin: Densetsu no saigo-hen,2014,134,"Action,Adventure,Drama",7.5,16098,737,2744.793999999982,21824,4152,True
+tt0113537,Kicking and Screaming,Kicking and Screaming,1995,96,"Comedy,Drama,Romance",6.6,16066,6477,11359.647000000066,182058,35031,True
+tt1604171,Prom,Prom,2011,104,"Comedy,Drama,Family",5.4,16065,1269,3121.2170000000006,42437,8351,True
+tt0285861,Owning Mahowny,Owning Mahowny,2003,104,"Crime,Drama,Thriller",7.0,16061,1316,3176.2160000000026,35956,7143,True
+tt0120906,Zero Effect,Zero Effect,1998,116,"Comedy,Crime,Drama",6.8,16059,2998,6919.306,102490,18432,True
+tt0107315,Kika,Kika,1993,114,Comedy,6.5,15979,4917,11969.787000000033,167667,34398,True
+tt1673697,The Sapphires,The Sapphires,2012,103,"Biography,Comedy,Drama",7.1,15928,4743,11826.65400000006,183603,30456,True
+tt1226240,A Late Quartet,A Late Quartet,2012,105,"Drama,Music",7.1,15923,3228,8979.986999999976,122931,23397,True
+tt0210065,Gangster No. 1,Gangster No. 1,2000,103,"Crime,Drama,Thriller",6.7,15855,2460,5512.75400000001,76492,14346,True
+tt0240900,Slackers,Slackers,2002,86,"Comedy,Romance",5.3,15781,2592,6409.982000000009,96730,19412,True
+tt0258038,Pootie Tang,Pootie Tang,2001,81,"Action,Adventure,Comedy",5.3,15777,3102,8621.733000000018,118281,22326,True
+tt0280720,The Guru,The Guru,2002,94,"Comedy,Music,Romance",5.4,15773,1328,3180.0209999999915,46312,8744,True
+tt0120831,Slums of Beverly Hills,Slums of Beverly Hills,1998,91,"Comedy,Drama",6.7,15772,1677,3624.6579999999994,47037,9180,True
+tt1032819,Powder Blue,Powder Blue,2009,106,"Action,Crime,Drama",6.2,15768,1196,2919.86,31607,6432,True
+tt5225338,The Eyes of My Mother,The Eyes of My Mother,2016,76,"Drama,Horror,Thriller",6.2,15755,726,1898.5949999999918,23736,4416,True
+tt0145893,Simply Irresistible,Simply Irresistible,1999,96,"Comedy,Drama,Fantasy",5.3,15754,1354,3054.538000000004,39524,8076,True
+tt3296658,Rams,Hrútar,2015,93,"Comedy,Drama",7.2,15728,1239,3335.997000000023,39282,7683,True
+tt1142433,Post Grad,Post Grad,2009,88,"Comedy,Family,Romance",5.3,15644,1439,3882.248999999997,54794,10487,True
+tt0400426,Far Cry,Far Cry,2008,95,"Action,Adventure,Sci-Fi",3.2,15632,837,1861.7289999999907,25332,5037,True
+tt0976222,Bandslam,Bandslam,2009,111,"Comedy,Drama,Family",6.3,15612,1415,3450.3710000000187,48641,9603,True
+tt0417658,Factotum,Factotum,2005,94,"Comedy,Drama,Romance",6.6,15609,619,2490.485000000005,22304,4579,True
+tt2517658,The Canal,The Canal,2014,92,"Drama,Horror,Mystery",5.8,15591,1730,4223.287999999997,44272,8820,True
+tt0464160,Chup Chup Ke,Chup Chup Ke,2006,164,"Comedy,Drama,Romance",7.1,15583,2572,5705.437999999968,96260,19492,True
+tt1462667,Outrage,Autoreiji,2010,109,"Action,Crime,Drama",6.8,15570,1676,4077.413999999987,40834,7830,True
+tt3714720,The Hollars,The Hollars,2016,88,"Comedy,Drama,Romance",6.6,15564,1598,3178.811999999994,44381,8752,True
+tt0850253,Battle in Seattle,Battle in Seattle,2007,98,"Action,Drama,History",6.6,15527,3614,7846.200000000015,107818,19556,True
+tt1054580,Desert Flower,Desert Flower,2009,120,"Biography,Drama",7.3,15406,2434,4077.2800000000275,59554,11896,True
+tt0119594,Twilight,Twilight,1998,94,"Crime,Drama,Mystery",6.2,15308,3448,7957.118000000016,120792,20058,True
+tt1791614,Struck by Lightning,Struck by Lightning,2012,90,"Comedy,Drama",6.2,15302,3012,8037.518000000011,103040,19566,True
+tt3495000,Mardaani,Mardaani,2014,113,"Action,Crime,Drama",7.3,15294,5010,9567.017999999978,156828,30852,True
+tt0134154,Ride with the Devil,Ride with the Devil,1999,138,"Drama,Romance,War",6.7,15267,1576,4427.8039999999955,55420,11109,True
+tt4009278,Intruders,Shut In,2015,90,"Drama,Horror,Thriller",5.7,15255,843,2124.109000000017,21475,4175,True
+tt0203632,The Princess and the Warrior,Der Krieger und die Kaiserin,2000,135,"Drama,Mystery,Romance",7.4,15244,2211,5781.821999999979,57051,11328,True
+tt2650978,The Dark Valley,Das finstere Tal,2014,115,"Action,Drama,Western",7.1,15227,760,1625.1519999999864,19392,3646,True
+tt0109484,"Corrina, Corrina","Corrina, Corrina",1994,115,"Comedy,Drama,Romance",6.6,15226,4953,11166.867000000024,133692,25761,True
+tt0119381,Inventing the Abbotts,Inventing the Abbotts,1997,110,"Drama,Romance",6.4,15215,1940,5770.814000000004,72094,14014,True
+tt0339840,Undead,Undead,2003,97,"Action,Comedy,Fantasy",5.3,15208,2451,7449.170999999997,92568,16083,True
+tt0112769,La cérémonie,La cérémonie,1995,111,"Crime,Drama,Thriller",7.5,15183,2388,5301.227999999985,65274,12820,True
+tt1795702,Wild Bill,Wild Bill,2011,98,"Comedy,Crime,Drama",7.2,15163,3567,7130.403000000004,118572,23988,True
+tt0222012,Hey Ram,Hey Ram,2000,186,"Crime,Drama,History",8.0,15135,2758,7615.810000000007,102792,19768,True
+tt1545759,Point Blank,À bout portant,2010,84,"Action,Crime,Drama",6.8,15131,1091,3070.939999999999,43068,8577,True
+tt0119086,Excess Baggage,Excess Baggage,1997,101,"Action,Comedy,Crime",5.4,15095,1398,6677.799999999988,60754,12700,True
+tt0120868,Torrente: The Dumb Arm of the Law,Torrente: El brazo tonto de la ley,1998,97,"Comedy,Crime",6.8,15074,2684,5452.829999999983,60700,12020,True
+tt2375574,A Field in England,A Field in England,2013,90,"Drama,History,Horror",6.2,15024,760,1973.6509999999912,25279,4960,True
+tt1231277,S. Darko,S. Darko,2009,103,"Drama,Mystery,Sci-Fi",3.6,14978,942,2659.7720000000127,31000,6043,True
+tt1264904,Little Nicholas,Le Petit Nicolas,2009,91,"Comedy,Family",7.1,14884,3564,6876.696000000046,99156,19209,True
+tt5222918,The Other Side of Hope,Toivon tuolla puolen,2017,100,"Comedy,Drama",7.2,14794,1956,5531.9099999999935,61746,11526,True
+tt0160611,Ordinary Decent Criminal,Ordinary Decent Criminal,2000,93,"Comedy,Crime",6.3,14781,1496,3114.049000000007,49348,9521,True
+tt0481797,Youth Without Youth,Youth Without Youth,2007,124,"Drama,Fantasy,Mystery",6.1,14758,2650,6765.566000000035,78810,14096,True
+tt0100594,The Sheltering Sky,The Sheltering Sky,1990,138,"Adventure,Drama",6.7,14748,740,2198.0279999999957,24784,4941,True
+tt1558877,Vavien,Vavien,2009,100,"Comedy,Drama,Thriller",7.5,14732,877,1895.0259999999946,26445,5172,True
+tt3754940,Truman,Truman,2015,108,"Comedy,Drama",7.3,14653,3729,9762.152999999995,123054,24507,True
+tt1725795,7aum Arivu,7aum Arivu,2011,168,"Action,Sci-Fi,Thriller",6.7,14627,4344,8213.468999999646,148545,29367,True
+tt0992911,Flash Point,Dou foh sin,2007,88,"Action,Crime,Thriller",6.7,14529,1420,2347.5879999999875,38242,7578,True
+tt0243862,Italian for Beginners,Italiensk for begyndere,2000,112,"Comedy,Drama,Romance",7.0,14469,2562,6795.391999999998,73018,13790,True
+tt3859304,The Bronze,The Bronze,2015,100,"Comedy,Drama,Sport",6.1,14446,2814,6577.699999999994,107116,21210,True
+tt3896738,Hounds of Love,Hounds of Love,2016,108,"Crime,Drama,Thriller",6.5,14440,850,1963.8330000000024,23288,4805,True
+tt2330322,The Conspiracy,The Conspiracy,2012,84,"Horror,Thriller",6.2,14423,1003,2292.4940000000033,29895,5554,True
+tt1533117,Let the Bullets Fly,Rang zi dan fei,2010,132,"Action,Comedy,Drama",7.3,14407,2451,4643.980000000002,59065,11541,True
+tt0829297,Ten Inch Hero,Ten Inch Hero,2007,102,"Comedy,Drama,Romance",7.3,14396,1361,2956.6070000000027,45936,8846,True
+tt0471030,Red Road,Red Road,2006,113,"Drama,Mystery,Thriller",6.8,14288,1941,3829.8180000000048,50127,10248,True
+tt4824308,God's Not Dead 2,God's Not Dead 2,2016,120,Drama,4.4,14278,2156,5407.078999999976,143834,19797,True
+tt0964185,Tetro,Tetro,2009,127,Drama,6.8,14254,841,1942.073999999991,26008,4937,True
+tt0323120,Loving Annabelle,Loving Annabelle,2006,77,"Drama,Romance",6.2,14252,2679,5921.364,68352,12765,True
+tt0461703,Skinwalkers,Skinwalkers,2006,110,"Action,Fantasy,Horror",4.5,14245,2520,6283.77299999999,80424,15762,True
+tt0250310,Corky Romano,Corky Romano,2001,86,"Comedy,Crime",4.8,14218,4659,10584.431999999992,139650,26367,True
+tt1313139,The Oranges,The Oranges,2011,90,"Comedy,Drama,Romance",5.8,14181,2862,6666.229999999993,89676,17760,True
+tt5294966,After the Storm,Umi yori mo mada fukaku,2016,118,"Comedy,Drama",7.4,14153,1537,3864.9109999999955,42358,8421,True
+tt0286306,Deathwatch,Deathwatch,2002,94,"Drama,Horror,Thriller",5.9,14143,985,1988.3719999999928,25491,4902,True
+tt2376218,The Forger,The Forger,2014,92,"Crime,Drama,Thriller",5.8,14082,1234,2423.0189999999993,27452,5574,True
+tt1151309,Bigger Stronger Faster*,Bigger Stronger Faster*,2008,105,"Documentary,Sport",7.5,14065,4970,11978.226000000022,209812,36956,True
+tt2125666,The Queen of Versailles,The Queen of Versailles,2012,100,Documentary,7.1,14060,5748,13583.444999999934,196059,39333,True
+tt1229360,It Might Get Loud,It Might Get Loud,2008,98,"Documentary,Music",7.6,13966,797,2220.397000000012,35411,6800,True
+tt0110516,Milk Money,Milk Money,1994,110,"Comedy,Romance",5.7,13946,5148,10009.979999999974,122397,24843,True
+tt0810823,The Deaths of Ian Stone,The Deaths of Ian Stone,2007,87,"Horror,Thriller",5.5,13933,2340,4988.949,59214,11883,True
+tt0808331,Joshua,Joshua,2007,106,"Drama,Horror,Thriller",5.8,13922,4401,8633.00100000001,106764,21273,True
+tt5275828,Lo and Behold: Reveries of the Connected World,Lo and Behold: Reveries of the Connected World,2016,98,Documentary,7.0,13839,3940,9495.20399999999,140436,26230,True
+tt1843287,Like Someone in Love,Like Someone in Love,2012,109,Drama,7.0,13772,1946,5110.4779999999955,53326,10308,True
+tt0938341,Tokyo Sonata,Tokyo Sonata,2008,120,Drama,7.6,13771,843,2200.7379999999775,25237,4832,True
+tt2101570,In the Blood,In the Blood,2014,108,"Action,Crime,Thriller",5.7,13762,3192,6608.385000000024,92532,18522,True
+tt2306745,Sound City,Sound City,2013,107,"Documentary,Music",7.8,13755,5206,10292.987999999996,130512,26110,True
+tt0475937,The Abandoned,The Abandoned,2006,99,"Horror,Mystery,Thriller",5.5,13720,1797,5095.337999999991,60621,11499,True
+tt0100142,Metropolitan,Metropolitan,1990,98,"Comedy,Drama,Romance",7.2,13693,3036,8631.373999999993,147862,27432,True
+tt0317132,Because of Winn-Dixie,Because of Winn-Dixie,2005,106,"Comedy,Drama,Family",6.4,13660,1085,3591.0580000000045,42474,8303,True
+tt0377084,Ladies in Lavender,Ladies in Lavender,2004,104,"Drama,Music,Romance",7.0,13633,1171,2684.953000000003,30141,5614,True
+tt0499487,Goal! III,Goal III: Taking on the World,2009,96,"Drama,Romance,Sport",3.2,13626,2415,7186.958999999995,80346,16044,True
+tt0117364,The Portrait of a Lady,The Portrait of a Lady,1996,144,"Drama,Romance",6.2,13514,3002,8170.11999999998,103654,20406,True
+tt1837636,Queen of the Desert,Queen of the Desert,2015,128,"Adventure,Biography,Drama",5.7,13464,1312,3327.019000000004,44479,8681,True
+tt2935564,The Connection,La French,2014,135,"Action,Crime,Thriller",7.1,13383,1132,3255.4660000000235,41354,7932,True
+tt0482603,Space Chimps,Space Chimps,2008,81,"Adventure,Animation,Comedy",4.5,13330,2516,7117.417999999994,97924,18242,True
+tt1121977,Mother and Child,Mother and Child,2009,125,"Drama,Romance",7.2,13295,3114,6067.833999999988,77064,15346,True
+tt2920808,God's Pocket,God's Pocket,2014,88,"Crime,Drama",6.1,13294,2666,5169.2419999999975,76160,15550,True
+tt1879032,Rapture-Palooza,Rapture-Palooza,2013,85,"Comedy,Fantasy",5.2,13286,1510,3028.733000000008,46657,9362,True
+tt0113703,Love Letter,Love Letter,1995,117,"Drama,Romance",7.9,13229,1390,2876.405000000017,32705,6271,True
+tt0110647,The NeverEnding Story III,Die unendliche Geschichte III: Rettung aus Phantasien,1994,95,"Adventure,Comedy,Family",3.2,13178,4371,11810.36100000006,126060,24624,True
+tt0378284,Machuca,Machuca,2004,121,"Biography,Drama,History",7.7,13175,2046,4876.7000000000035,53124,10420,True
+tt1447508,Peepli [Live],Peepli [Live],2010,95,"Comedy,Drama",7.4,13170,1317,3750.375000000001,46119,9363,True
+tt0330243,Day of the Wacko,Dzien swira,2002,93,"Comedy,Drama,Romance",8.1,13154,1347,2704.8300000000004,44670,8397,True
+tt0488658,Unaccompanied Minors,Unaccompanied Minors,2006,90,"Adventure,Comedy,Family",5.4,13132,3267,7870.803000000021,118569,23319,True
+tt4771896,The Fury of a Patient Man,Tarde para la ira,2016,92,"Crime,Drama,Thriller",6.7,13097,766,1665.5910000000044,23694,4799,True
+tt0758771,Outlaw,Outlaw,2007,103,"Action,Crime,Drama",5.7,13097,3345,9172.02600000002,140040,28131,True
+tt0367188,Modigliani,Modigliani,2004,128,"Biography,Drama",7.2,13085,772,2149.4039999999973,21465,4266,True
+tt0215545,Bamboozled,Bamboozled,2000,135,"Comedy,Drama,Music",6.7,13068,7092,17757.461999999992,241101,42981,True
+tt1532957,Paa,Paa,2009,133,"Comedy,Drama",7.1,13061,3740,8028.636000000038,101056,19902,True
+tt0762121,The Nativity Story,The Nativity Story,2006,101,"Adventure,Drama,Family",6.8,13007,2118,5799.803999999987,65373,12750,True
+tt4193394,Indignation,Indignation,2016,110,"Drama,Romance",6.7,13006,3108,8196.204000000045,122588,22448,True
+tt0389328,Rise: Blood Hunter,Rise,2007,97,"Action,Crime,Horror",4.9,13000,2724,7801.03199999999,93102,18516,True
+tt2091478,Air,Air,2015,95,"Drama,Sci-Fi,Thriller",5.1,12982,750,1999.4779999999957,25062,4579,True
+tt0118539,3 Ninjas: High Noon at Mega Mountain,3 Ninjas: High Noon at Mega Mountain,1998,93,"Action,Adventure,Comedy",3.0,12973,1618,3800.330000000002,51828,10020,True
+tt0473356,The Flock,The Flock,2007,96,"Crime,Drama,Mystery",5.7,12830,2829,7721.831999999997,86055,16779,True
+tt6003368,Diary of a Wimpy Kid: The Long Haul,Diary of a Wimpy Kid: The Long Haul,2017,91,"Adventure,Comedy,Family",4.3,12815,2540,5795.175999999991,84802,16508,True
+tt2436682,The Duel,The Duel,2016,110,"Drama,Western",5.8,12727,1698,4699.736000000002,56900,10986,True
+tt0301727,Winged Migration,Le peuple migrateur,2001,89,Documentary,7.9,12684,93,348.5239999999976,3935,668,True
+tt0379976,Savage Grace,Savage Grace,2007,97,Drama,5.7,12674,1800,5623.180000000002,67820,12702,True
+tt0367859,The Man Who Copied,O Homem que Copiava,2003,124,"Comedy,Crime,Drama",7.6,12615,3242,7854.881999999985,112172,23032,True
+tt2292959,The Canyons,The Canyons,2013,99,"Drama,Thriller",3.8,12592,304,655.0639999999996,6556,1285,True
+tt0099091,Bad Influence,Bad Influence,1990,99,"Drama,Thriller",6.3,12571,844,2467.9930000000036,30221,6178,True
+tt1545106,Vamps,Vamps,2012,92,"Comedy,Horror,Romance",5.4,12568,4821,10506.173999999977,148503,29523,True
+tt3289712,Jenny's Wedding,Jenny's Wedding,2015,94,"Comedy,Drama,Romance",5.6,12556,1117,3137.9689999999937,43909,8886,True
+tt1808454,Suicide Room,Sala samobójców,2011,116,"Crime,Drama,Thriller",6.6,12539,1826,5307.498000000021,61368,12406,True
+tt0237539,Bread and Tulips,Pane e tulipani,2000,114,"Comedy,Romance",7.3,12505,2841,8478.72600000002,109689,21645,True
+tt0486578,First Sunday,First Sunday,2008,96,"Comedy,Crime,Drama",4.7,12498,4485,10916.058,171090,33828,True
+tt0438859,Goodbye Bafana,Goodbye Bafana,2007,118,"Biography,Drama,History",7.1,12490,4317,10946.24399999997,170436,32367,True
+tt2865120,Ratchet & Clank,Ratchet & Clank,2016,94,"Action,Adventure,Animation",5.5,12489,4440,9577.700999999986,136152,24267,True
+tt0117615,Shall We Dance?,Shall we dansu?,1996,136,"Comedy,Drama,Music",7.7,12475,2286,6843.64799999999,92848,17664,True
+tt1762399,Walking with Dinosaurs 3D,Walking with Dinosaurs 3D,2013,87,"Adventure,Animation,Comedy",5.2,12454,2674,5956.901999999978,90558,17058,True
+tt4382872,Extraction,Extraction,2015,82,"Action,Thriller",4.1,12446,1434,2709.49,38652,7760,True
+tt0234354,Novocaine,Novocaine,2001,95,"Comedy,Crime,Drama",5.8,12431,3912,9730.07399999999,144732,29187,True
+tt0300214,Morvern Callar,Morvern Callar,2002,97,Drama,6.8,12401,301,811.2000000000091,8245,1656,True
+tt1322385,Submarino,Submarino,2010,105,Drama,7.5,12363,2622,6604.60799999998,100856,18854,True
+tt0119114,Fever Pitch,Fever Pitch,1997,102,"Comedy,Drama,Romance",6.7,12356,1712,4584.921000000013,65572,12604,True
+tt0352277,De-Lovely,De-Lovely,2004,125,"Biography,Drama,Music",6.6,12341,4938,13761.965999999975,153648,30603,True
+tt1757742,Apartment 143,Emergo,2011,80,"Horror,Thriller",5.0,12323,3285,7954.287000000015,109089,21582,True
+tt0926063,Dance of the Dead,Dance of the Dead,2008,87,"Action,Comedy,Horror",5.8,12316,1093,2458.186999999993,29501,5965,True
+tt1132285,The Factory,The Factory,2012,104,"Crime,Mystery,Thriller",5.8,12271,1151,2158.6640000000016,41684,8223,True
+tt0324197,Time of the Wolf,Le temps du loup,2003,114,Drama,6.4,12261,2763,5586.492000000043,72390,14427,True
+tt0286261,All or Nothing,All or Nothing,2002,128,Drama,7.5,12214,3180,7703.415999999984,88858,17506,True
+tt0119227,Snow White: A Tale of Terror,Snow White: A Tale of Terror,1997,100,"Adventure,Fantasy,Horror",6.1,12185,1300,3743.5839999999966,34738,7034,True
+tt0120070,Savior,Savior,1998,103,"Drama,War",7.2,12174,74,181.7300000000037,1988,399,True
+tt0119809,Nowhere,Nowhere,1997,82,"Comedy,Drama,Sci-Fi",6.6,12154,1684,4892.430000000002,56026,10750,True
+tt2150209,My Grandfather's People,Dedemin Insanlari,2011,126,"Comedy,Drama,Family",8.0,12140,1710,4089.140999999981,72707,14270,True
+tt0103003,Suburban Commando,Suburban Commando,1991,90,"Action,Comedy,Sci-Fi",4.6,12125,1628,4163.530000000001,57630,11202,True
+tt0104511,Innocent Blood,Innocent Blood,1992,112,"Action,Comedy,Crime",6.2,12121,2838,6339.805999999996,59710,11852,True
+tt0117040,Microcosmos,Microcosmos: Le peuple de l'herbe,1996,80,Documentary,7.9,12105,30,79.3719999999997,876,160,True
+tt0337721,The Snow Walker,The Snow Walker,2003,103,"Adventure,Drama",7.3,12060,728,1532.5490000000007,19326,3751,True
+tt1075110,The Misfortunates,De helaasheid der dingen,2009,108,"Comedy,Drama",7.3,11984,812,2746.6130000000007,33979,6670,True
+tt0210075,Girlfight,Girlfight,2000,110,"Drama,Sport",6.7,11946,3420,8606.882999999994,110157,20973,True
+tt0100224,Narrow Margin,Narrow Margin,1990,97,"Action,Crime,Thriller",6.6,11932,2230,4973.378000000012,87792,17494,True
+tt2933474,Superfast!,Superfast!,2015,99,"Action,Comedy,Crime",4.2,11922,2638,4891.306000000018,73042,14712,True
+tt0356614,Foolproof,Foolproof,2003,94,"Action,Comedy,Crime",6.4,11910,2342,6647.680000000017,82278,16472,True
+tt0804507,Mother of Tears,La terza madre,2007,102,"Drama,Horror,Thriller",5.0,11875,1814,5626.326000000004,58666,10936,True
+tt0784972,The Brothers Solomon,The Brothers Solomon,2007,93,Comedy,5.3,11852,3834,9351.065999999984,136179,26205,True
+tt0115940,A Summer's Tale,Conte d'été,1996,113,"Comedy,Drama,Romance",7.6,11846,2808,7744.459999999992,82772,16786,True
+tt1891755,Billa II,Billa II,2012,129,"Action,Crime,Thriller",6.2,11777,3798,8672.448000000055,112695,22767,True
+tt0800003,Delta Farce,Delta Farce,2007,90,"Action,Adventure,Comedy",3.7,11776,3990,8933.610000000004,131295,25017,True
+tt3078242,Miss Violence,Miss Violence,2013,98,"Drama,Thriller",7.0,11760,1659,4380.054000000002,52032,10176,True
+tt0383534,Noel,Noel,2004,96,Drama,6.1,11720,3512,6539.614000000002,89714,18156,True
+tt0937237,Redacted,Redacted,2007,90,"Crime,Thriller,War",6.1,11697,4314,9733.895999999995,162294,30225,True
+tt4072326,Ali and Nino,Ali and Nino,2016,100,"Drama,Romance,War",6.8,11674,1336,3501.5079999999593,46702,8930,True
+tt3830162,A War,Krigen,2015,115,"Crime,Drama,Thriller",7.0,11636,1019,3775.710999999987,39975,8094,True
+tt1837562,A Royal Night Out,A Royal Night Out,2015,97,"Comedy,Drama,Romance",6.5,11596,1359,2320.2080000000037,36621,7140,True
+tt3169770,Retribution,El desconocido,2015,102,"Action,Adventure,Crime",6.6,11586,2096,7609.033999999992,81594,16552,True
+tt0105682,A Heart in Winter,Un coeur en hiver,1992,105,"Drama,Music,Romance",7.6,11545,2102,5269.413999999985,63590,12384,True
+tt2028530,Paradise Lost 3: Purgatory,Paradise Lost 3: Purgatory,2011,121,"Crime,Documentary",8.0,11519,7398,13043.258999999987,271497,51513,True
+tt0100143,Miami Blues,Miami Blues,1990,97,"Comedy,Crime,Drama",6.4,11509,1025,2425.061,31776,6375,True
+tt0103671,American Me,American Me,1992,125,"Biography,Crime,Drama",7.1,11506,1281,3788.8980000000074,45402,8267,True
+tt2130321,West of Memphis,West of Memphis,2012,147,"Crime,Documentary",7.8,11505,6966,22558.830000000016,355170,66912,True
+tt0355954,Riding the Bullet,Riding the Bullet,2004,98,"Horror,Thriller",5.2,11499,2574,6025.269000000009,90681,17643,True
+tt2165735,Drug War,Du zhan,2012,107,"Action,Crime,Drama",7.0,11491,885,1599.170999999992,22218,4165,True
+tt1097013,Next Day Air,Next Day Air,2009,84,"Action,Comedy,Crime",5.7,11457,1458,3215.5339999999946,56050,11742,True
+tt2165859,In Fear,In Fear,2013,85,"Horror,Mystery,Thriller",5.4,11436,2361,5392.497000000001,70224,14520,True
+tt0135790,Bang Boom Bang - Ein todsicheres Ding,Bang Boom Bang - Ein todsicheres Ding,1999,110,"Action,Comedy,Crime",7.5,11400,2144,7317.660000000017,74722,14984,True
+tt3147312,Desierto,Desierto,2015,88,"Action,Adventure,Drama",6.1,11383,297,571.9549999999981,7116,1436,True
+tt1781058,Wilson,Wilson,2017,94,"Comedy,Drama",5.9,11371,4731,9414.119999999999,127842,24783,True
+tt0452592,Borderland,Borderland,2007,105,"Crime,Horror,Thriller",5.6,11353,2079,5034.428999999998,64893,12612,True
+tt0393635,Reeker,Reeker,2005,90,"Horror,Mystery,Thriller",5.1,11326,2280,3726.027000000009,61089,12918,True
+tt0115645,Before and After,Before and After,1996,108,"Crime,Drama,Mystery",6.1,11323,3705,10619.015999999978,145287,28314,True
+tt1945062,About Cherry,About Cherry,2012,98,Drama,4.8,11322,3044,6642.04399999995,80208,16222,True
+tt2191765,One Wild Moment,Un moment d'égarement,2015,105,"Comedy,Drama,Romance",6.2,11308,3156,6193.173999999856,86374,17164,True
+tt4594834,Chi-Raq,Chi-Raq,2015,127,"Comedy,Crime,Drama",5.9,11290,6582,16995.377999999993,302403,43908,True
+tt0482463,Bella,Bella,2006,91,"Drama,Romance",7.0,11261,1432,2475.8419999999974,37916,7718,True
+tt0118900,Gang Related,Gang Related,1997,111,"Action,Crime,Drama",6.4,11221,1632,3195.556000000006,40234,7860,True
+tt1769363,The Giant Mechanical Man,The Giant Mechanical Man,2012,94,"Comedy,Drama,Romance",6.7,11191,2217,9457.929000000033,126726,25791,True
+tt2126362,Stitches,Stitches,2012,86,"Comedy,Fantasy,Horror",5.7,11191,576,1667.7559999999935,21822,4319,True
+tt1815708,Freelancers,Freelancers,2012,96,"Action,Crime,Drama",4.7,11174,3396,9687.084000000012,154854,31107,True
+tt0120029,RocketMan,RocketMan,1997,95,"Comedy,Family,Sci-Fi",5.9,11148,3206,7973.009999999983,112206,22206,True
+tt0995740,No Smoking,No Smoking,2007,128,"Drama,Horror,Mystery",7.3,11125,1663,3226.9180000000074,42726,8586,True
+tt2247692,2016: Obama's America,2016: Obama's America,2012,87,Documentary,4.8,11113,4734,13030.346999999823,202359,33177,True
+tt1629391,Tere Bin Laden,Tere Bin Laden,2010,95,"Comedy,Drama",7.2,11110,1764,4149.088000000026,59790,11342,True
+tt0105219,Rapid Fire,Rapid Fire,1992,95,"Action,Crime,Drama",6.3,11041,1866,2912.9800000000173,39164,8170,True
+tt0114563,Street Fighter II: The Animated Movie,Sutorîto Faitâ Tsû Mûbî,1994,102,"Action,Adventure,Animation",7.2,10999,3344,7337.541999999987,153510,28726,True
+tt4730986,Divines,Divines,2016,105,"Crime,Drama",7.3,10993,1168,2145.659999999986,28149,5605,True
+tt1217070,Triage,Triage,2009,99,"Drama,Mystery,War",6.5,10952,2982,8011.320000000037,90036,17904,True
+tt2261749,The Gilded Cage,La cage dorée,2013,90,"Comedy,Drama",7.2,10929,1095,3059.540000000005,37163,6858,True
+tt5655222,The Hero,The Hero,2017,96,"Drama,Romance",6.5,10915,1930,3414.976000000013,54624,10668,True
+tt0409379,In Secret,In Secret,2013,107,"Crime,Drama,Thriller",6.1,10907,939,2613.8910000000064,31549,6343,True
+tt0252684,Manic,Manic,2001,100,Drama,7.1,10878,1257,2905.436,38386,7598,True
+tt1403214,Paradise: Love,Paradies: Liebe,2012,120,Drama,7.0,10856,1102,3198.917999999991,33602,6692,True
+tt3451230,High Strung,High Strung,2016,96,"Drama,Music,Romance",6.3,10854,1002,2286.120000000008,72535,9293,True
+tt1531924,The Disappearance of Eleanor Rigby: Him,The Disappearance of Eleanor Rigby: Him,2013,89,"Drama,Romance",6.8,10739,1139,2536.656999999994,33957,6769,True
+tt1640680,Armadillo,Armadillo,2010,105,"Documentary,War",7.4,10707,2427,9969.092999999983,107685,21750,True
+tt0136352,Koyla,Koyla,1997,166,"Action,Drama,Musical",6.2,10700,3783,10567.331999999986,120399,24129,True
+tt1298554,Eva,Eva,2011,94,"Drama,Fantasy,Romance",6.6,10693,5061,18785.552999999996,250425,47193,True
+tt2474958,Kill Your Friends,Kill Your Friends,2015,103,"Comedy,Crime,Music",6.0,10690,1509,3324.481000000003,57463,10874,True
+tt1687281,Terri,Terri,2011,105,"Comedy,Drama",6.5,10687,952,2286.2450000000053,32429,6483,True
+tt0099512,Ernest Goes to Jail,Ernest Goes to Jail,1990,81,"Comedy,Crime,Family",5.5,10686,3468,7811.63000000002,99204,17236,True
+tt2140577,The Pretty One,The Pretty One,2013,90,"Comedy,Drama",6.3,10681,2302,6141.907999999986,73592,14858,True
+tt1059925,According to Greta,Greta,2009,92,"Drama,Romance",6.1,10675,3696,8871.900000000018,115158,23067,True
+tt2229511,Wer,Wer,2013,93,"Action,Horror,Mystery",5.9,10671,1716,4934.174000000025,71248,13280,True
+tt0109015,3 Ninjas Kick Back,3 Ninjas Kick Back,1994,93,"Action,Comedy,Family",4.6,10654,2739,6403.359000000007,84969,16431,True
+tt0118647,The Assignment,The Assignment,1997,115,"Action,Crime,Thriller",6.8,10627,2432,5185.1520000000155,80788,15198,True
+tt2112210,An Awkward Sexual Adventure,My Awkward Sexual Adventure,2012,98,"Comedy,Romance",6.1,10626,2650,8078.151999999986,116648,23172,True
+tt3026488,Alone in Berlin,Alone in Berlin,2016,103,"Drama,History,War",6.5,10597,2799,5220.05699999998,71079,13497,True
+tt0208196,Happy Accidents,Happy Accidents,2000,110,"Comedy,Romance",7.1,10588,4905,12227.84099999998,174270,32058,True
+tt0116320,Fled,Fled,1996,98,"Action,Adventure,Comedy",5.5,10565,2748,8410.334999999985,114699,22518,True
+tt1707392,Lovely Molly,Lovely Molly,2011,99,"Drama,Horror",5.3,10499,2091,6123.887999999996,59610,11775,True
+tt0420982,Blind Man's Bluff,Zhmurki,2005,111,"Comedy,Crime,Thriller",7.2,10492,2150,6593.601999999997,79904,15596,True
+tt0111003,The Puppet Masters,The Puppet Masters,1994,109,"Horror,Sci-Fi,Thriller",5.9,10482,2682,7422.6030000000055,93297,17874,True
+tt1045655,The Haunting of Molly Hartley,The Haunting of Molly Hartley,2008,85,"Drama,Horror,Thriller",3.9,10458,1030,2862.8300000000104,34501,6552,True
+tt0267248,Abandon,Abandon,2002,99,"Drama,Mystery,Romance",4.8,10457,2468,5795.872000000036,69182,13220,True
+tt0101984,Guilty by Suspicion,Guilty by Suspicion,1991,105,Drama,6.6,10445,2744,6645.467999999954,210578,22900,True
+tt1590950,Age of Heroes,Age of Heroes,2011,94,"Action,Adventure,Drama",5.5,10415,884,2196.0789999999993,28334,5569,True
+tt0373024,Imaginary Heroes,Imaginary Heroes,2004,111,Drama,7.0,10390,857,1912.1789999999933,22711,4432,True
+tt3469244,Phantom,Phantom,2015,136,"Action,Drama,Thriller",6.0,10387,1376,3284.8400000000033,34006,6989,True
+tt2350892,Bad Country,Bad Country,2014,95,"Action,Crime,Drama",5.8,10359,3300,7983.921000000033,116313,22149,True
+tt2286990,The Right Kind of Wrong,The Right Kind of Wrong,2013,97,"Comedy,Romance",6.1,10313,1082,2049.8979999999992,25579,5463,True
+tt4429194,Paris Can Wait,Bonjour Anne,2016,92,"Comedy,Drama,Romance",5.8,10310,999,2116.0389999999907,33091,6374,True
+tt2978462,Dolphin Tale 2,Dolphin Tale 2,2014,107,"Drama,Family",6.4,10282,1173,2559.985999999993,38486,7393,True
+tt4651410,Precious Cargo,Precious Cargo,2016,90,"Action,Comedy,Thriller",4.6,10273,3102,9127.509000000004,118287,23895,True
+tt0114048,Operation Dumbo Drop,Operation Dumbo Drop,1995,107,"Action,Adventure,Comedy",5.3,10224,2241,8484.482999999986,80421,16161,True
+tt1167675,Saint,Sint,2010,88,"Comedy,Fantasy,Horror",5.6,10220,698,1991.9090000000003,26077,5027,True
+tt0372334,House of D,House of D,2004,97,"Comedy,Drama",6.8,10216,1232,2691.060000000006,36788,7263,True
+tt0119273,Heavy Metal 2000,Heavy Metal 2000,2000,88,"Action,Adventure,Animation",5.4,10205,542,1326.582999999999,17814,3335,True
+tt0429078,Seven Swords,Qi jian,2005,153,"Action,Adventure,Fantasy",6.1,10198,1184,2676.3920000000126,33759,6642,True
+tt5325452,Boo! A Madea Halloween,Boo! A Madea Halloween,2016,103,"Comedy,Drama,Horror",4.7,10195,7002,14528.540999999977,263853,53430,True
+tt0250720,See Spot Run,See Spot Run,2001,94,"Action,Comedy,Crime",5.4,10174,3510,7914.728999999992,110697,21729,True
+tt0319524,How to Deal,How to Deal,2003,101,"Comedy,Drama,Romance",5.6,10169,1185,2671.9299999999976,39389,7644,True
+tt0104860,We Are Not Angels,Mi nismo andjeli,1992,98,"Comedy,Fantasy,Romance",8.3,10168,3444,7675.619999999978,124809,25305,True
+tt0110157,Iron Will,Iron Will,1994,108,"Adventure,Family",6.6,10136,1980,5584.703999999994,73354,14456,True
+tt0102609,Other People's Money,Other People's Money,1991,103,"Comedy,Drama,Romance",6.2,10102,2548,6827.200000000007,96104,18490,True
+tt0437407,Parineeta,Parineeta,2005,130,"Drama,Musical,Romance",7.2,10081,1528,4287.716999999999,44913,8542,True
+tt0273689,It's All About Love,It's All About Love,2003,106,"Drama,Romance,Sci-Fi",5.3,10053,2793,7102.290000000003,101712,18687,True
+tt0402014,Ab Tak Chhappan,Ab Tak Chhappan,2004,129,"Crime,Drama",7.8,10046,1193,2900.146,45845,8693,True
