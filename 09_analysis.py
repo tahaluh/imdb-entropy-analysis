@@ -107,6 +107,100 @@ def summary_by_group(df):
     summary.to_csv(OUTPUT_DIR / "group_summary.csv")
 
 
+def summary_by_rating_bin_1pt(df: pd.DataFrame):
+    bin_edges = list(range(0, 11))
+    labels = [f"{i}-{i + 1}" for i in range(0, 10)]
+
+    df = df.copy()
+    df["rating_bin_1pt"] = pd.cut(
+        df["rating"],
+        bins=bin_edges,
+        labels=labels,
+        include_lowest=True,
+        right=False,
+    )
+
+    summary = df.groupby("rating_bin_1pt", observed=False).agg(
+        count=("rating", "count"),
+        mean_rating=("rating", "mean"),
+        mean_word_entropy=("word_entropy", "mean"),
+        mean_gzip_ratio=("gzip_ratio", "mean"),
+        mean_bz2_ratio=("bz2_ratio", "mean"),
+        mean_lzma_ratio=("lzma_ratio", "mean"),
+    )
+
+    print("\n📊 Resumo por faixa de rating (1 em 1):")
+    print(summary)
+
+    summary.to_csv(OUTPUT_DIR / "group_summary_1pt_bins.csv")
+
+    summary_plot = summary.reset_index()
+
+    plt.figure(figsize=(10, 5))
+    sns.lineplot(
+        data=summary_plot,
+        x="rating_bin_1pt",
+        y="mean_word_entropy",
+        marker="o",
+        label="word_entropy",
+    )
+    plt.title("Media de word_entropy por faixa de rating (1 em 1)")
+    plt.xlabel("Faixa de rating")
+    plt.ylabel("Media")
+    plt.tight_layout()
+    plt.savefig(OUTPUT_DIR / "line_word_entropy_by_rating_1pt.png")
+    plt.close()
+
+    plt.figure(figsize=(10, 5))
+    sns.lineplot(
+        data=summary_plot,
+        x="rating_bin_1pt",
+        y="mean_gzip_ratio",
+        marker="o",
+        label="gzip_ratio",
+    )
+    sns.lineplot(
+        data=summary_plot,
+        x="rating_bin_1pt",
+        y="mean_bz2_ratio",
+        marker="o",
+        label="bz2_ratio",
+    )
+    sns.lineplot(
+        data=summary_plot,
+        x="rating_bin_1pt",
+        y="mean_lzma_ratio",
+        marker="o",
+        label="lzma_ratio",
+    )
+    plt.title("Media de razoes de compressao por faixa de rating (1 em 1)")
+    plt.xlabel("Faixa de rating")
+    plt.ylabel("Media da razao")
+    plt.tight_layout()
+    plt.savefig(OUTPUT_DIR / "line_compression_ratio_by_rating_1pt.png")
+    plt.close()
+
+    filtered = df.dropna(subset=["rating_bin_1pt", "word_entropy", "gzip_ratio"])
+
+    plt.figure(figsize=(10, 5))
+    sns.boxplot(data=filtered, x="rating_bin_1pt", y="word_entropy")
+    plt.title("Distribuicao de word_entropy por faixa de rating (1 em 1)")
+    plt.xlabel("Faixa de rating")
+    plt.ylabel("word_entropy")
+    plt.tight_layout()
+    plt.savefig(OUTPUT_DIR / "boxplot_word_entropy_by_rating_1pt.png")
+    plt.close()
+
+    plt.figure(figsize=(10, 5))
+    sns.boxplot(data=filtered, x="rating_bin_1pt", y="gzip_ratio")
+    plt.title("Distribuicao de gzip_ratio por faixa de rating (1 em 1)")
+    plt.xlabel("Faixa de rating")
+    plt.ylabel("gzip_ratio")
+    plt.tight_layout()
+    plt.savefig(OUTPUT_DIR / "boxplot_gzip_ratio_by_rating_1pt.png")
+    plt.close()
+
+
 def interpret_results(df):
     print("\n🧠 Insights automáticos:")
 
@@ -151,6 +245,9 @@ def main():
 
     print("Resumo por grupo...")
     summary_by_group(df)
+
+    print("Resumo por faixa 1 em 1...")
+    summary_by_rating_bin_1pt(df)
 
     print("Gerando insights...")
     interpret_results(df)
