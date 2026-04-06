@@ -1,0 +1,2 @@
+best_model,rows_used,feature_count,r2,mae,rmse
+gradient_boosting,1304,39,0.3968970905920425,0.5448178437603446,0.7187685773897916

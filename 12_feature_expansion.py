@@ -1,3 +1,4 @@
+import argparse
 from pathlib import Path
 
 import matplotlib.pyplot as plt
@@ -14,7 +15,7 @@ OUTPUT_DIR = DATA / "analysis"
 
 TARGET = "rating"
 
-BASE_CANDIDATE_FEATURES = [
+INFO_CANDIDATE_FEATURES = [
     "char_entropy",
     "bigram_entropy",
     "trigram_entropy",
@@ -34,13 +35,54 @@ BASE_CANDIDATE_FEATURES = [
     "avg_words_per_segment",
 ]
 
+COMPLEMENTAR_EXTRA_FEATURES = [
+    "votes",
+    "runtimeMinutes",
+    "year",
+]
+
 
 def rmse(y_true, y_pred) -> float:
     return mean_squared_error(y_true, y_pred) ** 0.5
 
 
-def build_feature_matrix(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.Series, list[str]]:
-    available = [c for c in BASE_CANDIDATE_FEATURES if c in df.columns]
+def expand_genres(df: pd.DataFrame, min_count: int = 80) -> pd.DataFrame:
+    if "genres" not in df.columns:
+        return pd.DataFrame(index=df.index)
+
+    genre_series = (
+        df["genres"]
+        .fillna("")
+        .astype(str)
+        .str.split(",")
+        .apply(lambda items: [g.strip() for g in items if g.strip()])
+    )
+
+    counts = {}
+    for items in genre_series:
+        for g in items:
+            counts[g] = counts.get(g, 0) + 1
+
+    keep = sorted([g for g, c in counts.items() if c >= min_count])
+    if not keep:
+        return pd.DataFrame(index=df.index)
+
+    out = pd.DataFrame(index=df.index)
+    for g in keep:
+        slug = g.lower().replace("-", "_").replace(" ", "_")
+        out[f"genre_{slug}"] = genre_series.apply(lambda items: 1 if g in items else 0)
+
+    return out
+
+
+def build_feature_matrix(
+    df: pd.DataFrame, scenario: str
+) -> tuple[pd.DataFrame, pd.Series, list[str]]:
+    base_features = INFO_CANDIDATE_FEATURES.copy()
+    if scenario == "complementar":
+        base_features.extend(COMPLEMENTAR_EXTRA_FEATURES)
+
+    available = [c for c in base_features if c in df.columns]
 
     work = df[available + [TARGET]].copy()
 
@@ -54,6 +96,9 @@ def build_feature_matrix(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.Series, lis
         if col in work.columns:
             work[f"log1p_{col}"] = np.log1p(work[col].clip(lower=0))
 
+    if scenario == "complementar" and "votes" in work.columns:
+        work["log1p_votes"] = np.log1p(work["votes"].clip(lower=0))
+
     # Interacoes simples entre complexidade e tamanho de texto.
     if "char_entropy" in work.columns and "clean_text_words" in work.columns:
         work["entropy_x_words"] = work["char_entropy"] * np.log1p(
@@ -65,6 +110,11 @@ def build_feature_matrix(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.Series, lis
             work["segment_count"].clip(lower=0)
         )
 
+    if scenario == "complementar":
+        genre_matrix = expand_genres(df, min_count=80)
+        if not genre_matrix.empty:
+            work = pd.concat([work, genre_matrix], axis=1)
+
     work = work.dropna()
 
     y = work[TARGET].copy()
@@ -74,17 +124,29 @@ def build_feature_matrix(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.Series, lis
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--scenario",
+        choices=["informacional", "complementar"],
+        default="informacional",
+        help="Define o conjunto de features usado na modelagem.",
+    )
+    args = parser.parse_args()
+
+    scenario = args.scenario
+
     if not INPUT_CSV.exists():
         raise FileNotFoundError(f"Arquivo nao encontrado: {INPUT_CSV}")
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     df = pd.read_csv(INPUT_CSV)
-    X, y, feature_names = build_feature_matrix(df)
+    X, y, feature_names = build_feature_matrix(df, scenario=scenario)
 
     if X.empty:
         raise RuntimeError("Matriz de features vazia apos preparacao.")
 
+    print(f"Cenario: {scenario}")
     print(f"Linhas usadas: {len(X)}")
     print(f"Total de features usadas: {len(feature_names)}")
 
@@ -159,8 +221,10 @@ def main() -> None:
             best_r2 = mean_r2
             best_name = name
 
+    suffix = "info" if scenario == "informacional" else "complementar"
+
     ranking = pd.DataFrame(rows).sort_values("r2_mean", ascending=False)
-    ranking.to_csv(OUTPUT_DIR / "12_model_comparison_cv.csv", index=False)
+    ranking.to_csv(OUTPUT_DIR / f"12_{suffix}_model_comparison_cv.csv", index=False)
 
     if best_name is None:
         raise RuntimeError("Nao foi possivel selecionar melhor modelo.")
@@ -172,7 +236,9 @@ def main() -> None:
     pred_df["rating_real"] = y.values
     pred_df["rating_pred_cv"] = y_pred_cv
     pred_df["abs_error"] = (pred_df["rating_real"] - pred_df["rating_pred_cv"]).abs()
-    pred_df.to_csv(OUTPUT_DIR / "12_best_model_cv_predictions.csv", index=False)
+    pred_df.to_csv(
+        OUTPUT_DIR / f"12_{suffix}_best_model_cv_predictions.csv", index=False
+    )
 
     final_r2 = r2_score(y, y_pred_cv)
     final_mae = mean_absolute_error(y, y_pred_cv)
@@ -190,10 +256,10 @@ def main() -> None:
             }
         ]
     )
-    summary.to_csv(OUTPUT_DIR / "12_best_model_summary.csv", index=False)
+    summary.to_csv(OUTPUT_DIR / f"12_{suffix}_best_model_summary.csv", index=False)
 
     feature_list = pd.DataFrame({"feature": feature_names})
-    feature_list.to_csv(OUTPUT_DIR / "12_features_used.csv", index=False)
+    feature_list.to_csv(OUTPUT_DIR / f"12_{suffix}_features_used.csv", index=False)
 
     plt.figure(figsize=(7, 5))
     plt.scatter(y, y_pred_cv, alpha=0.35)
@@ -202,9 +268,9 @@ def main() -> None:
     plt.plot([low, high], [low, high], linestyle="--")
     plt.xlabel("Rating real")
     plt.ylabel("Rating previsto (CV)")
-    plt.title(f"12 - Melhor modelo ({best_name})")
+    plt.title(f"12 ({scenario}) - Melhor modelo ({best_name})")
     plt.tight_layout()
-    plt.savefig(OUTPUT_DIR / "12_best_model_cv_pred_vs_real.png", dpi=180)
+    plt.savefig(OUTPUT_DIR / f"12_{suffix}_best_model_cv_pred_vs_real.png", dpi=180)
     plt.close()
 
     best_model.fit(X, y)
@@ -215,15 +281,17 @@ def main() -> None:
                 "importance": best_model.feature_importances_,
             }
         ).sort_values("importance", ascending=False)
-        fi.to_csv(OUTPUT_DIR / "12_best_model_feature_importance.csv", index=False)
+        fi.to_csv(
+            OUTPUT_DIR / f"12_{suffix}_best_model_feature_importance.csv", index=False
+        )
 
     print("\nResumo final do 12")
     print(f"  Melhor modelo: {best_name}")
     print(f"  R2 (CV preditivo): {final_r2:.4f}")
     print(f"  MAE (CV preditivo): {final_mae:.4f}")
     print(f"  RMSE (CV preditivo): {final_rmse:.4f}")
-    print(f"  Ranking salvo em: {OUTPUT_DIR / '12_model_comparison_cv.csv'}")
-    print(f"  Resumo salvo em: {OUTPUT_DIR / '12_best_model_summary.csv'}")
+    print(f"  Ranking salvo em: {OUTPUT_DIR / f'12_{suffix}_model_comparison_cv.csv'}")
+    print(f"  Resumo salvo em: {OUTPUT_DIR / f'12_{suffix}_best_model_summary.csv'}")
 
 
 if __name__ == "__main__":
